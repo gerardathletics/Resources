@@ -17,3 +17,9 @@ This repository pretends to gather different interesting resources for GIS or DS
 <!-- tocstop -->
 
 </details>
+
+<details>
+  <summary><b>QGIS</b> (click to expand)</summary>
+* [Mejorando tu productividad cartográfica en QGIS](https://youtu.be/8hNLuSVNQvY)
+
+</details>
