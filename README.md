@@ -43,6 +43,8 @@ This repository pretends to gather different interesting resources for GIS or DS
 * [Maps With R and GGplot 2 30DayMapChallenge(Examples)](https://statnmap.com/2019-11-08-30daymapchallenge-building-maps-1/) - 
 * [GeoComputation in R](https://geocompr.robinlovelace.net/intro.html)
 * [GGplot Tutorial (Evolution of a ggplot)](https://cedricscherer.netlify.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/)
+* [How to interactively position Legend and Layout Elements](https://rgeomatic.hypotheses.org/1837)
+
 
 </details>
 
@@ -59,7 +61,7 @@ This repository pretends to gather different interesting resources for GIS or DS
   <summary><b>Other</b> </summary>
   
 * [Intro to Postgis](https://postgis.net/workshops/postgis-intro/)
-* [Creating Shaded Relief in Blender](https://somethingaboutmaps.wordpress.com/2017/11/16/creating-shaded-relief-in-blender/amp/?__twitter_impression=true)
-* [Blender GIS (With OSM Data)](https://youtu.be/YNtKnmRXVlo) - Youtube Video
+* [Getting Started with web 3D ArcGIS JavaScript API](https://github.com/RalucaNicola/get-started-arcgis-js-api/blob/master/README.md) - Github Repo
+* [Repo Jornadas SIG Libre Sigte-UDG](https://github.com/SIGTE-UdG/jornadassiglibre) - Github Repo
 
 </details>
