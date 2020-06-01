@@ -45,6 +45,7 @@ This repository pretends to gather different interesting resources for GIS or DS
 * [OSMnx Isochrones](http://kuanbutts.com/2017/12/16/osmnx-isochrones/)
 * [Geopyter - Geographical Python Teaching Resource](https://github.com/pysal/geopyter/blob/master/README.md)
 * [Kepler.GL and JupyterNotebook - GeoSpatial Data Visualization](https://towardsdatascience.com/kepler-gl-jupyter-notebooks-geospatial-data-visualization-with-ubers-opensource-kepler-gl-b1c2423d066f)
+* [Interactive Geospatial Data Visualization with Geoviews in Python](https://towardsdatascience.com/interactive-geospatial-data-visualization-with-geoviews-in-python-7d5335c8efd1)
 
 </details>
 
@@ -81,29 +82,22 @@ This repository pretends to gather different interesting resources for GIS or DS
 <details>
   <summary><b>Data</b> </summary>
   
-* [Intro to Postgis](https://postgis.net/workshops/postgis-intro/)
-* [Getting Started with web 3D ArcGIS JavaScript API](https://github.com/RalucaNicola/get-started-arcgis-js-api/blob/master/README.md) - Github Repo
-* [Repo Jornadas SIG Libre Sigte-UDG](https://github.com/SIGTE-UdG/jornadassiglibre) - Github Repo
-* [Crear Sección Transversal 3D con Inkscape](https://geoinnova.org/blog-territorio/como-crear-una-seccion-transversal-3d-fotorrealista-con-inkscape/amp/#click=https://t.co/vEtYB7cYD4)
-* [Open Source Software for Preprocessing GIS Data for Hydrological Models](https://ocw.un-ihe.org/course/view.php?id=11&section=0)
+* [10 Fuentes de datos GIS gratis: raster y vectoriales](https://mappinggis.com/2012/05/datos-cartograficos/)
 
 </details>
 
 <details>
   <summary><b>Tools</b> </summary>
   
-* [10 Fuentes de datos GIS gratis: raster y vectoriales](https://mappinggis.com/2012/05/datos-cartograficos/)
-* [Getting Started with web 3D ArcGIS JavaScript API](https://github.com/RalucaNicola/get-started-arcgis-js-api/blob/master/README.md) - Github Repo
+* [Intro to Postgis](https://postgis.net/workshops/postgis-intro/)
 * [Repo Jornadas SIG Libre Sigte-UDG](https://github.com/SIGTE-UdG/jornadassiglibre) - Github Repo
-* [Crear Sección Transversal 3D con Inkscape](https://geoinnova.org/blog-territorio/como-crear-una-seccion-transversal-3d-fotorrealista-con-inkscape/amp/#click=https://t.co/vEtYB7cYD4)
-* [Open Source Software for Preprocessing GIS Data for Hydrological Models](https://ocw.un-ihe.org/course/view.php?id=11&section=0)
+
 
 </details>
 
 <details>
   <summary><b>Other</b> </summary>
   
-* [Intro to Postgis](https://postgis.net/workshops/postgis-intro/)
 * [Getting Started with web 3D ArcGIS JavaScript API](https://github.com/RalucaNicola/get-started-arcgis-js-api/blob/master/README.md) - Github Repo
 * [Repo Jornadas SIG Libre Sigte-UDG](https://github.com/SIGTE-UdG/jornadassiglibre) - Github Repo
 * [Crear Sección Transversal 3D con Inkscape](https://geoinnova.org/blog-territorio/como-crear-una-seccion-transversal-3d-fotorrealista-con-inkscape/amp/#click=https://t.co/vEtYB7cYD4)
