@@ -3,7 +3,8 @@ This repository pretends to gather different interesting resources for GIS or DS
 
 <details>
   <summary><b>General Cartography - GIS</b> </summary>
-
+  
+* [Geoteca: Libros y repositorios SIG](http://www.gisandbeers.com/geoteca-libros-herramientas-gis/)
 * [How to make a beautiful map](https://medium.com/@borism/how-to-make-a-beautiful-map-6d6776a20a48)
 * [Shaded Relief Tutorials](http://www.shadedrelief.com/tutorials.html)
 * [Relief Shading Techniques](http://www.reliefshading.com/)
@@ -13,6 +14,7 @@ This repository pretends to gather different interesting resources for GIS or DS
 * [Cartography Guide and Design](https://www.axismaps.com/guide/)
 * [Hussein Nasser - Free GIS Tutorials](https://www.husseinnasser.com/p/youtube.html?m=1)
 * [GIS Programming Roadmap](https://github.com/petedannemann/GIS-Programming-Roadmap/blob/master/README.md) - Github repo
+* [A Cartography Laboratory made by Ramiro Aznar](http://www.cartography-lab.com/)
 
 </details>
 
@@ -36,7 +38,7 @@ This repository pretends to gather different interesting resources for GIS or DS
 </details>
 
 <details>
-  <summary><b>GIS PYTHON</b> </summary>
+  <summary><b>PYTHON</b> </summary>
   
 * [Introducing GEEMap in Python](https://www.youtube.com/watch?v=h0pz3S6Tvx0&list=PLAxJ4-o7ZoPccOFv1dCwvGI6TYnirRTg3&index=1) - Youtube Video
 * [Automating GIS Processes](https://automating-gis-processes.github.io/site/)
@@ -46,11 +48,14 @@ This repository pretends to gather different interesting resources for GIS or DS
 * [Geopyter - Geographical Python Teaching Resource](https://github.com/pysal/geopyter/blob/master/README.md)
 * [Kepler.GL and JupyterNotebook - GeoSpatial Data Visualization](https://towardsdatascience.com/kepler-gl-jupyter-notebooks-geospatial-data-visualization-with-ubers-opensource-kepler-gl-b1c2423d066f)
 * [Interactive Geospatial Data Visualization with Geoviews in Python](https://towardsdatascience.com/interactive-geospatial-data-visualization-with-geoviews-in-python-7d5335c8efd1)
+* [Super-quick interactive data & parameter exploration](https://anitagraser.com/2020/04/12/super-quick-interactive-data-parameter-exploration/amp/)
+* [Urban Measuring Morphology Toolkit](https://github.com/martinfleis/momepy/blob/master/README.md) - Github Repo
+* [tools, tutorials, code, helpful projects, links, stuff about Earth Observation and Geospatial](https://github.com/acgeospatial/awesome-earthobservation-code/blob/master/README.md) - Github Repo
 
 </details>
 
 <details>
-  <summary><b>GIS R</b> </summary>
+  <summary><b>R</b> </summary>
   
 * [Z3tt 30DayMapChallenge Repo (Examples)](https://github.com/Z3tt/30DayMapChallenge) - Github Repo
 * [Bob Rudis - 30DayMapChallenge Tutorials](https://rud.is/books/30-day-map-challenge/)
@@ -63,6 +68,7 @@ This repository pretends to gather different interesting resources for GIS or DS
 * [gkaramanis Tidy Tuesday (Examples)](https://github.com/gkaramanis/tidytuesday) - Github Repo
 * [Pathtracing Neon Landscapes in R](https://www.tylermw.com/pathtracing-neon-landscapes-in-r/) 
 * [Paquetes de R para GIS mas utilizados](https://mappinggis.com/2019/12/los-paquetes-de-r-para-gis-mas-utilizados/) 
+* [DataViz Classes](https://datavizm20.classes.andrewheiss.com/) 
 
 </details>
 
@@ -80,9 +86,14 @@ This repository pretends to gather different interesting resources for GIS or DS
 </details>
 
 <details>
-  <summary><b>Data</b> </summary>
+  <summary><b>Data, Research, Conferences</b> </summary>
   
 * [10 Fuentes de datos GIS gratis: raster y vectoriales](https://mappinggis.com/2012/05/datos-cartograficos/)
+* [Tesis doctorales en España que incluyen SIG como termino principal](http://www.nosolosig.com/articulos/1053-tesis-doctorales-en-espana-que-incluyen-sistemas-de-informacion-geografica-como-termino-principal-2015-2018)
+* [Repo Jornadas SIG Libre Sigte-UDG](https://github.com/SIGTE-UdG/jornadassiglibre) - Github Repo
+* [QGIS User Conference 2019](https://spatialthoughts.com/2019/03/08/qgis-user-conference-2019/amp/)
+* [How to do Map Stuff 2020](https://docs.google.com/spreadsheets/d/1TYCFBE5dnIW127Uu_aMVjWGJ_0vBB8RX-4UTqZDoric/edit#gid=0)
+* [Copernicus EU DEM](https://land.copernicus.eu/imagery-in-situ/eu-dem/eu-dem-v1.1/view)
 
 </details>
 
@@ -90,17 +101,17 @@ This repository pretends to gather different interesting resources for GIS or DS
   <summary><b>Tools</b> </summary>
   
 * [Intro to Postgis](https://postgis.net/workshops/postgis-intro/)
-* [Repo Jornadas SIG Libre Sigte-UDG](https://github.com/SIGTE-UdG/jornadassiglibre) - Github Repo
 
 
 </details>
 
 <details>
-  <summary><b>Other</b> </summary>
+  <summary><b>Other GIS</b> </summary>
   
 * [Getting Started with web 3D ArcGIS JavaScript API](https://github.com/RalucaNicola/get-started-arcgis-js-api/blob/master/README.md) - Github Repo
-* [Repo Jornadas SIG Libre Sigte-UDG](https://github.com/SIGTE-UdG/jornadassiglibre) - Github Repo
 * [Crear Sección Transversal 3D con Inkscape](https://geoinnova.org/blog-territorio/como-crear-una-seccion-transversal-3d-fotorrealista-con-inkscape/amp/#click=https://t.co/vEtYB7cYD4)
 * [Open Source Software for Preprocessing GIS Data for Hydrological Models](https://ocw.un-ihe.org/course/view.php?id=11&section=0)
+* [GIS IN SUSTAINABLE URBAN PLANNING AND MANAGEMENT: A GLOBAL PERSPECTIVE](https://www.itc.nl/urbangis/)
+* [Portable Open Source GIS](https://www.archaeogeek.com/blog/portable-gis-6-dot-0/)
 
 </details>
