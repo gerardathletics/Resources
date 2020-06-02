@@ -33,7 +33,7 @@ This repository pretends to gather different interesting resources for GIS or DS
 * [Instalar Librerias Externas Python en QGIS](https://www.cursosgis.com/instalar-librerias-externas-de-python-en-qgis/)
 * [Generacion Isocronas utilizando plugins QGIS](https://youtu.be/djN3NxyFcQQ) - Youtube Video
 * [REPORT QGIS: UN ESEMPIO AVANZATO](https://pigrecoinfinito.com/2018/12/11/report-qgis-un-esempio-avanzato/amp/?__twitter_impression=true)
-* [ntroduction to QGIS Python programming for non-programmers](https://anitagraser.com/pyqgis-101-introduction-to-qgis-python-programming-for-non-programmers/)
+* [Introduction to QGIS Python programming for non-programmers](https://anitagraser.com/pyqgis-101-introduction-to-qgis-python-programming-for-non-programmers/)
 
 </details>
 
@@ -51,6 +51,7 @@ This repository pretends to gather different interesting resources for GIS or DS
 * [Super-quick interactive data & parameter exploration](https://anitagraser.com/2020/04/12/super-quick-interactive-data-parameter-exploration/amp/)
 * [Urban Measuring Morphology Toolkit](https://github.com/martinfleis/momepy/blob/master/README.md) - Github Repo
 * [tools, tutorials, code, helpful projects, links, stuff about Earth Observation and Geospatial](https://github.com/acgeospatial/awesome-earthobservation-code/blob/master/README.md) - Github Repo
+* [EarthPy: Paquete de python para plotear y trabajar con datos espaciales](https://mappinggis.com/2020/04/earthpy-un-paquete-de-python-para-plotear-y-trabajar-con-datos-espaciales/)
 
 </details>
 
@@ -113,5 +114,7 @@ This repository pretends to gather different interesting resources for GIS or DS
 * [Open Source Software for Preprocessing GIS Data for Hydrological Models](https://ocw.un-ihe.org/course/view.php?id=11&section=0)
 * [GIS IN SUSTAINABLE URBAN PLANNING AND MANAGEMENT: A GLOBAL PERSPECTIVE](https://www.itc.nl/urbangis/)
 * [Portable Open Source GIS](https://www.archaeogeek.com/blog/portable-gis-6-dot-0/)
+* [Collection of cities scripts that can be added to roads](https://github.com/anvaka/city-script)
+
 
 </details>
