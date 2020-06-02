@@ -34,6 +34,7 @@ This repository pretends to gather different interesting resources for GIS or DS
 * [Generacion Isocronas utilizando plugins QGIS](https://youtu.be/djN3NxyFcQQ) - Youtube Video
 * [REPORT QGIS: UN ESEMPIO AVANZATO](https://pigrecoinfinito.com/2018/12/11/report-qgis-un-esempio-avanzato/amp/?__twitter_impression=true)
 * [Introduction to QGIS Python programming for non-programmers](https://anitagraser.com/pyqgis-101-introduction-to-qgis-python-programming-for-non-programmers/)
+* [Customizing QGIS with Python (Course Material)](https://courses.spatialthoughts.com/pyqgis-in-a-day.html)
 
 </details>
 
@@ -70,6 +71,7 @@ This repository pretends to gather different interesting resources for GIS or DS
 * [Pathtracing Neon Landscapes in R](https://www.tylermw.com/pathtracing-neon-landscapes-in-r/) 
 * [Paquetes de R para GIS mas utilizados](https://mappinggis.com/2019/12/los-paquetes-de-r-para-gis-mas-utilizados/) 
 * [DataViz Classes](https://datavizm20.classes.andrewheiss.com/) 
+* [List Awesome R Libraries](https://github.com/Ronlee12355/Road2R) - Github Repo
 
 </details>
 
