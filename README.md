@@ -97,6 +97,7 @@ This repository pretends to gather different interesting resources for GIS or DS
 * [QGIS User Conference 2019](https://spatialthoughts.com/2019/03/08/qgis-user-conference-2019/amp/)
 * [How to do Map Stuff 2020](https://docs.google.com/spreadsheets/d/1TYCFBE5dnIW127Uu_aMVjWGJ_0vBB8RX-4UTqZDoric/edit#gid=0)
 * [Copernicus EU DEM](https://land.copernicus.eu/imagery-in-situ/eu-dem/eu-dem-v1.1/view)
+* [30DayMapChallenge Data- Tjukanovt](https://github.com/tjukanovt/30DayMapChallenge) - Github Repo
 
 </details>
 
