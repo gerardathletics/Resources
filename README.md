@@ -1,10 +1,11 @@
 # Resources
-This repository pretends to gather different interesting resources for GIS or DS projects.
+This repository pretends to gather different interesting resources for GIS, DS and programming projects.
 
 <details>
   <summary><b>General Cartography - GIS</b> </summary>
   
 * [Geoteca: Libros y repositorios SIG](http://www.gisandbeers.com/geoteca-libros-herramientas-gis/)
+* [GIS Cheatsheets](https://github.com/DigitalDataServices/gis-cheatsheets/blob/master/README.md#table-of-contents)
 * [How to make a beautiful map](https://medium.com/@borism/how-to-make-a-beautiful-map-6d6776a20a48)
 * [Shaded Relief Tutorials](http://www.shadedrelief.com/tutorials.html)
 * [Relief Shading Techniques](http://www.reliefshading.com/)
@@ -15,6 +16,8 @@ This repository pretends to gather different interesting resources for GIS or DS
 * [Hussein Nasser - Free GIS Tutorials](https://www.husseinnasser.com/p/youtube.html?m=1)
 * [GIS Programming Roadmap](https://github.com/petedannemann/GIS-Programming-Roadmap/blob/master/README.md) - Github repo
 * [A Cartography Laboratory made by Ramiro Aznar](http://www.cartography-lab.com/)
+* [WebMapping Notes (Dani Arribas)](http://darribas.org/wmn/)
+
 
 </details>
 
@@ -35,6 +38,7 @@ This repository pretends to gather different interesting resources for GIS or DS
 * [REPORT QGIS: UN ESEMPIO AVANZATO](https://pigrecoinfinito.com/2018/12/11/report-qgis-un-esempio-avanzato/amp/?__twitter_impression=true)
 * [Introduction to QGIS Python programming for non-programmers](https://anitagraser.com/pyqgis-101-introduction-to-qgis-python-programming-for-non-programmers/)
 * [Customizing QGIS with Python (Course Material)](https://courses.spatialthoughts.com/pyqgis-in-a-day.html)
+* [MapTiler QGIS Plugin](https://www.maptiler.com/news/2020/06/say-hello-to-the-new-qgis-plugin/?utm_campaign=qgis-plugin&utm_content=131407013&utm_medium=social&utm_source=twitter&hss_channel=tw-46369870)
 
 </details>
 
@@ -53,6 +57,9 @@ This repository pretends to gather different interesting resources for GIS or DS
 * [Urban Measuring Morphology Toolkit](https://github.com/martinfleis/momepy/blob/master/README.md) - Github Repo
 * [tools, tutorials, code, helpful projects, links, stuff about Earth Observation and Geospatial](https://github.com/acgeospatial/awesome-earthobservation-code/blob/master/README.md) - Github Repo
 * [EarthPy: Paquete de python para plotear y trabajar con datos espaciales](https://mappinggis.com/2020/04/earthpy-un-paquete-de-python-para-plotear-y-trabajar-con-datos-espaciales/)
+* [Data Analysis with Python Course 2020](https://csmastersuh.github.io/data_analysis_with_python_2020/)
+* [QGIS Tutorial Postgis](https://www.youtube.com/watch?v=_EgtELrjLO4&feature=youtu.be) - Youtube Video
+
 
 </details>
 
@@ -72,6 +79,10 @@ This repository pretends to gather different interesting resources for GIS or DS
 * [Paquetes de R para GIS mas utilizados](https://mappinggis.com/2019/12/los-paquetes-de-r-para-gis-mas-utilizados/) 
 * [DataViz Classes](https://datavizm20.classes.andrewheiss.com/) 
 * [List Awesome R Libraries](https://github.com/Ronlee12355/Road2R) - Github Repo
+* [Introduction to Landscape Ecology with R](https://r-spatialecology.github.io/ialena-2020/#1) 
+* [Autoplotly Library: Automatic Generation of Interactive Visualizations](https://github.com/terrytangyuan/autoplotly) - Github Repo
+* [RGEE example](https://csaybar.github.io/blog/2020/06/15/rgee_02_io/) 
+
 
 </details>
 
@@ -105,12 +116,13 @@ This repository pretends to gather different interesting resources for GIS or DS
   <summary><b>Tools</b> </summary>
   
 * [Intro to Postgis](https://postgis.net/workshops/postgis-intro/)
+* [Esri Sentinel Explorer](https://sentinel2explorer.esri.com/)
 
 
 </details>
 
 <details>
-  <summary><b>Other GIS</b> </summary>
+  <summary><b>Other</b> </summary>
   
 * [Getting Started with web 3D ArcGIS JavaScript API](https://github.com/RalucaNicola/get-started-arcgis-js-api/blob/master/README.md) - Github Repo
 * [Crear Sección Transversal 3D con Inkscape](https://geoinnova.org/blog-territorio/como-crear-una-seccion-transversal-3d-fotorrealista-con-inkscape/amp/#click=https://t.co/vEtYB7cYD4)
@@ -118,6 +130,12 @@ This repository pretends to gather different interesting resources for GIS or DS
 * [GIS IN SUSTAINABLE URBAN PLANNING AND MANAGEMENT: A GLOBAL PERSPECTIVE](https://www.itc.nl/urbangis/)
 * [Portable Open Source GIS](https://www.archaeogeek.com/blog/portable-gis-6-dot-0/)
 * [Collection of cities scripts that can be added to roads](https://github.com/anvaka/city-script)
+* [Programming Interview Questions (All languages)](https://github.com/MaximAbramchuck/awesome-interview-questions) - Github Repo
+* [Serverless Stack - Free Step by Step Tutorials for creating full-stack apps](https://serverless-stack.com/)
+* [How to write an essay well](https://www.julian.com/guide/write/intro)
+* [High-Res 3D Human Digitization from a single image](https://github.com/facebookresearch/pifuhd) - Github Repo
+* [AI Hub](https://aihub.cloud.google.com/)
+
 
 
 </details>
