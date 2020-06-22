@@ -39,6 +39,10 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Introduction to QGIS Python programming for non-programmers](https://anitagraser.com/pyqgis-101-introduction-to-qgis-python-programming-for-non-programmers/)
 * [Customizing QGIS with Python (Course Material)](https://courses.spatialthoughts.com/pyqgis-in-a-day.html)
 * [MapTiler QGIS Plugin](https://www.maptiler.com/news/2020/06/say-hello-to-the-new-qgis-plugin/?utm_campaign=qgis-plugin&utm_content=131407013&utm_medium=social&utm_source=twitter&hss_channel=tw-46369870)
+* [Bivariate Choroplets QGIS - BNHR](https://bnhr.xyz/2019/09/15/bivariate-choropleths-in-qgis.html)
+* [Bivariate Choroplets QGIS - Joshua Stevens](https://www.joshuastevens.net/cartography/make-a-bivariate-choropleth-map/)
+* [QGIS Expressions Documentation](https://gist.githack.com/ThomasG77/0c6862fb2b6b3fc301ea994733688ea5/raw/99ecc5e6127e7238814da330a4d5d0b9fa2afe4e/qgis-3-12-expressions-single-page.html)
+* [Legend for continuous Raster](https://ecodiv.earth/post/legend-for-continuous-raster-in-qgis-composer/)
 
 </details>
 
@@ -96,6 +100,8 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Blender Landscapes Tutorial](https://youtu.be/oeVUWTSkAlk) - Youtube Video
 * [Lily texture packer](https://gumroad.com/l/DFExj)
 * [Population Density 3D QGIS+Aerialod](http://www.statsmapsnpix.com/2020/04/population-density-in-europe.html?m=1)
+* [Photorealistic Shaded Relief Blender](https://www.barthoekstra.com/blog/photo-realistic-shaded-relief-using-blender)
+
 
 </details>
 
