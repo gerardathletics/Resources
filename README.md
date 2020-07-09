@@ -18,6 +18,8 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [A Cartography Laboratory made by Ramiro Aznar](http://www.cartography-lab.com/)
 * [WebMapping Notes (Dani Arribas)](http://darribas.org/wmn/)
 * [Mapzilla - Tutorials animating in Houdini](https://mapzilla.co.uk/tutorials)
+* [SciVisColor - Color Tools and strategies](https://sciviscolor.org/)
+* [Scientific Color Maps - Coloramps](http://www.fabiocrameri.ch/colourmaps.php)
 
 
 </details>
