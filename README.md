@@ -17,6 +17,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [GIS Programming Roadmap](https://github.com/petedannemann/GIS-Programming-Roadmap/blob/master/README.md) - Github repo
 * [A Cartography Laboratory made by Ramiro Aznar](http://www.cartography-lab.com/)
 * [WebMapping Notes (Dani Arribas)](http://darribas.org/wmn/)
+* [Mapzilla - Tutorials animating in Houdini](https://mapzilla.co.uk/tutorials)
 
 
 </details>
@@ -62,7 +63,8 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [tools, tutorials, code, helpful projects, links, stuff about Earth Observation and Geospatial](https://github.com/acgeospatial/awesome-earthobservation-code/blob/master/README.md) - Github Repo
 * [EarthPy: Paquete de python para plotear y trabajar con datos espaciales](https://mappinggis.com/2020/04/earthpy-un-paquete-de-python-para-plotear-y-trabajar-con-datos-espaciales/)
 * [Data Analysis with Python Course 2020](https://csmastersuh.github.io/data_analysis_with_python_2020/)
-* [QGIS Tutorial Postgis](https://www.youtube.com/watch?v=_EgtELrjLO4&feature=youtu.be) - Youtube Video
+* [Python Web Scraping with Scrapy](https://www.youtube.com/playlist?list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t&app=desktop) - Youtube Video
+* [Competitive Programming Course](https://algo.is/)
 
 
 </details>
@@ -86,6 +88,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Introduction to Landscape Ecology with R](https://r-spatialecology.github.io/ialena-2020/#1) 
 * [Autoplotly Library: Automatic Generation of Interactive Visualizations](https://github.com/terrytangyuan/autoplotly) - Github Repo
 * [RGEE example](https://csaybar.github.io/blog/2020/06/15/rgee_02_io/) 
+* [Animated Graphs in R - DataSlice Youtube](https://www.youtube.com/watch?v=SnCi0s0e4Io&feature=youtu.be) 
 
 
 </details>
@@ -141,6 +144,9 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [How to write an essay well](https://www.julian.com/guide/write/intro)
 * [High-Res 3D Human Digitization from a single image](https://github.com/facebookresearch/pifuhd) - Github Repo
 * [AI Hub](https://aihub.cloud.google.com/)
+* [Deploy Machine Learning Models With Django](https://www.deploymachinelearning.com/)
+* [How to embed visualizations in power point](https://academy.datawrapper.de/article/269-how-to-embed-visualizations-in-powerpoint-presentations)
+
 
 
 
