@@ -46,6 +46,8 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Bivariate Choroplets QGIS - Joshua Stevens](https://www.joshuastevens.net/cartography/make-a-bivariate-choropleth-map/)
 * [QGIS Expressions Documentation](https://gist.githack.com/ThomasG77/0c6862fb2b6b3fc301ea994733688ea5/raw/99ecc5e6127e7238814da330a4d5d0b9fa2afe4e/qgis-3-12-expressions-single-page.html)
 * [Legend for continuous Raster](https://ecodiv.earth/post/legend-for-continuous-raster-in-qgis-composer/)
+* [Create hillshade 3D views of scanned topographical maps](https://www.youtube.com/watch?v=dcx8-m2nHpI&feature=youtu.be)
+
 
 </details>
 
