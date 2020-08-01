@@ -108,6 +108,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Lily texture packer](https://gumroad.com/l/DFExj)
 * [Population Density 3D QGIS+Aerialod](http://www.statsmapsnpix.com/2020/04/population-density-in-europe.html?m=1)
 * [Photorealistic Shaded Relief Blender](https://www.barthoekstra.com/blog/photo-realistic-shaded-relief-using-blender)
+* [Hillshade 3D of Scanned Topographic Maps in QGIS](https://youtu.be/dcx8-m2nHpI)
 
 
 </details>
@@ -122,6 +123,8 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [How to do Map Stuff 2020](https://docs.google.com/spreadsheets/d/1TYCFBE5dnIW127Uu_aMVjWGJ_0vBB8RX-4UTqZDoric/edit#gid=0)
 * [Copernicus EU DEM](https://land.copernicus.eu/imagery-in-situ/eu-dem/eu-dem-v1.1/view)
 * [30DayMapChallenge Data- Tjukanovt](https://github.com/tjukanovt/30DayMapChallenge) - Github Repo
+* [RS Index Database](https://www.indexdatabase.de/)
+
 
 </details>
 
@@ -150,6 +153,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [AI Hub](https://aihub.cloud.google.com/)
 * [Deploy Machine Learning Models With Django](https://www.deploymachinelearning.com/)
 * [How to embed visualizations in power point](https://academy.datawrapper.de/article/269-how-to-embed-visualizations-in-powerpoint-presentations)
+* [Geopois - GIS Developer Network](https://geopois.com/developer-network)
 
 
 
