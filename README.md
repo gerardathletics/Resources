@@ -9,7 +9,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [How to make a beautiful map](https://medium.com/@borism/how-to-make-a-beautiful-map-6d6776a20a48)
 * [Shaded Relief Tutorials](http://www.shadedrelief.com/tutorials.html)
 * [Relief Shading Techniques](http://www.reliefshading.com/)
-* [open.gis.lab](https://opengislab.com/)- Interesting "Gis-lab" with different tutorials|
+* [open.gis.lab](https://opengislab.com/) - Interesting "Gis-lab" with different tutorials|
 * [Imhoff-Like Topography Style](https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/steal-this-imhof-like-topography-style-please/)
 * [Smart Type Halos in Photoshop and Illustrator](https://somethingaboutmaps.wordpress.com/2018/10/28/smart-type-halos-in-photoshop-and-illustrator/amp/)
 * [Cartography Guide and Design](https://www.axismaps.com/guide/)
@@ -46,7 +46,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Bivariate Choroplets QGIS - Joshua Stevens](https://www.joshuastevens.net/cartography/make-a-bivariate-choropleth-map/)
 * [QGIS Expressions Documentation](https://gist.githack.com/ThomasG77/0c6862fb2b6b3fc301ea994733688ea5/raw/99ecc5e6127e7238814da330a4d5d0b9fa2afe4e/qgis-3-12-expressions-single-page.html)
 * [Legend for continuous Raster](https://ecodiv.earth/post/legend-for-continuous-raster-in-qgis-composer/)
-* [Create hillshade 3D views of scanned topographical maps](https://www.youtube.com/watch?v=dcx8-m2nHpI&feature=youtu.be)
+* [Create hillshade 3D views of scanned topographical maps](https://www.youtube.com/watch?v=dcx8-m2nHpI&feature=youtu.be) - Youtube Video
 
 
 </details>
@@ -55,7 +55,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
   <summary><b>PYTHON</b> </summary>
   
 * [Introducing GEEMap in Python](https://www.youtube.com/watch?v=h0pz3S6Tvx0&list=PLAxJ4-o7ZoPccOFv1dCwvGI6TYnirRTg3&index=1) - Youtube Video
-* [Automating GIS Processes](https://automating-gis-processes.github.io/site/)
+* [Automating GIS Processes](https://automating-gis-processes.github.io/site/) - Github 
 * [OSMnx Python for Street Networks](https://geoffboeing.com/2016/11/osmnx-python-street-networks/?utm_campaign=nosolosig146&utm_medium=email&utm_source=mailing273)
 * [Pandas Tips I wish I knew Before](https://towardsdatascience.com/pandas-tips-i-wish-i-knew-before-ef4ea6a39e1a)
 * [OSMnx Isochrones](http://kuanbutts.com/2017/12/16/osmnx-isochrones/)
@@ -91,8 +91,8 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [List Awesome R Libraries](https://github.com/Ronlee12355/Road2R) - Github Repo
 * [Introduction to Landscape Ecology with R](https://r-spatialecology.github.io/ialena-2020/#1) 
 * [Autoplotly Library: Automatic Generation of Interactive Visualizations](https://github.com/terrytangyuan/autoplotly) - Github Repo
-* [RGEE example](https://csaybar.github.io/blog/2020/06/15/rgee_02_io/) 
-* [Animated Graphs in R - DataSlice Youtube](https://www.youtube.com/watch?v=SnCi0s0e4Io&feature=youtu.be) 
+* [RGEE example](https://csaybar.github.io/blog/2020/06/15/rgee_02_io/) - Github 
+* [Animated Graphs in R - DataSlice Youtube](https://www.youtube.com/watch?v=SnCi0s0e4Io&feature=youtu.be) - Youtube Video
 
 
 </details>
@@ -108,7 +108,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Lily texture packer](https://gumroad.com/l/DFExj)
 * [Population Density 3D QGIS+Aerialod](http://www.statsmapsnpix.com/2020/04/population-density-in-europe.html?m=1)
 * [Photorealistic Shaded Relief Blender](https://www.barthoekstra.com/blog/photo-realistic-shaded-relief-using-blender)
-* [Hillshade 3D of Scanned Topographic Maps in QGIS](https://youtu.be/dcx8-m2nHpI)
+* [Hillshade 3D of Scanned Topographic Maps in QGIS](https://youtu.be/dcx8-m2nHpI) - Youtube Video
 
 
 </details>
@@ -145,7 +145,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Open Source Software for Preprocessing GIS Data for Hydrological Models](https://ocw.un-ihe.org/course/view.php?id=11&section=0)
 * [GIS IN SUSTAINABLE URBAN PLANNING AND MANAGEMENT: A GLOBAL PERSPECTIVE](https://www.itc.nl/urbangis/)
 * [Portable Open Source GIS](https://www.archaeogeek.com/blog/portable-gis-6-dot-0/)
-* [Collection of cities scripts that can be added to roads](https://github.com/anvaka/city-script)
+* [Collection of cities scripts that can be added to roads](https://github.com/anvaka/city-script) - Github
 * [Programming Interview Questions (All languages)](https://github.com/MaximAbramchuck/awesome-interview-questions) - Github Repo
 * [Serverless Stack - Free Step by Step Tutorials for creating full-stack apps](https://serverless-stack.com/)
 * [How to write an essay well](https://www.julian.com/guide/write/intro)
