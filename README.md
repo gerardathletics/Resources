@@ -112,6 +112,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Population Density 3D QGIS+Aerialod](http://www.statsmapsnpix.com/2020/04/population-density-in-europe.html?m=1)
 * [Photorealistic Shaded Relief Blender](https://www.barthoekstra.com/blog/photo-realistic-shaded-relief-using-blender)
 * [Hillshade 3D of Scanned Topographic Maps in QGIS](https://youtu.be/dcx8-m2nHpI) - Youtube Video
+* [3D Realistic Online Renderer](https://w3reality.github.io/three-geo/examples/geo-viewer/io/index.html?)
 
 
 </details>
