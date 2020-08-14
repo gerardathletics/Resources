@@ -55,6 +55,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Create hillshade 3D views of scanned topographical maps](https://www.youtube.com/watch?v=dcx8-m2nHpI&feature=youtu.be) - Youtube Video
 * [QGIS Hub: Layout and Styles](http://qgis-hub.fast-page.org/index.php)
 * :es: - [QGIS Intro to PostGIS](https://www.youtube.com/watch?v=_EgtELrjLO4&utm_campaign=nosolosig&utm_medium=email&utm_source=mailing583) - Youtube Video
+* :es: - [Simbologia Multiple Mediante Expresiones](https://geoinnova.org/blog-territorio/simbologia-multiple-en-qgis-mediante-expresiones/?utm_campaign=nosolosig&utm_medium=email&utm_source=mailing645)
 
 
 </details>
