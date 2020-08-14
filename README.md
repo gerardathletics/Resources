@@ -20,6 +20,8 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Mapzilla - Tutorials animating in Houdini](https://mapzilla.co.uk/tutorials)
 * [SciVisColor - Color Tools and strategies](https://sciviscolor.org/)
 * [Scientific Color Maps - Coloramps](http://www.fabiocrameri.ch/colourmaps.php)
+* [ArcgisPro - Design a classic map](https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/homage-to-a-classic-map/)
+
 
 
 </details>
