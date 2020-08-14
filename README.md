@@ -76,6 +76,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Data Analysis with Python Course 2020](https://csmastersuh.github.io/data_analysis_with_python_2020/)
 * [Python Web Scraping with Scrapy](https://www.youtube.com/playlist?list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t&app=desktop) - Youtube Video
 * [Competitive Programming Course](https://algo.is/)
+* [Maps in 2.5D with python geopandas](https://medium.com/@gamoles/crea-un-mapa-en-proyeccion-2-5d-796ffd068e0d)
 
 
 </details>
