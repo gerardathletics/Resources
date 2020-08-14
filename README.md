@@ -54,6 +54,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Legend for continuous Raster](https://ecodiv.earth/post/legend-for-continuous-raster-in-qgis-composer/)
 * [Create hillshade 3D views of scanned topographical maps](https://www.youtube.com/watch?v=dcx8-m2nHpI&feature=youtu.be) - Youtube Video
 * [QGIS Hub: Layout and Styles](http://qgis-hub.fast-page.org/index.php)
+* :es: - [QGIS Intro to PostGIS](https://www.youtube.com/watch?v=_EgtELrjLO4&utm_campaign=nosolosig&utm_medium=email&utm_source=mailing583) - Youtube Video
 
 
 </details>
@@ -101,6 +102,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Autoplotly Library: Automatic Generation of Interactive Visualizations](https://github.com/terrytangyuan/autoplotly) - Github Repo
 * [RGEE example](https://csaybar.github.io/blog/2020/06/15/rgee_02_io/) - Github 
 * [Animated Graphs in R - DataSlice Youtube](https://www.youtube.com/watch?v=SnCi0s0e4Io&feature=youtu.be) - Youtube Video
+* :es: - [Acceder a Tweets desde R](https://geoinnova.org/blog-territorio/como-crear-una-app-de-twitter-para-poder-acceder-a-tweets-a-traves-de-r/?utm_campaign=nosolosig&utm_medium=email&utm_source=mailing495)
 
 
 </details>
