@@ -130,7 +130,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Copernicus EU DEM](https://land.copernicus.eu/imagery-in-situ/eu-dem/eu-dem-v1.1/view)
 * [30DayMapChallenge Data- Tjukanovt](https://github.com/tjukanovt/30DayMapChallenge) - Github Repo
 * [RS Index Database](https://www.indexdatabase.de/)
-* [RS Index Database](https://www.indexdatabase.de/)
+* [FOSS4G 2019 Presentations](https://github.com/os-geoinformatics/foss4g2019?utm_campaign=Spatial%20Awareness&utm_medium=email&utm_source=Revue%20newsletter)
 
 </details>
 
