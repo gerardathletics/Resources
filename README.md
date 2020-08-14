@@ -21,6 +21,8 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [SciVisColor - Color Tools and strategies](https://sciviscolor.org/)
 * [Scientific Color Maps - Coloramps](http://www.fabiocrameri.ch/colourmaps.php)
 * [ArcgisPro - Design a classic map](https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/homage-to-a-classic-map/)
+* [Geopois: Tutoriales SIG - Red de Geo-developers](https://geopois.com/)
+
 
 
 
@@ -128,7 +130,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Copernicus EU DEM](https://land.copernicus.eu/imagery-in-situ/eu-dem/eu-dem-v1.1/view)
 * [30DayMapChallenge Data- Tjukanovt](https://github.com/tjukanovt/30DayMapChallenge) - Github Repo
 * [RS Index Database](https://www.indexdatabase.de/)
-
+* [RS Index Database](https://www.indexdatabase.de/)
 
 </details>
 
