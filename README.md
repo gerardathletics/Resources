@@ -1,5 +1,5 @@
 # Resources
-This repository pretends to gather different interesting resources for GIS, DS and programming projects.
+This repository pretends to gather different interesting resources for GIS, DS and programming projects. Some of the resources may be in spanish. 
 
 <details>
   <summary><b>General Cartography - GIS</b> </summary>
