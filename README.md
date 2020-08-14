@@ -22,6 +22,8 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Scientific Color Maps - Coloramps](http://www.fabiocrameri.ch/colourmaps.php)
 * [ArcgisPro - Design a classic map](https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/homage-to-a-classic-map/)
 * [Geopois: Tutoriales SIG - Red de Geo-developers](https://geopois.com/)
+* [How to scale data](https://earthobservatory.nasa.gov/blogs/elegantfigures/2014/07/29/adjusting-the-range-how-to-scale-data/?utm_campaign=Spatial%20Awareness&utm_medium=email&utm_source=Revue%20newsletter)
+
 
 
 
