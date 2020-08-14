@@ -160,6 +160,8 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Deploy Machine Learning Models With Django](https://www.deploymachinelearning.com/)
 * [How to embed visualizations in power point](https://academy.datawrapper.de/article/269-how-to-embed-visualizations-in-powerpoint-presentations)
 * [Geopois - GIS Developer Network](https://geopois.com/developer-network)
+* [Data Visualization with D3.js - Full Tutorial Course](https://www.youtube.com/watch?v=_8V5o2UHG0E&list=WL&index=101&t=39244s)
+
 
 
 
