@@ -152,8 +152,10 @@ This repository pretends to gather different interesting resources for GIS, DS a
 <details>
   <summary><b>Other</b> </summary>
   
+* [Public APIs](https://github.com/public-apis/public-apis) - Github Repo
+* [WebMapping Workbook](https://github.com/uwcartlab/webmapping) - Github Repo
 * [Getting Started with web 3D ArcGIS JavaScript API](https://github.com/RalucaNicola/get-started-arcgis-js-api/blob/master/README.md) - Github Repo
-* [Crear Sección Transversal 3D con Inkscape](https://geoinnova.org/blog-territorio/como-crear-una-seccion-transversal-3d-fotorrealista-con-inkscape/amp/#click=https://t.co/vEtYB7cYD4)
+* :es: - [Crear Sección Transversal 3D con Inkscape](https://geoinnova.org/blog-territorio/como-crear-una-seccion-transversal-3d-fotorrealista-con-inkscape/amp/#click=https://t.co/vEtYB7cYD4)
 * [Open Source Software for Preprocessing GIS Data for Hydrological Models](https://ocw.un-ihe.org/course/view.php?id=11&section=0)
 * [GIS IN SUSTAINABLE URBAN PLANNING AND MANAGEMENT: A GLOBAL PERSPECTIVE](https://www.itc.nl/urbangis/)
 * [Portable Open Source GIS](https://www.archaeogeek.com/blog/portable-gis-6-dot-0/)
