@@ -23,6 +23,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [ArcgisPro - Design a classic map](https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/homage-to-a-classic-map/)
 * [Geopois: Tutoriales SIG - Red de Geo-developers](https://geopois.com/)
 * [How to scale data](https://earthobservatory.nasa.gov/blogs/elegantfigures/2014/07/29/adjusting-the-range-how-to-scale-data/?utm_campaign=Spatial%20Awareness&utm_medium=email&utm_source=Revue%20newsletter)
+* [Cartography Font Collection](https://www.typography.com/fonts/styles/cartography?utm_campaign=nosolosig&utm_medium=email&utm_source=mailing773)
 
 
 
