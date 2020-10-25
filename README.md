@@ -31,7 +31,6 @@ This repository pretends to gather different interesting resources for GIS, DS a
   <summary><b>Design and colors</b> </summary>
 
 * [SciVisColor - Color Tools and strategies](https://sciviscolor.org/)
-</details>
 * [Scientific Color Maps - Coloramps](http://www.fabiocrameri.ch/colourmaps.php)
 * [Color Brewer Maps](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
 * [Color Palette Helper](https://gka.github.io/palettes/#/9|s|00429d,96ffea,ffffe0|ffffe0,ff005e,93003a|1|1)
@@ -39,10 +38,8 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Color Picker for Data](http://tristen.ca/hcl-picker/#/clh/9/0.32/590709/EAA489)
 * [Paletton - Color Scheme Designer](http://www.paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
 * [Bivariate Color Matrix Maps](https://cartoscience.github.io/bivariate-color-matrix/)
-* [Scientific Color Maps - Coloramps](http://www.fabiocrameri.ch/colourmaps.php)
-* [Scientific Color Maps - Coloramps](http://www.fabiocrameri.ch/colourmaps.php)
-* [Scientific Color Maps - Coloramps](http://www.fabiocrameri.ch/colourmaps.php)
 
+</details>
 
 <details>
   <summary><b>QGIS</b> </summary>
