@@ -115,6 +115,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [RGEE example](https://csaybar.github.io/blog/2020/06/15/rgee_02_io/) - Github 
 * [Animated Graphs in R - DataSlice Youtube](https://www.youtube.com/watch?v=SnCi0s0e4Io&feature=youtu.be) - Youtube Video
 * :es: - [Acceder a Tweets desde R](https://geoinnova.org/blog-territorio/como-crear-una-app-de-twitter-para-poder-acceder-a-tweets-a-traves-de-r/?utm_campaign=nosolosig&utm_medium=email&utm_source=mailing495)
+* [Calculating distance from the see in R](https://dominicroye.github.io/en/2019/calculating-the-distance-to-the-sea-in-r/)
 
 
 </details>
@@ -132,6 +133,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Photorealistic Shaded Relief Blender](https://www.barthoekstra.com/blog/photo-realistic-shaded-relief-using-blender)
 * [Hillshade 3D of Scanned Topographic Maps in QGIS](https://youtu.be/dcx8-m2nHpI) - Youtube Video
 * [3D Realistic Online Renderer](https://w3reality.github.io/three-geo/examples/geo-viewer/io/index.html?)
+* :es: - [Descargar areas de Google Maps 3D](https://twitter.com/kohantoys/status/1327350941327249408?s=19) - Hilo Twitter
 
 
 </details>
