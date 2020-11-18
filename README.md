@@ -135,7 +135,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [3D Realistic Online Renderer](https://w3reality.github.io/three-geo/examples/geo-viewer/io/index.html?)
 * :es: - [Descargar areas de Google Maps 3D](https://twitter.com/kohantoys/status/1327350941327249408?s=19) - Hilo Twitter
 * [Create DEM and Hillshade from anywhere](https://terradactile.sparkgeo.com/)
-
+* [Google Earth Web](https://earth.google.com/web/)
 
 </details>
 
