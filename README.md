@@ -159,6 +159,8 @@ This repository pretends to gather different interesting resources for GIS, DS a
   
 * [Intro to Postgis](https://postgis.net/workshops/postgis-intro/)
 * [Esri Sentinel Explorer](https://sentinel2explorer.esri.com/)
+* [Create DEM and Hillshade from anywhere](https://terradactile.sparkgeo.com/)
+* [CartoGrid - Create Grids and download](https://cartogrid.vercel.app/)
 
 
 </details>
