@@ -134,6 +134,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Hillshade 3D of Scanned Topographic Maps in QGIS](https://youtu.be/dcx8-m2nHpI) - Youtube Video
 * [3D Realistic Online Renderer](https://w3reality.github.io/three-geo/examples/geo-viewer/io/index.html?)
 * :es: - [Descargar areas de Google Maps 3D](https://twitter.com/kohantoys/status/1327350941327249408?s=19) - Hilo Twitter
+* [Create DEM and Hillshade from anywhere](https://terradactile.sparkgeo.com/)
 
 
 </details>
