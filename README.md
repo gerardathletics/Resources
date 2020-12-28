@@ -67,6 +67,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [QGIS Hub: Layout and Styles](http://qgis-hub.fast-page.org/index.php)
 * :es: - [QGIS Intro to PostGIS](https://www.youtube.com/watch?v=_EgtELrjLO4&utm_campaign=nosolosig&utm_medium=email&utm_source=mailing583) - Youtube Video
 * :es: - [Simbologia Multiple Mediante Expresiones](https://geoinnova.org/blog-territorio/simbologia-multiple-en-qgis-mediante-expresiones/?utm_campaign=nosolosig&utm_medium=email&utm_source=mailing645)
+* [Almost Real Time Live Data Visualization in QGIS](https://www.geodose.com/2020/09/realtime%20live%20data%20visualization%20qgis.html?m=1p)
 
 
 </details>
@@ -90,6 +91,8 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Python Web Scraping with Scrapy](https://www.youtube.com/playlist?list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t&app=desktop) - Youtube Video
 * [Competitive Programming Course](https://algo.is/)
 * [Maps in 2.5D with python geopandas](https://medium.com/@gamoles/crea-un-mapa-en-proyeccion-2-5d-796ffd068e0d)
+* [Plotting large point CSV files quickly interactively](https://anitagraser.com/2020/12/06/plotting-large-point-csv-files-quickly-interactively/amp/)
+* [Calculating walk scores with python](https://toarches.medium.com/calculating-walk-scores-with-python-7cea11813d4d)
 
 
 </details>
@@ -116,6 +119,8 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Animated Graphs in R - DataSlice Youtube](https://www.youtube.com/watch?v=SnCi0s0e4Io&feature=youtu.be) - Youtube Video
 * :es: - [Acceder a Tweets desde R](https://geoinnova.org/blog-territorio/como-crear-una-app-de-twitter-para-poder-acceder-a-tweets-a-traves-de-r/?utm_campaign=nosolosig&utm_medium=email&utm_source=mailing495)
 * [Calculating distance from the see in R](https://dominicroye.github.io/en/2019/calculating-the-distance-to-the-sea-in-r/)
+* [My visual CV in R](https://adomingues.github.io/2020/11/25/visual-cv/)
+* [OSMR R package](https://github.com/rcarto/osrm) - Github Repo
 
 
 </details>
@@ -136,6 +141,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * :es: - [Descargar areas de Google Maps 3D](https://twitter.com/kohantoys/status/1327350941327249408?s=19) - Hilo Twitter
 * [Create DEM and Hillshade from anywhere](https://terradactile.sparkgeo.com/)
 * [Google Earth Web](https://earth.google.com/web/)
+* [3D Glasses Analagryph / Crossview - 3D Map](https://steveattewell.com/stereomap/)
 
 </details>
 
@@ -151,6 +157,8 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [30DayMapChallenge Data- Tjukanovt](https://github.com/tjukanovt/30DayMapChallenge) - Github Repo
 * [RS Index Database](https://www.indexdatabase.de/)
 * [FOSS4G 2019 Presentations](https://github.com/os-geoinformatics/foss4g2019?utm_campaign=Spatial%20Awareness&utm_medium=email&utm_source=Revue%20newsletter)
+* [A reproducible notebook to acquire, process and analyse satellite imagery](https://openjournals.wu.ac.at/ojs/index.php/region/article/view/295)
+* [Geographic Data Science with Python](https://geographicdata.science/book/intro.html#) - Book
 
 </details>
 
@@ -185,6 +193,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [How to embed visualizations in power point](https://academy.datawrapper.de/article/269-how-to-embed-visualizations-in-powerpoint-presentations)
 * [Geopois - GIS Developer Network](https://geopois.com/developer-network)
 * [Data Visualization with D3.js - Full Tutorial Course](https://www.youtube.com/watch?v=_8V5o2UHG0E&list=WL&index=101&t=39244s)
+* [Geostatistics Lessons](http://www.geostatisticslessons.com/)
 
 
 
