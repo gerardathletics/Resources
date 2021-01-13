@@ -68,6 +68,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * :es: - [QGIS Intro to PostGIS](https://www.youtube.com/watch?v=_EgtELrjLO4&utm_campaign=nosolosig&utm_medium=email&utm_source=mailing583) - Youtube Video
 * :es: - [Simbologia Multiple Mediante Expresiones](https://geoinnova.org/blog-territorio/simbologia-multiple-en-qgis-mediante-expresiones/?utm_campaign=nosolosig&utm_medium=email&utm_source=mailing645)
 * [Almost Real Time Live Data Visualization in QGIS](https://www.geodose.com/2020/09/realtime%20live%20data%20visualization%20qgis.html?m=1p)
+* :es: - [Dashboard con QGIS](https://www.linkedin.com/pulse/taller-de-dashboard-con-qgis-desktop-mauricio-marquez/?utm_campaign=nosolosig&utm_medium=email&utm_source=mailing793)
 
 
 </details>
@@ -194,7 +195,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Geopois - GIS Developer Network](https://geopois.com/developer-network)
 * [Data Visualization with D3.js - Full Tutorial Course](https://www.youtube.com/watch?v=_8V5o2UHG0E&list=WL&index=101&t=39244s)
 * [Geostatistics Lessons](http://www.geostatisticslessons.com/)
-
+* :es: - [Apuntes de Topografía](https://topografia2.com/apuntes-topografia/?utm_campaign=nosolosig&utm_medium=email&utm_source=mailing793)
 
 
 
