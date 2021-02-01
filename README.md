@@ -70,6 +70,8 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Almost Real Time Live Data Visualization in QGIS](https://www.geodose.com/2020/09/realtime%20live%20data%20visualization%20qgis.html?m=1p)
 * :es: - [Dashboard con QGIS](https://www.linkedin.com/pulse/taller-de-dashboard-con-qgis-desktop-mauricio-marquez/?utm_campaign=nosolosig&utm_medium=email&utm_source=mailing793)
 * [QGIS Tutorials and Tips](http://www.qgistutorials.com/en/)
+* [QGIS Open Day 2021](https://github.com/qgis/QGIS/wiki/QHF-January-2021#qgis-network-analysis)
+
 
 </details>
 
@@ -160,6 +162,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [FOSS4G 2019 Presentations](https://github.com/os-geoinformatics/foss4g2019?utm_campaign=Spatial%20Awareness&utm_medium=email&utm_source=Revue%20newsletter)
 * [A reproducible notebook to acquire, process and analyse satellite imagery](https://openjournals.wu.ac.at/ojs/index.php/region/article/view/295)
 * [Geographic Data Science with Python](https://geographicdata.science/book/intro.html#) - Book
+* [QGIS Open Day 2021](https://github.com/qgis/QGIS/wiki/QHF-January-2021#qgis-network-analysis)
 
 </details>
 
