@@ -125,6 +125,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Calculating distance from the see in R](https://dominicroye.github.io/en/2019/calculating-the-distance-to-the-sea-in-r/)
 * [My visual CV in R](https://adomingues.github.io/2020/11/25/visual-cv/)
 * [OSMR R package](https://github.com/rcarto/osrm) - Github Repo
+* [Map my Run in R](https://bryer.org/post/2021-02-15-map_my_run_in_r/)
 
 
 </details>
