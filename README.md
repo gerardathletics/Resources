@@ -96,6 +96,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Maps in 2.5D with python geopandas](https://medium.com/@gamoles/crea-un-mapa-en-proyeccion-2-5d-796ffd068e0d)
 * [Plotting large point CSV files quickly interactively](https://anitagraser.com/2020/12/06/plotting-large-point-csv-files-quickly-interactively/amp/)
 * [Calculating walk scores with python](https://toarches.medium.com/calculating-walk-scores-with-python-7cea11813d4d)
+* :es: - [Cómo construir una base de datos Postgis con Python y Geoalchemy](https://gidahatari.com/ih-es/como-construir-una-base-de-datos-postgis-con-python-y-geoalchemy-con-conexion-a-qgis3-tutorial?utm_campaign=nosolosig&utm_medium=email&utm_source=mailing800)
 
 
 </details>
