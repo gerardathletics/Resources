@@ -147,6 +147,8 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Create DEM and Hillshade from anywhere](https://terradactile.sparkgeo.com/)
 * [Google Earth Web](https://earth.google.com/web/)
 * [3D Glasses Analagryph / Crossview - 3D Map](https://steveattewell.com/stereomap/)
+* [Step by step 3D render maps with satellite imagery in R](https://www.tylermw.com/a-step-by-step-guide-to-making-3d-maps-with-satellite-imagery-in-r/)
+
 
 </details>
 
@@ -201,6 +203,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Data Visualization with D3.js - Full Tutorial Course](https://www.youtube.com/watch?v=_8V5o2UHG0E&list=WL&index=101&t=39244s)
 * [Geostatistics Lessons](http://www.geostatisticslessons.com/)
 * :es: - [Apuntes de Topografía](https://topografia2.com/apuntes-topografia/?utm_campaign=nosolosig&utm_medium=email&utm_source=mailing793)
+* [All things around maps](https://github.com/ThomasG77/all-things-around-maps/) - Github Repo
 
 
 
