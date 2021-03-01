@@ -167,6 +167,8 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [A reproducible notebook to acquire, process and analyse satellite imagery](https://openjournals.wu.ac.at/ojs/index.php/region/article/view/295)
 * [Geographic Data Science with Python](https://geographicdata.science/book/intro.html#) - Book
 * [QGIS Open Day 2021](https://github.com/qgis/QGIS/wiki/QHF-January-2021#qgis-network-analysis)
+* [2600+ Open Data Portals Around the World](https://www.opendatasoft.com/blog/2015/11/02/how-we-put-together-a-list-of-1600-open-data-portals-around-the-world-to-help-open-data-community)
+* [Free GIS Data](http://freegisdata.rtwilson.com/)
 
 </details>
 
