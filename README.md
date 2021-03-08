@@ -16,20 +16,17 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Hussein Nasser - Free GIS Tutorials](https://www.husseinnasser.com/p/youtube.html?m=1)
 * [GIS Programming Roadmap](https://github.com/petedannemann/GIS-Programming-Roadmap/blob/master/README.md) - Github repo
 * [A Cartography Laboratory made by Ramiro Aznar](http://www.cartography-lab.com/)
-* [WebMapping Notes (Dani Arribas)](http://darribas.org/wmn/)
 * [Mapzilla - Tutorials animating in Houdini](https://mapzilla.co.uk/tutorials)
-* [SciVisColor - Color Tools and strategies](https://sciviscolor.org/)
-* [Scientific Color Maps - Coloramps](http://www.fabiocrameri.ch/colourmaps.php)
 * [ArcgisPro - Design a classic map](https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/homage-to-a-classic-map/)
-* [Geopois: Tutoriales SIG - Red de Geo-developers](https://geopois.com/)
+:es: - * [Geopois: Tutoriales SIG - Red de Geo-developers](https://geopois.com/)
 * [How to scale data](https://earthobservatory.nasa.gov/blogs/elegantfigures/2014/07/29/adjusting-the-range-how-to-scale-data/?utm_campaign=Spatial%20Awareness&utm_medium=email&utm_source=Revue%20newsletter)
 * [Cartography Font Collection](https://www.typography.com/fonts/styles/cartography?utm_campaign=nosolosig&utm_medium=email&utm_source=mailing773)
 
 </details>
 
 <details>
-  <summary><b>Design and colors</b> </summary>
-
+  <summary><b>Palettes and colors</b> </summary>
+  
 * [SciVisColor - Color Tools and strategies](https://sciviscolor.org/)
 * [Scientific Color Maps - Coloramps](http://www.fabiocrameri.ch/colourmaps.php)
 * [Color Brewer Maps](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
@@ -38,6 +35,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Color Picker for Data](http://tristen.ca/hcl-picker/#/clh/9/0.32/590709/EAA489)
 * [Paletton - Color Scheme Designer](http://www.paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
 * [Bivariate Color Matrix Maps](https://cartoscience.github.io/bivariate-color-matrix/)
+
 
 </details>
 
@@ -180,7 +178,12 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Esri Sentinel Explorer](https://sentinel2explorer.esri.com/)
 * [Create DEM and Hillshade from anywhere](https://terradactile.sparkgeo.com/)
 * [CartoGrid - Create Grids and download](https://cartogrid.vercel.app/)
+</details>
 
+<details>
+  <summary><b>Webmapping</b> </summary>
+* [WebMapping Notes (Dani Arribas)](http://darribas.org/wmn/)
+* [WebMapping Workbook](https://github.com/uwcartlab/webmapping) - Github Repo
 
 </details>
 
@@ -188,7 +191,6 @@ This repository pretends to gather different interesting resources for GIS, DS a
   <summary><b>Other</b> </summary>
   
 * [Public APIs](https://github.com/public-apis/public-apis) - Github Repo
-* [WebMapping Workbook](https://github.com/uwcartlab/webmapping) - Github Repo
 * [Getting Started with web 3D ArcGIS JavaScript API](https://github.com/RalucaNicola/get-started-arcgis-js-api/blob/master/README.md) - Github Repo
 * :es: - [Crear Sección Transversal 3D con Inkscape](https://geoinnova.org/blog-territorio/como-crear-una-seccion-transversal-3d-fotorrealista-con-inkscape/amp/#click=https://t.co/vEtYB7cYD4)
 * [Open Source Software for Preprocessing GIS Data for Hydrological Models](https://ocw.un-ihe.org/course/view.php?id=11&section=0)
