@@ -145,14 +145,19 @@ This repository pretends to gather different interesting resources for GIS, DS a
 <details>
   <summary><b>3D Renders</b> </summary>
   
+<b>Blender</b>
 * [Blender Relief Tutorial: Blender Basics](https://somethingaboutmaps.wordpress.com/blender-relief-tutorial-blender-basics/)
 * [Creating Shaded Relief in Blender](https://somethingaboutmaps.wordpress.com/2017/11/16/creating-shaded-relief-in-blender/amp/?__twitter_impression=true)
 * [Blender GIS (With OSM Data)](https://youtu.be/YNtKnmRXVlo) - Youtube Video
-* [3D Landscape with Aerialod](http://www.statsmapsnpix.com/2020/03/making-3d-landscape-and-city-models.html?m=1)
 * [Blender Landscapes Tutorial](https://youtu.be/oeVUWTSkAlk) - Youtube Video
 * [Lily texture packer](https://gumroad.com/l/DFExj)
-* [Population Density 3D QGIS+Aerialod](http://www.statsmapsnpix.com/2020/04/population-density-in-europe.html?m=1)
 * [Photorealistic Shaded Relief Blender](https://www.barthoekstra.com/blog/photo-realistic-shaded-relief-using-blender)
+
+<b>Aerialod</b>
+* [3D Landscape with Aerialod](http://www.statsmapsnpix.com/2020/03/making-3d-landscape-and-city-models.html?m=1)
+* [Population Density 3D QGIS+Aerialod](http://www.statsmapsnpix.com/2020/04/population-density-in-europe.html?m=1)
+
+<b>Other</b>
 * [Hillshade 3D of Scanned Topographic Maps in QGIS](https://youtu.be/dcx8-m2nHpI) - Youtube Video
 * [3D Realistic Online Renderer](https://w3reality.github.io/three-geo/examples/geo-viewer/io/index.html?)
 * :es: - [Descargar areas de Google Maps 3D](https://twitter.com/kohantoys/status/1327350941327249408?s=19) - Hilo Twitter
