@@ -3,24 +3,28 @@ This repository pretends to gather different interesting resources for GIS, DS a
 
 <details>
   <summary><b>General Cartography - GIS</b> </summary>
+<b>Resources </b>
   
 * :es: - [Geoteca: Libros y repositorios SIG](http://www.gisandbeers.com/geoteca-libros-herramientas-gis/)
+* [Hussein Nasser - Free GIS Tutorials](https://www.husseinnasser.com/p/youtube.html?m=1)
+* [Open.gis.lab](https://opengislab.com/)
+* :es: - [Geopois: Tutoriales SIG - Red de Geo-developers](https://geopois.com/)
+* [A Cartography Laboratory made by Ramiro Aznar](http://www.cartography-lab.com/)
 * [GIS Cheatsheets](https://github.com/DigitalDataServices/gis-cheatsheets/blob/master/README.md#table-of-contents)
+* [Cartography Font Collection](https://www.typography.com/fonts/styles/cartography?utm_campaign=nosolosig&utm_medium=email&utm_source=mailing773)
+
+<b>Tutorials and tips</b>
+
 * [How to make a beautiful map](https://medium.com/@borism/how-to-make-a-beautiful-map-6d6776a20a48)
 * [Shaded Relief Tutorials](http://www.shadedrelief.com/tutorials.html)
 * [Relief Shading Techniques](http://www.reliefshading.com/)
-* [open.gis.lab](https://opengislab.com/) - Interesting "Gis-lab" with different tutorials|
 * [Imhoff-Like Topography Style](https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/steal-this-imhof-like-topography-style-please/)
 * [Smart Type Halos in Photoshop and Illustrator](https://somethingaboutmaps.wordpress.com/2018/10/28/smart-type-halos-in-photoshop-and-illustrator/amp/)
 * [Cartography Guide and Design](https://www.axismaps.com/guide/)
-* [Hussein Nasser - Free GIS Tutorials](https://www.husseinnasser.com/p/youtube.html?m=1)
 * [GIS Programming Roadmap](https://github.com/petedannemann/GIS-Programming-Roadmap/blob/master/README.md) - Github repo
-* [A Cartography Laboratory made by Ramiro Aznar](http://www.cartography-lab.com/)
 * [Mapzilla - Tutorials animating in Houdini](https://mapzilla.co.uk/tutorials)
 * [ArcgisPro - Design a classic map](https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/homage-to-a-classic-map/)
-:es: - * [Geopois: Tutoriales SIG - Red de Geo-developers](https://geopois.com/)
 * [How to scale data](https://earthobservatory.nasa.gov/blogs/elegantfigures/2014/07/29/adjusting-the-range-how-to-scale-data/?utm_campaign=Spatial%20Awareness&utm_medium=email&utm_source=Revue%20newsletter)
-* [Cartography Font Collection](https://www.typography.com/fonts/styles/cartography?utm_campaign=nosolosig&utm_medium=email&utm_source=mailing773)
 
 </details>
 
