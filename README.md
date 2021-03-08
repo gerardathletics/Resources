@@ -71,6 +71,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * :es: - [Dashboard con QGIS](https://www.linkedin.com/pulse/taller-de-dashboard-con-qgis-desktop-mauricio-marquez/?utm_campaign=nosolosig&utm_medium=email&utm_source=mailing793)
 * [QGIS Tutorials and Tips](http://www.qgistutorials.com/en/)
 * [QGIS Open Day 2021](https://github.com/qgis/QGIS/wiki/QHF-January-2021#qgis-network-analysis)
+* [Exploring Reports in QGIS](https://north-road.com/2018/01/23/exploring-reports-in-qgis-3-0-the-ultimate-guide/)
 
 
 </details>
