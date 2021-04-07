@@ -39,6 +39,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Color Picker for Data](http://tristen.ca/hcl-picker/#/clh/9/0.32/590709/EAA489)
 * [Paletton - Color Scheme Designer](http://www.paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
 * [Bivariate Color Matrix Maps](https://cartoscience.github.io/bivariate-color-matrix/)
+* [Your friendly guide to colors in Data Visualisation](https://blog.datawrapper.de/colorguide/)
 
 
 </details>
@@ -138,7 +139,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [My visual CV in R](https://adomingues.github.io/2020/11/25/visual-cv/)
 * [OSMR R package](https://github.com/rcarto/osrm) - Github Repo
 * [Map my Run in R](https://bryer.org/post/2021-02-15-map_my_run_in_r/)
-
+* [ggplot Wizardy: Tips and tricks](https://github.com/Z3tt/OutlierConf2021) - Github
 
 </details>
 
@@ -165,6 +166,8 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Google Earth Web](https://earth.google.com/web/)
 * [3D Glasses Analagryph / Crossview - 3D Map](https://steveattewell.com/stereomap/)
 * [Step by step 3D render maps with satellite imagery in R](https://www.tylermw.com/a-step-by-step-guide-to-making-3d-maps-with-satellite-imagery-in-r/)
+* :es: - [Crear Sección Transversal 3D con Inkscape](https://geoinnova.org/blog-territorio/como-crear-una-seccion-transversal-3d-fotorrealista-con-inkscape/amp/#click=https://t.co/vEtYB7cYD4)
+* [Getting Started with web 3D ArcGIS JavaScript API](https://github.com/RalucaNicola/get-started-arcgis-js-api/blob/master/README.md) - Github Repo
 
 
 </details>
@@ -199,9 +202,21 @@ This repository pretends to gather different interesting resources for GIS, DS a
 </details>
 
 <details>
-  <summary><b>Webmapping</b> </summary>
+  <summary><b>Web mapping</b> </summary>
 * [WebMapping Notes (Dani Arribas)](http://darribas.org/wmn/)
 * [WebMapping Workbook](https://github.com/uwcartlab/webmapping) - Github Repo
+* [Getting Started with web 3D ArcGIS JavaScript API](https://github.com/RalucaNicola/get-started-arcgis-js-api/blob/master/README.md) - Github Repo
+* [Data Visualization with D3.js - Full Tutorial Course](https://www.youtube.com/watch?v=_8V5o2UHG0E&list=WL&index=101&t=39244s)
+
+</details>
+
+<details>
+  <summary><b>DS - ML - Stats</b> </summary>
+* [Probabilistic Machine Learning: An Introduction ](https://probml.github.io/pml-book/book1.html)
+* [Bayesian Sats with R](https://oliviergimenez.github.io/bayesian-stats-with-R/)
+* [Deploy Machine Learning Models With Django](https://www.deploymachinelearning.com/)
+* [Geostatistics Lessons](http://www.geostatisticslessons.com/)
+
 
 </details>
 
@@ -209,7 +224,6 @@ This repository pretends to gather different interesting resources for GIS, DS a
   <summary><b>Other</b> </summary>
   
 * [Public APIs](https://github.com/public-apis/public-apis) - Github Repo
-* [Getting Started with web 3D ArcGIS JavaScript API](https://github.com/RalucaNicola/get-started-arcgis-js-api/blob/master/README.md) - Github Repo
 * :es: - [Crear Sección Transversal 3D con Inkscape](https://geoinnova.org/blog-territorio/como-crear-una-seccion-transversal-3d-fotorrealista-con-inkscape/amp/#click=https://t.co/vEtYB7cYD4)
 * [Open Source Software for Preprocessing GIS Data for Hydrological Models](https://ocw.un-ihe.org/course/view.php?id=11&section=0)
 * [GIS IN SUSTAINABLE URBAN PLANNING AND MANAGEMENT: A GLOBAL PERSPECTIVE](https://www.itc.nl/urbangis/)
@@ -220,15 +234,11 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [How to write an essay well](https://www.julian.com/guide/write/intro)
 * [High-Res 3D Human Digitization from a single image](https://github.com/facebookresearch/pifuhd) - Github Repo
 * [AI Hub](https://aihub.cloud.google.com/)
-* [Deploy Machine Learning Models With Django](https://www.deploymachinelearning.com/)
 * [How to embed visualizations in power point](https://academy.datawrapper.de/article/269-how-to-embed-visualizations-in-powerpoint-presentations)
 * [Geopois - GIS Developer Network](https://geopois.com/developer-network)
 * [Data Visualization with D3.js - Full Tutorial Course](https://www.youtube.com/watch?v=_8V5o2UHG0E&list=WL&index=101&t=39244s)
-* [Geostatistics Lessons](http://www.geostatisticslessons.com/)
 * :es: - [Apuntes de Topografía](https://topografia2.com/apuntes-topografia/?utm_campaign=nosolosig&utm_medium=email&utm_source=mailing793)
 * [All things around maps](https://github.com/ThomasG77/all-things-around-maps/) - Github Repo
-
-
 
 
 </details>
