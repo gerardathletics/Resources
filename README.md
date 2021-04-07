@@ -203,6 +203,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 
 <details>
   <summary><b>Web mapping</b> </summary>
+  
 * [WebMapping Notes (Dani Arribas)](http://darribas.org/wmn/)
 * [WebMapping Workbook](https://github.com/uwcartlab/webmapping) - Github Repo
 * [Getting Started with web 3D ArcGIS JavaScript API](https://github.com/RalucaNicola/get-started-arcgis-js-api/blob/master/README.md) - Github Repo
@@ -212,6 +213,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 
 <details>
   <summary><b>DS - ML - Stats</b> </summary>
+  
 * [Probabilistic Machine Learning: An Introduction ](https://probml.github.io/pml-book/book1.html)
 * [Bayesian Sats with R](https://oliviergimenez.github.io/bayesian-stats-with-R/)
 * [Deploy Machine Learning Models With Django](https://www.deploymachinelearning.com/)
