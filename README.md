@@ -25,6 +25,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Mapzilla - Tutorials animating in Houdini](https://mapzilla.co.uk/tutorials)
 * [ArcgisPro - Design a classic map](https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/homage-to-a-classic-map/)
 * [How to scale data](https://earthobservatory.nasa.gov/blogs/elegantfigures/2014/07/29/adjusting-the-range-how-to-scale-data/?utm_campaign=Spatial%20Awareness&utm_medium=email&utm_source=Revue%20newsletter)
+* [ArcGis Blog - One minute map hacks](https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/one-minute-map-hacks-1-5/)
 
 </details>
 
