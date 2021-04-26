@@ -142,6 +142,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [OSMR R package](https://github.com/rcarto/osrm) - Github Repo
 * [Map my Run in R](https://bryer.org/post/2021-02-15-map_my_run_in_r/)
 * [ggplot Wizardy: Tips and tricks](https://github.com/Z3tt/OutlierConf2021) - Github
+* :es: - [Mapa estilo Joy Plot con Qgis y R](https://danielredondo.com/posts/20200125_joy_division/)
 
 </details>
 
