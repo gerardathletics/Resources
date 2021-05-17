@@ -143,6 +143,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Map my Run in R](https://bryer.org/post/2021-02-15-map_my_run_in_r/)
 * [ggplot Wizardy: Tips and tricks](https://github.com/Z3tt/OutlierConf2021) - Github
 * :es: - [Mapa estilo Joy Plot con Qgis y R](https://danielredondo.com/posts/20200125_joy_division/)
+* :es: - [Visualizar crecimiento urbano en España con R](https://dominicroye.github.io/es/2019/visualizar-el-crecimiento-urbano/)
 
 </details>
 
