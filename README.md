@@ -223,6 +223,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Bayesian Sats with R](https://oliviergimenez.github.io/bayesian-stats-with-R/)
 * [Deploy Machine Learning Models With Django](https://www.deploymachinelearning.com/)
 * [Geostatistics Lessons](http://www.geostatisticslessons.com/)
+* :es: - [Data Science Learning Path](https://ds-path.netlify.app/)
 
 
 </details>
