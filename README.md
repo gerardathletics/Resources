@@ -144,7 +144,8 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [ggplot Wizardy: Tips and tricks](https://github.com/Z3tt/OutlierConf2021) - Github
 * :es: - [Mapa estilo Joy Plot con Qgis y R](https://danielredondo.com/posts/20200125_joy_division/)
 * :es: - [Visualizar crecimiento urbano en España con R](https://dominicroye.github.io/es/2019/visualizar-el-crecimiento-urbano/)
-
+* [Intro to R for Journalists - How to find great stories in data](https://journalismcourses.org/course/intro-to-r-for-journalists-how-to-find-great-stories-in-data/)
+  
 </details>
 
 <details>
@@ -178,7 +179,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 </details>
 
 <details>
-  <summary><b>Data, Research, Conferences</b> </summary>
+  <summary><b>Data sources, Research, Conferences</b> </summary>
   
 * :es: - [10 Fuentes de datos GIS gratis: raster y vectoriales](https://mappinggis.com/2012/05/datos-cartograficos/)
 * :es: - [Tesis doctorales en España que incluyen SIG como termino principal](http://www.nosolosig.com/articulos/1053-tesis-doctorales-en-espana-que-incluyen-sistemas-de-informacion-geografica-como-termino-principal-2015-2018)
@@ -226,6 +227,17 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Geostatistics Lessons](http://www.geostatisticslessons.com/)
 * :es: - [Data Science Learning Path](https://ds-path.netlify.app/)
 
+</details>
+
+<details>
+  <summary><b>DataViz</b> </summary>
+  
+* [Probabilistic Machine Learning: An Introduction ](https://probml.github.io/pml-book/book1.html)
+* [Data Visualization with D3.js - Full Tutorial Course](https://www.youtube.com/watch?v=_8V5o2UHG0E&list=WL&index=101&t=39244s)
+* [Your friendly guide to colors in Data Visualisation](https://blog.datawrapper.de/colorguide/)
+* [Data Journalism and Visualization with free tools](https://journalismcourses.org/course/data-journalism-and-visualization-with-free-tools/)
+* [Data Visualization for Storitelling and Discovery](https://journalismcourses.org/course/data-visualization-for-storytelling-and-discovery/)
+
 
 </details>
 
@@ -245,7 +257,6 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [AI Hub](https://aihub.cloud.google.com/)
 * [How to embed visualizations in power point](https://academy.datawrapper.de/article/269-how-to-embed-visualizations-in-powerpoint-presentations)
 * [Geopois - GIS Developer Network](https://geopois.com/developer-network)
-* [Data Visualization with D3.js - Full Tutorial Course](https://www.youtube.com/watch?v=_8V5o2UHG0E&list=WL&index=101&t=39244s)
 * :es: - [Apuntes de Topografía](https://topografia2.com/apuntes-topografia/?utm_campaign=nosolosig&utm_medium=email&utm_source=mailing793)
 * [All things around maps](https://github.com/ThomasG77/all-things-around-maps/) - Github Repo
 
