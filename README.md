@@ -148,7 +148,8 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * :es: - [Mapa estilo Joy Plot con Qgis y R](https://danielredondo.com/posts/20200125_joy_division/)
 * :es: - [Visualizar crecimiento urbano en España con R](https://dominicroye.github.io/es/2019/visualizar-el-crecimiento-urbano/)
 * [Intro to R for Journalists - How to find great stories in data](https://journalismcourses.org/course/intro-to-r-for-journalists-how-to-find-great-stories-in-data/)
-  
+* [Climate animation of Mmaximum temperatures](https://dominicroye.github.io/en/2020/climate-animation-of-maximum-temperatures/)
+
 </details>
 
 <details>
