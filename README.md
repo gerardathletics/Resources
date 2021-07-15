@@ -182,6 +182,8 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Step by step 3D render maps with satellite imagery in R](https://www.tylermw.com/a-step-by-step-guide-to-making-3d-maps-with-satellite-imagery-in-r/)
 * :es: - [Crear Sección Transversal 3D con Inkscape](https://geoinnova.org/blog-territorio/como-crear-una-seccion-transversal-3d-fotorrealista-con-inkscape/amp/#click=https://t.co/vEtYB7cYD4)
 * [Getting Started with web 3D ArcGIS JavaScript API](https://github.com/RalucaNicola/get-started-arcgis-js-api/blob/master/README.md) - Github Repo
+* [Idiots Guide to making 3D maps](https://victimofmaths.github.io/posts/2020/11/3D%20map%20tutorial/)
+
 
 
 </details>
