@@ -117,6 +117,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * :es: - [Delimitación de cuerpos de agua usando IA python y QGIS](https://gidahatari.com/ih-es/delimitacion-de-cuerpos-de-agua-lagos-de-landsat-8-con-inteligencia-artificial-usado-python-y-qgis?utm_campaign=nosolosig&utm_medium=email&utm_source=mailing806)
 * [Analyze OpenStreetMap Data with OSMnx and OmniSci Free](https://www.omnisci.com/blog/analyze-openstreetmap-data-with-osmnx-and-omnisci-free?utm_source=reddit&utm_medium=social&utm_campaign=technical-content&utm_term=analyze-openstreetmap-data-with-osmnx-and-omnisci-free&utm_content=blog)
 * [70+ Python projects for beginners, intermediate and experienced developers](https://www.theinsaneapp.com/2021/06/list-of-python-projects-with-source-code-and-tutorials.html)
+* [Ridge Map Tutorial](https://github.com/ColCarroll/ridge_map?)
 
 </details>
 
