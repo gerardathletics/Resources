@@ -56,6 +56,8 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Animated Flight Maps QGIS](https://spatialthoughts.com/2019/03/21/animated-flight-lines/amp/#click=https://t.co/GSWAuHwoxu)
 * [How to create an animation map using open source software](https://www.geodose.com/2019/11/how-to-create-animation-map.html?m=1)
 * [Almost Real Time Live Data Visualization in QGIS](https://www.geodose.com/2020/09/realtime%20live%20data%20visualization%20qgis.html?m=1p)
+* [Animated routes with QGIS](https://medium.com/@tjukanov/animated-routes-with-qgis-9377c1f16021) - Medium
+
 
 <b>QGIS Programming</b>
 * :es: - [Instalar Librerias Externas Python en QGIS](https://www.cursosgis.com/instalar-librerias-externas-de-python-en-qgis/)
