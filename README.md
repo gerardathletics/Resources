@@ -154,6 +154,9 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Intro to R for Journalists - How to find great stories in data](https://journalismcourses.org/course/intro-to-r-for-journalists-how-to-find-great-stories-in-data/)
 * [Climate animation of Mmaximum temperatures](https://dominicroye.github.io/en/2020/climate-animation-of-maximum-temperatures/)
 * [Firefly Cartography](https://dominicroye.github.io/en/2021/firefly-cartography/)
+* :es: - [Crear animaciones con R y gganimate](https://anderfernandez.com/blog/como-crear-animaciones-en-r-con-gganimate/)
+
+  
 
 
 </details>
