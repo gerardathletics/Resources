@@ -97,67 +97,73 @@ This repository pretends to gather different interesting resources for GIS, DS a
 <details>
   <summary><b>PYTHON</b> </summary>
   
+<b>Geo</b>
 * [Introducing GEEMap in Python](https://www.youtube.com/watch?v=h0pz3S6Tvx0&list=PLAxJ4-o7ZoPccOFv1dCwvGI6TYnirRTg3&index=1) - Youtube Video
 * [Automating GIS Processes](https://automating-gis-processes.github.io/site/) - Github 
 * [OSMnx Python for Street Networks](https://geoffboeing.com/2016/11/osmnx-python-street-networks/?utm_campaign=nosolosig146&utm_medium=email&utm_source=mailing273)
-* [Pandas Tips I wish I knew Before](https://towardsdatascience.com/pandas-tips-i-wish-i-knew-before-ef4ea6a39e1a)
 * [OSMnx Isochrones](http://kuanbutts.com/2017/12/16/osmnx-isochrones/)
 * [Geopyter - Geographical Python Teaching Resource](https://github.com/pysal/geopyter/blob/master/README.md)
 * [Kepler.GL and JupyterNotebook - GeoSpatial Data Visualization](https://towardsdatascience.com/kepler-gl-jupyter-notebooks-geospatial-data-visualization-with-ubers-opensource-kepler-gl-b1c2423d066f)
 * [Interactive Geospatial Data Visualization with Geoviews in Python](https://towardsdatascience.com/interactive-geospatial-data-visualization-with-geoviews-in-python-7d5335c8efd1)
-* [Super-quick interactive data & parameter exploration](https://anitagraser.com/2020/04/12/super-quick-interactive-data-parameter-exploration/amp/)
 * [Urban Measuring Morphology Toolkit](https://github.com/martinfleis/momepy/blob/master/README.md) - Github Repo
 * [tools, tutorials, code, helpful projects, links, stuff about Earth Observation and Geospatial](https://github.com/acgeospatial/awesome-earthobservation-code/blob/master/README.md) - Github Repo
 * [EarthPy: Paquete de python para plotear y trabajar con datos espaciales](https://mappinggis.com/2020/04/earthpy-un-paquete-de-python-para-plotear-y-trabajar-con-datos-espaciales/)
-* [Data Analysis with Python Course 2020](https://csmastersuh.github.io/data_analysis_with_python_2020/)
-* [Python Web Scraping with Scrapy](https://www.youtube.com/playlist?list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t&app=desktop) - Youtube Video
-* [Competitive Programming Course](https://algo.is/)
 * [Maps in 2.5D with python geopandas](https://medium.com/@gamoles/crea-un-mapa-en-proyeccion-2-5d-796ffd068e0d)
 * [Plotting large point CSV files quickly interactively](https://anitagraser.com/2020/12/06/plotting-large-point-csv-files-quickly-interactively/amp/)
 * [Calculating walk scores with python](https://toarches.medium.com/calculating-walk-scores-with-python-7cea11813d4d)
 * :es: - [Cómo construir una base de datos Postgis con Python y Geoalchemy](https://gidahatari.com/ih-es/como-construir-una-base-de-datos-postgis-con-python-y-geoalchemy-con-conexion-a-qgis3-tutorial?utm_campaign=nosolosig&utm_medium=email&utm_source=mailing800)
 * :es: - [Delimitación de cuerpos de agua usando IA python y QGIS](https://gidahatari.com/ih-es/delimitacion-de-cuerpos-de-agua-lagos-de-landsat-8-con-inteligencia-artificial-usado-python-y-qgis?utm_campaign=nosolosig&utm_medium=email&utm_source=mailing806)
 * [Analyze OpenStreetMap Data with OSMnx and OmniSci Free](https://www.omnisci.com/blog/analyze-openstreetmap-data-with-osmnx-and-omnisci-free?utm_source=reddit&utm_medium=social&utm_campaign=technical-content&utm_term=analyze-openstreetmap-data-with-osmnx-and-omnisci-free&utm_content=blog)
-* [70+ Python projects for beginners, intermediate and experienced developers](https://www.theinsaneapp.com/2021/06/list-of-python-projects-with-source-code-and-tutorials.html)
 * [Ridge Map Tutorial](https://github.com/ColCarroll/ridge_map?)
+  
+<b>Data and other</b>
+* [Pandas Tips I wish I knew Before](https://towardsdatascience.com/pandas-tips-i-wish-i-knew-before-ef4ea6a39e1a)
+* [Super-quick interactive data & parameter exploration](https://anitagraser.com/2020/04/12/super-quick-interactive-data-parameter-exploration/amp/)
+* [Data Analysis with Python Course 2020](https://csmastersuh.github.io/data_analysis_with_python_2020/)
+* [Python Web Scraping with Scrapy](https://www.youtube.com/playlist?list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t&app=desktop) - Youtube Video
+* [Competitive Programming Course](https://algo.is/)
+* [70+ Python projects for beginners, intermediate and experienced developers](https://www.theinsaneapp.com/2021/06/list-of-python-projects-with-source-code-and-tutorials.html)
 
 </details>
 
 <details>
   <summary><b>R</b> </summary>
-  
+
+<b>Geo</b>
 * [Z3tt 30DayMapChallenge Repo (Examples)](https://github.com/Z3tt/30DayMapChallenge) - Github Repo
 * [Bob Rudis - 30DayMapChallenge Tutorials](https://rud.is/books/30-day-map-challenge/)
 * [Maps With R and GGplot 2 30DayMapChallenge(Examples)](https://statnmap.com/2019-11-08-30daymapchallenge-building-maps-1/) - 
 * [GeoComputation in R](https://geocompr.robinlovelace.net/intro.html)
-* [GGplot Tutorial (Evolution of a ggplot)](https://cedricscherer.netlify.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/)
-* [How to interactively position Legend and Layout Elements](https://rgeomatic.hypotheses.org/1837)
-* :es: - [Mapas de coropletas, cartogramas y animados en R](https://mappinggis.com/2020/03/mapas-de-coropletas-cartogramas-y-mapas-animados-con-r/)
+  * :es: - [Mapas de coropletas, cartogramas y animados en R](https://mappinggis.com/2020/03/mapas-de-coropletas-cartogramas-y-mapas-animados-con-r/)
 * [GEE in RStudio with Reticulate](https://philippgaertner.github.io/2019/12/earth-engine-rstudio-reticulate/#disqus_thread)
-* [gkaramanis Tidy Tuesday (Examples)](https://github.com/gkaramanis/tidytuesday) - Github Repo
 * [Pathtracing Neon Landscapes in R](https://www.tylermw.com/pathtracing-neon-landscapes-in-r/) 
 * :es: - [Paquetes de R para GIS mas utilizados](https://mappinggis.com/2019/12/los-paquetes-de-r-para-gis-mas-utilizados/) 
-* [DataViz Classes](https://datavizm20.classes.andrewheiss.com/) 
-* [List Awesome R Libraries](https://github.com/Ronlee12355/Road2R) - Github Repo
 * [Introduction to Landscape Ecology with R](https://r-spatialecology.github.io/ialena-2020/#1) 
-* [Autoplotly Library: Automatic Generation of Interactive Visualizations](https://github.com/terrytangyuan/autoplotly) - Github Repo
 * [RGEE example](https://csaybar.github.io/blog/2020/06/15/rgee_02_io/) - Github 
-* [Animated Graphs in R - DataSlice Youtube](https://www.youtube.com/watch?v=SnCi0s0e4Io&feature=youtu.be) - Youtube Video
-* :es: - [Acceder a Tweets desde R](https://geoinnova.org/blog-territorio/como-crear-una-app-de-twitter-para-poder-acceder-a-tweets-a-traves-de-r/?utm_campaign=nosolosig&utm_medium=email&utm_source=mailing495)
-* [Calculating distance from the see in R](https://dominicroye.github.io/en/2019/calculating-the-distance-to-the-sea-in-r/)
-* [My visual CV in R](https://adomingues.github.io/2020/11/25/visual-cv/)
+  * [Calculating distance from the see in R](https://dominicroye.github.io/en/2019/calculating-the-distance-to-the-sea-in-r/)
 * [OSMR R package](https://github.com/rcarto/osrm) - Github Repo
 * [Map my Run in R](https://bryer.org/post/2021-02-15-map_my_run_in_r/)
-* [ggplot Wizardy: Tips and tricks](https://github.com/Z3tt/OutlierConf2021) - Github
 * :es: - [Mapa estilo Joy Plot con Qgis y R](https://danielredondo.com/posts/20200125_joy_division/)
 * :es: - [Visualizar crecimiento urbano en España con R](https://dominicroye.github.io/es/2019/visualizar-el-crecimiento-urbano/)
-* [Intro to R for Journalists - How to find great stories in data](https://journalismcourses.org/course/intro-to-r-for-journalists-how-to-find-great-stories-in-data/)
 * [Climate animation of Mmaximum temperatures](https://dominicroye.github.io/en/2020/climate-animation-of-maximum-temperatures/)
 * [Firefly Cartography](https://dominicroye.github.io/en/2021/firefly-cartography/)
-* :es: - [Crear animaciones con R y gganimate](https://anderfernandez.com/blog/como-crear-animaciones-en-r-con-gganimate/)
 
   
+<b>Data and other</b>
+* [GGplot Tutorial (Evolution of a ggplot)](https://cedricscherer.netlify.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/)
+* [How to interactively position Legend and Layout Elements](https://rgeomatic.hypotheses.org/1837)
+* [gkaramanis Tidy Tuesday (Examples)](https://github.com/gkaramanis/tidytuesday) - Github Repo
+* [DataViz Classes](https://datavizm20.classes.andrewheiss.com/) 
+* [List Awesome R Libraries](https://github.com/Ronlee12355/Road2R) - Github Repo
+* [Autoplotly Library: Automatic Generation of Interactive Visualizations](https://github.com/terrytangyuan/autoplotly) - Github Repo
+* [Animated Graphs in R - DataSlice Youtube](https://www.youtube.com/watch?v=SnCi0s0e4Io&feature=youtu.be) - Youtube Video
+* :es: - [Acceder a Tweets desde R](https://geoinnova.org/blog-territorio/como-crear-una-app-de-twitter-para-poder-acceder-a-tweets-a-traves-de-r/?utm_campaign=nosolosig&utm_medium=email&utm_source=mailing495)
+* [My visual CV in R](https://adomingues.github.io/2020/11/25/visual-cv/)
+* [ggplot Wizardy: Tips and tricks](https://github.com/Z3tt/OutlierConf2021) - Github
+* [Intro to R for Journalists - How to find great stories in data](https://journalismcourses.org/course/intro-to-r-for-journalists-how-to-find-great-stories-in-data/)
+* :es: - [Crear animaciones con R y gganimate](https://anderfernandez.com/blog/como-crear-animaciones-en-r-con-gganimate/)
 
+ 
 
 </details>
 
@@ -188,7 +194,6 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * :es: - [Crear Sección Transversal 3D con Inkscape](https://geoinnova.org/blog-territorio/como-crear-una-seccion-transversal-3d-fotorrealista-con-inkscape/amp/#click=https://t.co/vEtYB7cYD4)
 * [Getting Started with web 3D ArcGIS JavaScript API](https://github.com/RalucaNicola/get-started-arcgis-js-api/blob/master/README.md) - Github Repo
 * [Idiots Guide to making 3D maps](https://victimofmaths.github.io/posts/2020/11/3D%20map%20tutorial/)
-
 
 
 </details>
