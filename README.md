@@ -15,7 +15,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 
 <b>Tutorials and tips</b>
 
-* [How to make a beautiful map](https://medium.com/@borism/how-to-make-a-beautiful-map-6d6776a20a48)
+* [How to make a beautiful map](https://medium.com/@borism/how-to-make-a-beautiful-map-6d6776a20a48) - Medium
 * [Shaded Relief Tutorials](http://www.shadedrelief.com/tutorials.html)
 * [Relief Shading Techniques](http://www.reliefshading.com/)
 * [Imhoff-Like Topography Style](https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/steal-this-imhof-like-topography-style-please/)
@@ -84,10 +84,10 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Exploring Reports in QGIS](https://north-road.com/2018/01/23/exploring-reports-in-qgis-3-0-the-ultimate-guide/)
 
 <b>Other</b>
-* :es: - [Mejorando tu productividad cartográfica en QGIS](https://youtu.be/8hNLuSVNQvY) - Youtube Video
+* :es: - [Mejorando tu productividad cartográfica en QGIS](https://youtu.be/8hNLuSVNQvY) - Youtube
 * [Globe Projections and Insets in QGIS](http://www.statsmapsnpix.com/2019/09/globe-projections-and-insets-in-qgis.html?m=1)
 * [QGIS Expressions Documentation](https://gist.githack.com/ThomasG77/0c6862fb2b6b3fc301ea994733688ea5/raw/99ecc5e6127e7238814da330a4d5d0b9fa2afe4e/qgis-3-12-expressions-single-page.html)
-* :es: - [QGIS Intro to PostGIS](https://www.youtube.com/watch?v=_EgtELrjLO4&utm_campaign=nosolosig&utm_medium=email&utm_source=mailing583) - Youtube Video
+* :es: - [QGIS Intro to PostGIS](https://www.youtube.com/watch?v=_EgtELrjLO4&utm_campaign=nosolosig&utm_medium=email&utm_source=mailing583) - Youtube 
 * [QGIS Tutorials and Tips](http://www.qgistutorials.com/en/)
 * [QGIS Open Day 2021](https://github.com/qgis/QGIS/wiki/QHF-January-2021#qgis-network-analysis)
 
@@ -98,7 +98,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
   <summary><b>PYTHON</b> </summary>
   
 <b>Geo</b>
-* [Introducing GEEMap in Python](https://www.youtube.com/watch?v=h0pz3S6Tvx0&list=PLAxJ4-o7ZoPccOFv1dCwvGI6TYnirRTg3&index=1) - Youtube Video
+* [Introducing GEEMap in Python](https://www.youtube.com/watch?v=h0pz3S6Tvx0&list=PLAxJ4-o7ZoPccOFv1dCwvGI6TYnirRTg3&index=1) - Youtube 
 * [Automating GIS Processes](https://automating-gis-processes.github.io/site/) - Github 
 * [OSMnx Python for Street Networks](https://geoffboeing.com/2016/11/osmnx-python-street-networks/?utm_campaign=nosolosig146&utm_medium=email&utm_source=mailing273)
 * [OSMnx Isochrones](http://kuanbutts.com/2017/12/16/osmnx-isochrones/)
@@ -108,9 +108,9 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Urban Measuring Morphology Toolkit](https://github.com/martinfleis/momepy/blob/master/README.md) - Github Repo
 * [tools, tutorials, code, helpful projects, links, stuff about Earth Observation and Geospatial](https://github.com/acgeospatial/awesome-earthobservation-code/blob/master/README.md) - Github Repo
 * [EarthPy: Paquete de python para plotear y trabajar con datos espaciales](https://mappinggis.com/2020/04/earthpy-un-paquete-de-python-para-plotear-y-trabajar-con-datos-espaciales/)
-* [Maps in 2.5D with python geopandas](https://medium.com/@gamoles/crea-un-mapa-en-proyeccion-2-5d-796ffd068e0d)
+* [Maps in 2.5D with python geopandas](https://medium.com/@gamoles/crea-un-mapa-en-proyeccion-2-5d-796ffd068e0d) - Medium
 * [Plotting large point CSV files quickly interactively](https://anitagraser.com/2020/12/06/plotting-large-point-csv-files-quickly-interactively/amp/)
-* [Calculating walk scores with python](https://toarches.medium.com/calculating-walk-scores-with-python-7cea11813d4d)
+* [Calculating walk scores with python](https://toarches.medium.com/calculating-walk-scores-with-python-7cea11813d4d) - Medium
 * :es: - [Cómo construir una base de datos Postgis con Python y Geoalchemy](https://gidahatari.com/ih-es/como-construir-una-base-de-datos-postgis-con-python-y-geoalchemy-con-conexion-a-qgis3-tutorial?utm_campaign=nosolosig&utm_medium=email&utm_source=mailing800)
 * :es: - [Delimitación de cuerpos de agua usando IA python y QGIS](https://gidahatari.com/ih-es/delimitacion-de-cuerpos-de-agua-lagos-de-landsat-8-con-inteligencia-artificial-usado-python-y-qgis?utm_campaign=nosolosig&utm_medium=email&utm_source=mailing806)
 * [Analyze OpenStreetMap Data with OSMnx and OmniSci Free](https://www.omnisci.com/blog/analyze-openstreetmap-data-with-osmnx-and-omnisci-free?utm_source=reddit&utm_medium=social&utm_campaign=technical-content&utm_term=analyze-openstreetmap-data-with-osmnx-and-omnisci-free&utm_content=blog)
@@ -120,7 +120,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Pandas Tips I wish I knew Before](https://towardsdatascience.com/pandas-tips-i-wish-i-knew-before-ef4ea6a39e1a)
 * [Super-quick interactive data & parameter exploration](https://anitagraser.com/2020/04/12/super-quick-interactive-data-parameter-exploration/amp/)
 * [Data Analysis with Python Course 2020](https://csmastersuh.github.io/data_analysis_with_python_2020/)
-* [Python Web Scraping with Scrapy](https://www.youtube.com/playlist?list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t&app=desktop) - Youtube Video
+* [Python Web Scraping with Scrapy](https://www.youtube.com/playlist?list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t&app=desktop) - Youtube
 * [Competitive Programming Course](https://algo.is/)
 * [70+ Python projects for beginners, intermediate and experienced developers](https://www.theinsaneapp.com/2021/06/list-of-python-projects-with-source-code-and-tutorials.html)
 
@@ -132,15 +132,15 @@ This repository pretends to gather different interesting resources for GIS, DS a
 <b>Geo</b>
 * [Z3tt 30DayMapChallenge Repo (Examples)](https://github.com/Z3tt/30DayMapChallenge) - Github Repo
 * [Bob Rudis - 30DayMapChallenge Tutorials](https://rud.is/books/30-day-map-challenge/)
-* [Maps With R and GGplot 2 30DayMapChallenge(Examples)](https://statnmap.com/2019-11-08-30daymapchallenge-building-maps-1/) - 
+* [Maps With R and GGplot 2 30DayMapChallenge(Examples)](https://statnmap.com/2019-11-08-30daymapchallenge-building-maps-1/) 
 * [GeoComputation in R](https://geocompr.robinlovelace.net/intro.html)
-  * :es: - [Mapas de coropletas, cartogramas y animados en R](https://mappinggis.com/2020/03/mapas-de-coropletas-cartogramas-y-mapas-animados-con-r/)
+* :es: - [Mapas de coropletas, cartogramas y animados en R](https://mappinggis.com/2020/03/mapas-de-coropletas-cartogramas-y-mapas-animados-con-r/)
 * [GEE in RStudio with Reticulate](https://philippgaertner.github.io/2019/12/earth-engine-rstudio-reticulate/#disqus_thread)
 * [Pathtracing Neon Landscapes in R](https://www.tylermw.com/pathtracing-neon-landscapes-in-r/) 
 * :es: - [Paquetes de R para GIS mas utilizados](https://mappinggis.com/2019/12/los-paquetes-de-r-para-gis-mas-utilizados/) 
 * [Introduction to Landscape Ecology with R](https://r-spatialecology.github.io/ialena-2020/#1) 
-* [RGEE example](https://csaybar.github.io/blog/2020/06/15/rgee_02_io/) - Github 
-  * [Calculating distance from the see in R](https://dominicroye.github.io/en/2019/calculating-the-distance-to-the-sea-in-r/)
+* [RGEE example](https://csaybar.github.io/blog/2020/06/15/rgee_02_io/)
+* [Calculating distance from the see in R](https://dominicroye.github.io/en/2019/calculating-the-distance-to-the-sea-in-r/)
 * [OSMR R package](https://github.com/rcarto/osrm) - Github Repo
 * [Map my Run in R](https://bryer.org/post/2021-02-15-map_my_run_in_r/)
 * :es: - [Mapa estilo Joy Plot con Qgis y R](https://danielredondo.com/posts/20200125_joy_division/)
@@ -156,7 +156,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [DataViz Classes](https://datavizm20.classes.andrewheiss.com/) 
 * [List Awesome R Libraries](https://github.com/Ronlee12355/Road2R) - Github Repo
 * [Autoplotly Library: Automatic Generation of Interactive Visualizations](https://github.com/terrytangyuan/autoplotly) - Github Repo
-* [Animated Graphs in R - DataSlice Youtube](https://www.youtube.com/watch?v=SnCi0s0e4Io&feature=youtu.be) - Youtube Video
+* [Animated Graphs in R - DataSlice Youtube](https://www.youtube.com/watch?v=SnCi0s0e4Io&feature=youtu.be) - Youtube
 * :es: - [Acceder a Tweets desde R](https://geoinnova.org/blog-territorio/como-crear-una-app-de-twitter-para-poder-acceder-a-tweets-a-traves-de-r/?utm_campaign=nosolosig&utm_medium=email&utm_source=mailing495)
 * [My visual CV in R](https://adomingues.github.io/2020/11/25/visual-cv/)
 * [ggplot Wizardy: Tips and tricks](https://github.com/Z3tt/OutlierConf2021) - Github
@@ -173,8 +173,8 @@ This repository pretends to gather different interesting resources for GIS, DS a
 <b>Blender</b>
 * [Blender Relief Tutorial: Blender Basics](https://somethingaboutmaps.wordpress.com/blender-relief-tutorial-blender-basics/)
 * [Creating Shaded Relief in Blender](https://somethingaboutmaps.wordpress.com/2017/11/16/creating-shaded-relief-in-blender/amp/?__twitter_impression=true)
-* [Blender GIS (With OSM Data)](https://youtu.be/YNtKnmRXVlo) - Youtube Video
-* [Blender Landscapes Tutorial](https://youtu.be/oeVUWTSkAlk) - Youtube Video
+* [Blender GIS (With OSM Data)](https://youtu.be/YNtKnmRXVlo) - Youtube 
+* [Blender Landscapes Tutorial](https://youtu.be/oeVUWTSkAlk) - Youtube
 * [Lily texture packer](https://gumroad.com/l/DFExj)
 * [Photorealistic Shaded Relief Blender](https://www.barthoekstra.com/blog/photo-realistic-shaded-relief-using-blender)
 * [How to create Isometric Camera Architecture](https://www.blender3darchitect.com/architectural-visualization/create-true-isometric-camera-architecture/)
@@ -184,9 +184,9 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Population Density 3D QGIS+Aerialod](http://www.statsmapsnpix.com/2020/04/population-density-in-europe.html?m=1)
 
 <b>Other</b>
-* [Hillshade 3D of Scanned Topographic Maps in QGIS](https://youtu.be/dcx8-m2nHpI) - Youtube Video
+* [Hillshade 3D of Scanned Topographic Maps in QGIS](https://youtu.be/dcx8-m2nHpI) - Youtube
 * [3D Realistic Online Renderer](https://w3reality.github.io/three-geo/examples/geo-viewer/io/index.html?)
-* :es: - [Descargar areas de Google Maps 3D](https://twitter.com/kohantoys/status/1327350941327249408?s=19) - Hilo Twitter
+* :es: - [Descargar areas de Google Maps 3D](https://twitter.com/kohantoys/status/1327350941327249408?s=19) - Twitter
 * [Create DEM and Hillshade from anywhere](https://terradactile.sparkgeo.com/)
 * [Google Earth Web](https://earth.google.com/web/)
 * [3D Glasses Analagryph / Crossview - 3D Map](https://steveattewell.com/stereomap/)
@@ -252,11 +252,11 @@ This repository pretends to gather different interesting resources for GIS, DS a
 <details>
   <summary><b>DataViz</b> </summary>
   
-* [Probabilistic Machine Learning: An Introduction ](https://probml.github.io/pml-book/book1.html)
-* [Data Visualization with D3.js - Full Tutorial Course](https://www.youtube.com/watch?v=_8V5o2UHG0E&list=WL&index=101&t=39244s)
+* [Probabilistic Machine Learning: An Introduction ](https://probml.github.io/pml-book/book1.html) - Book
+* [Data Visualization with D3.js - Full Tutorial Course](https://www.youtube.com/watch?v=_8V5o2UHG0E&list=WL&index=101&t=39244s) - Youtube
 * [Your friendly guide to colors in Data Visualisation](https://blog.datawrapper.de/colorguide/)
-* [Data Journalism and Visualization with free tools](https://journalismcourses.org/course/data-journalism-and-visualization-with-free-tools/)
-* [Data Visualization for Storitelling and Discovery](https://journalismcourses.org/course/data-visualization-for-storytelling-and-discovery/)
+* [Data Journalism and Visualization with free tools](https://journalismcourses.org/course/data-journalism-and-visualization-with-free-tools/) - Course
+* [Data Visualization for Storitelling and Discovery](https://journalismcourses.org/course/data-visualization-for-storytelling-and-discovery/) - Course
 
 
 </details>
