@@ -215,6 +215,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [QGIS Open Day 2021](https://github.com/qgis/QGIS/wiki/QHF-January-2021#qgis-network-analysis)
 * [2600+ Open Data Portals Around the World](https://www.opendatasoft.com/blog/2015/11/02/how-we-put-together-a-list-of-1600-open-data-portals-around-the-world-to-help-open-data-community)
 * [Free GIS Data](http://freegisdata.rtwilson.com/)
+* [GEE Custom Scripts](https://github.com/sentinel-hub/custom-scripts) - Github Repo
 
 </details>
 
