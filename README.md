@@ -115,6 +115,8 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * :es: - [Delimitación de cuerpos de agua usando IA python y QGIS](https://gidahatari.com/ih-es/delimitacion-de-cuerpos-de-agua-lagos-de-landsat-8-con-inteligencia-artificial-usado-python-y-qgis?utm_campaign=nosolosig&utm_medium=email&utm_source=mailing806)
 * [Analyze OpenStreetMap Data with OSMnx and OmniSci Free](https://www.omnisci.com/blog/analyze-openstreetmap-data-with-osmnx-and-omnisci-free?utm_source=reddit&utm_medium=social&utm_campaign=technical-content&utm_term=analyze-openstreetmap-data-with-osmnx-and-omnisci-free&utm_content=blog)
 * [Ridge Map Tutorial](https://github.com/ColCarroll/ridge_map?)
+* [Analysing urban walkability with python and OSM](https://www.gispo.fi/en/blog/analysing-urban-walkability-using-openstreetmap-and-python/)
+
   
 <b>Data and other</b>
 * [Pandas Tips I wish I knew Before](https://towardsdatascience.com/pandas-tips-i-wish-i-knew-before-ef4ea6a39e1a)
@@ -194,6 +196,8 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * :es: - [Crear Sección Transversal 3D con Inkscape](https://geoinnova.org/blog-territorio/como-crear-una-seccion-transversal-3d-fotorrealista-con-inkscape/amp/#click=https://t.co/vEtYB7cYD4)
 * [Getting Started with web 3D ArcGIS JavaScript API](https://github.com/RalucaNicola/get-started-arcgis-js-api/blob/master/README.md) - Github Repo
 * [Idiots Guide to making 3D maps](https://victimofmaths.github.io/posts/2020/11/3D%20map%20tutorial/)
+* [Creating 2D and 3D visualizations with rayshader](https://opentopography.org/blog/creating-2d-and-3d-visualizations-rayshader)
+
 
 
 </details>
