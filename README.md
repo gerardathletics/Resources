@@ -257,7 +257,6 @@ This repository pretends to gather different interesting resources for GIS, DS a
 <details>
   <summary><b>DataViz</b> </summary>
   
-* [Probabilistic Machine Learning: An Introduction ](https://probml.github.io/pml-book/book1.html) - Book
 * [Data Visualization with D3.js - Full Tutorial Course](https://www.youtube.com/watch?v=_8V5o2UHG0E&list=WL&index=101&t=39244s) - Youtube
 * [Your friendly guide to colors in Data Visualisation](https://blog.datawrapper.de/colorguide/)
 * [Data Journalism and Visualization with free tools](https://journalismcourses.org/course/data-journalism-and-visualization-with-free-tools/) - Course
