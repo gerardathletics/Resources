@@ -5,13 +5,13 @@ This repository pretends to gather different interesting resources for GIS, DS a
   <summary><b>General Cartography - GIS</b> </summary>
 <b>Resources </b>
   
-* :es: - [Geoteca: repositorio de libros y herramientas GIS [GIS and Beers]](http://www.gisandbeers.com/geoteca-libros-herramientas-gis/)
-* [Free GIS Tutorials [Hussein Nasser]](https://www.husseinnasser.com/p/youtube.html?m=1)
-* [Open.gis.lab [Stephanie Saephan]](https://opengislab.com/)
-* :es: - [Geopois: Tutoriales SIG - Red de Geo-developers](https://geopois.com/)
-* [A Cartography Laboratory made by Ramiro Aznar](http://www.cartography-lab.com/)
-* [GIS Cheatsheets](https://github.com/DigitalDataServices/gis-cheatsheets/blob/master/README.md#table-of-contents) - Github repo
-* [Cartography Font Collection](https://www.typography.com/fonts/styles/cartography)
+* :es: - [Geoteca: repositorio de libros y herramientas GIS](http://www.gisandbeers.com/geoteca-libros-herramientas-gis/) [GIS and Beers]
+* [Free GIS Tutorials](https://www.husseinnasser.com/p/youtube.html?m=1) [Hussein Nasser]
+* [Open.gis.lab](https://opengislab.com/) [Stephanie Saephan]
+* :es: - [Tutoriales SIG - Red de Geo-developers](https://geopois.com/) [Geopois]
+* [Cartography Lab](http://www.cartography-lab.com/) [Ramiro Aznar]
+* [GIS Cheatsheets](https://github.com/DigitalDataServices/gis-cheatsheets/blob/master/README.md#table-of-contents) [Geowidgets] - Github repo
+* [Cartography Font Collection](https://www.typography.com/fonts/styles/cartography) [Typography.com]
 
 <b>Tutorials and tips</b>
 
