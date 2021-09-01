@@ -71,13 +71,13 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * :es: - [Generacion Isocronas utilizando plugins QGIS](https://youtu.be/djN3NxyFcQQ) - Youtube Video
 * [Bivariate Choroplets QGIS - BNHR](https://bnhr.xyz/2019/09/15/bivariate-choropleths-in-qgis.html)
 * [Bivariate Choroplets QGIS - Joshua Stevens](https://www.joshuastevens.net/cartography/make-a-bivariate-choropleth-map/)
-* :es: - [Simbologia Multiple Mediante Expresiones](https://geoinnova.org/blog-territorio/simbologia-multiple-en-qgis-mediante-expresiones/?utm_campaign=nosolosig&utm_medium=email&utm_source=mailing645)
+* :es: - [Simbologia Multiple Mediante Expresiones](https://geoinnova.org/blog-territorio/simbologia-multiple-en-qgis-mediante-expresiones/)
 * [Dynamic Elevation Profile Lines as Geometry Generator](https://hannes.enjoys.it/blog/2019/09/dynamic-elevation-profile-lines-as-qgis-geometry-generator/)
 * :es: - [Cómo hacer una simulación de una vista nocturna con QGIS](https://www.youtube.com/watch?v=Ej) - Youtube Video
 
 
 <b>Layout</b>
-* :it: - [REPORT QGIS: UN ESEMPIO AVANZATO](https://pigrecoinfinito.com/2018/12/11/report-qgis-un-esempio-avanzato/amp/?__twitter_impression=true)
+* :it: - [Report QGIS: Un esempio avanzato](https://pigrecoinfinito.com/2018/12/11/report-qgis-un-esempio-avanzato/amp/?__twitter_impression=true)
 * [Legend for continuous Raster](https://ecodiv.earth/post/legend-for-continuous-raster-in-qgis-composer/)
 * [QGIS Hub: Layout and Styles](http://qgis-hub.fast-page.org/index.php)
 * :es: - [Dashboard con QGIS](https://www.linkedin.com/pulse/taller-de-dashboard-con-qgis-desktop-mauricio-marquez/?utm_campaign=nosolosig&utm_medium=email&utm_source=mailing793)
