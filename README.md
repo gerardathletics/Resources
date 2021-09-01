@@ -116,6 +116,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Analyze OpenStreetMap Data with OSMnx and OmniSci Free](https://www.omnisci.com/blog/analyze-openstreetmap-data-with-osmnx-and-omnisci-free?utm_source=reddit&utm_medium=social&utm_campaign=technical-content&utm_term=analyze-openstreetmap-data-with-osmnx-and-omnisci-free&utm_content=blog)
 * [Ridge Map Tutorial](https://github.com/ColCarroll/ridge_map?)
 * [Analysing urban walkability with python and OSM](https://www.gispo.fi/en/blog/analysing-urban-walkability-using-openstreetmap-and-python/)
+* [Pretty maps: A minimal Python library to draw customized maps from OpenStreetMap data](https://github.com/marceloprates/prettymaps)
 
   
 <b>Data and other</b>
