@@ -48,47 +48,46 @@ This repository pretends to gather different interesting resources for GIS, DS a
   <summary><b>QGIS</b> </summary>
 
 <b>3D</b>
-* [3D DEM Visualization in QGIS](https://opengislab.com/blog/2018/3/20/3d-dem-visualization-in-qgis-30?format=amp)
-* [Create hillshade 3D views of scanned topographical maps](https://www.youtube.com/watch?v=dcx8-m2nHpI&feature=youtu.be) - Youtube Video
+* [3D DEM Visualization in QGIS](https://opengislab.com/blog/2018/3/20/3d-dem-visualization-in-qgis-3) [Open.gis.lab]
+* [Create hillshade 3D views of scanned topographical maps](https://www.youtube.com/watch?v=dcx8-m2nHpI&feature=youtu.be) [Hans van der Kwast] - Youtube Video
 
 <b>Animated maps</b>
-* [Animated Flight Maps QGIS](https://spatialthoughts.com/2019/03/21/animated-flight-lines/amp/#click=https://t.co/GSWAuHwoxu)
-* [How to create an animation map using open source software](https://www.geodose.com/2019/11/how-to-create-animation-map.html?m=1)
-* [Almost Real Time Live Data Visualization in QGIS](https://www.geodose.com/2020/09/realtime%20live%20data%20visualization%20qgis.html?m=1p)
-* [Animated routes with QGIS](https://medium.com/@tjukanov/animated-routes-with-qgis-9377c1f16021) - Medium
+* [Animated Flight Maps QGIS](https://spatialthoughts.com/2019/03/21/animated-flight-lines/amp/) [Ujaval Gandhi]
+* [How to create an animation map using open source software](https://www.geodose.com/2019/11/how-to-create-animation-map.html) [Geodose]
+* [Almost Real Time Live Data Visualization in QGIS](https://www.geodose.com/2020/09/realtime%20live%20data%20visualization%20qgis.html) [Geodose]
+* [Animated routes with QGIS](https://medium.com/@tjukanov/animated-routes-with-qgis-9377c1f16021) [Topi Tjukanov] - Medium
 
 
 <b>QGIS Programming</b>
-* :es: - [Instalar Librerias Externas Python en QGIS](https://www.cursosgis.com/instalar-librerias-externas-de-python-en-qgis/)
-* [Introduction to QGIS Python programming for non-programmers](https://anitagraser.com/pyqgis-101-introduction-to-qgis-python-programming-for-non-programmers/)
-* [Customizing QGIS with Python (Course Material)](https://courses.spatialthoughts.com/pyqgis-in-a-day.html)
+* :es: - [Instalar Librerias Externas Python en QGIS](https://www.cursosgis.com/instalar-librerias-externas-de-python-en-qgis/) [F.Raga - CursosGIS]
+* [Introduction to QGIS Python programming for non-programmers](https://anitagraser.com/pyqgis-101-introduction-to-qgis-python-programming-for-non-programmers/) [Anita Graser]
+* [Customizing QGIS with Python](https://courses.spatialthoughts.com/pyqgis-in-a-day.html) [Ujaval Gandhi] - Course Material
 
 <b>Visualization and mape types</b>
-* [Plugin QGIS Terrain Shading](http://www.zoran-cuckovic.from.hr/QGIS-terrain-shading/)
-* [Lego Map Style in QGIS](https://t.co/cDvNKzHojA?amp=1)
-* [QGIS Hexagon Grid](http://jonathansoma.com/lede/foundations-2018/qgis/grid/)
-* :es: - [Generacion Isocronas utilizando plugins QGIS](https://youtu.be/djN3NxyFcQQ) - Youtube Video
-* [Bivariate Choroplets QGIS - BNHR](https://bnhr.xyz/2019/09/15/bivariate-choropleths-in-qgis.html)
-* [Bivariate Choroplets QGIS - Joshua Stevens](https://www.joshuastevens.net/cartography/make-a-bivariate-choropleth-map/)
-* :es: - [Simbologia Multiple Mediante Expresiones](https://geoinnova.org/blog-territorio/simbologia-multiple-en-qgis-mediante-expresiones/)
-* [Dynamic Elevation Profile Lines as Geometry Generator](https://hannes.enjoys.it/blog/2019/09/dynamic-elevation-profile-lines-as-qgis-geometry-generator/)
-* :es: - [Cómo hacer una simulación de una vista nocturna con QGIS](https://www.youtube.com/watch?v=Ej) - Youtube Video
+* [Plugin QGIS Terrain Shading](http://www.zoran-cuckovic.from.hr/QGIS-terrain-shading/) [Zoran Cuckovi]
+* [Lego Map Style in QGIS](https://medium.com/@andriyyaremenko/how-to-create-lego-map-style-in-qgis-a8ecf42d02ef) [Andriy Yaramenko] - Medium
+* [QGIS Hexagon Grid](http://jonathansoma.com/lede/foundations-2018/qgis/grid/) [Jonathan Soma]
+* :es: - [Generacion Isocronas utilizando plugins QGIS](https://youtu.be/djN3NxyFcQQ) [QGIS Latam] - Youtube Video
+* [Bivariate choropleth maps in QGIS](https://bnhr.xyz/2019/09/15/bivariate-choropleths-in-qgis.html) [BNHR]
+* [Bivariate Choropleth Maps: A How-to Guide](https://www.joshuastevens.net/cartography/make-a-bivariate-choropleth-map/) [Joshua Stevens]
+* :es: - [Simbologia Multiple Mediante Expresiones](https://geoinnova.org/blog-territorio/simbologia-multiple-en-qgis-mediante-expresiones/) [P.Soriano - Geoinnova]
+* [Dynamic Elevation Profile Lines as Geometry Generator](https://hannes.enjoys.it/blog/2019/09/dynamic-elevation-profile-lines-as-qgis-geometry-generator/) [Hannes.enjoys.it]
+* :es: - [Cómo hacer una simulación de una vista nocturna con QGIS](https://www.youtube.com/watch?v=EjBsPv9w_eI) [Ángel Felicísimo] - Youtube Video 
 
 
 <b>Layout</b>
-* :it: - [Report QGIS: Un esempio avanzato](https://pigrecoinfinito.com/2018/12/11/report-qgis-un-esempio-avanzato/amp/?__twitter_impression=true)
-* [Legend for continuous Raster](https://ecodiv.earth/post/legend-for-continuous-raster-in-qgis-composer/)
+* :it: - [Report QGIS: Un esempio avanzato](https://pigrecoinfinito.com/2018/12/11/report-qgis-un-esempio-avanzato/) [Totò]
 * [QGIS Hub: Layout and Styles](http://qgis-hub.fast-page.org/index.php)
-* :es: - [Dashboard con QGIS](https://www.linkedin.com/pulse/taller-de-dashboard-con-qgis-desktop-mauricio-marquez/?utm_campaign=nosolosig&utm_medium=email&utm_source=mailing793)
-* [Exploring Reports in QGIS](https://north-road.com/2018/01/23/exploring-reports-in-qgis-3-0-the-ultimate-guide/)
+* :es: - [Dashboard con QGIS](https://www.linkedin.com/pulse/taller-de-dashboard-con-qgis-desktop-mauricio-marquez/) [Mauricio Marquez]
+* [Exploring Reports in QGIS](https://north-road.com/2018/01/23/exploring-reports-in-qgis-3-0-the-ultimate-guide/) [North Road]
 
 <b>Other</b>
-* :es: - [Mejorando tu productividad cartográfica en QGIS](https://youtu.be/8hNLuSVNQvY) - Youtube
-* [Globe Projections and Insets in QGIS](http://www.statsmapsnpix.com/2019/09/globe-projections-and-insets-in-qgis.html?m=1)
+* :es: - [Mejorando tu productividad cartográfica en QGIS](https://youtu.be/8hNLuSVNQvY) [P.Soriano - Geoinnova] - Youtube
+* [Globe Projections and Insets in QGIS](http://www.statsmapsnpix.com/2019/09/globe-projections-and-insets-in-qgis.html) [Statsmapsnpix]
 * [QGIS Expressions Documentation](https://gist.githack.com/ThomasG77/0c6862fb2b6b3fc301ea994733688ea5/raw/99ecc5e6127e7238814da330a4d5d0b9fa2afe4e/qgis-3-12-expressions-single-page.html)
-* :es: - [QGIS Intro to PostGIS](https://www.youtube.com/watch?v=_EgtELrjLO4&utm_campaign=nosolosig&utm_medium=email&utm_source=mailing583) - Youtube 
-* [QGIS Tutorials and Tips](http://www.qgistutorials.com/en/)
-* [QGIS Open Day 2021](https://github.com/qgis/QGIS/wiki/QHF-January-2021#qgis-network-analysis)
+* :es: - [QGIS Intro to PostGIS](https://www.youtube.com/watch?v=_EgtELrjLO4) [Carlos López] - Youtube 
+* [QGIS Tutorials and Tips](http://www.qgistutorials.com/en/) [Ujaval Gandhi]
+* [QGIS Open Day 2021](https://github.com/qgis/QGIS/wiki/QHF-January-2021#qgis-network-analysis) [QHF 2021]
 
 
 </details>
