@@ -11,7 +11,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * :es: - [Geopois: Tutoriales SIG - Red de Geo-developers](https://geopois.com/)
 * [A Cartography Laboratory made by Ramiro Aznar](http://www.cartography-lab.com/)
 * [GIS Cheatsheets](https://github.com/DigitalDataServices/gis-cheatsheets/blob/master/README.md#table-of-contents) - Github repo
-* [Cartography Font Collection](https://www.typography.com/fonts/styles/cartography?)
+* [Cartography Font Collection](https://www.typography.com/fonts/styles/cartography)
 
 <b>Tutorials and tips</b>
 
