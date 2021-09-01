@@ -10,22 +10,22 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Open.gis.lab](https://opengislab.com/) [Stephanie Saephan]
 * :es: - [Tutoriales SIG - Red de Geo-developers](https://geopois.com/) [Geopois]
 * [Cartography Lab](http://www.cartography-lab.com/) [Ramiro Aznar]
-* [GIS Cheatsheets](https://github.com/DigitalDataServices/gis-cheatsheets/blob/master/README.md#table-of-contents) [Geowidgets] - Github repo
+* [GIS Cheatsheets](https://github.com/DigitalDataServices/gis-cheatsheets/blob/master/README.md#table-of-contents) [DigitalDataServices] - Github repo
 * [Cartography Font Collection](https://www.typography.com/fonts/styles/cartography) [Typography.com]
 
 <b>Tutorials and tips</b>
 
-* [How to make a beautiful map](https://medium.com/@borism/how-to-make-a-beautiful-map-6d6776a20a48) - Medium
+* [How to make a beautiful map](https://medium.com/@borism/how-to-make-a-beautiful-map-6d6776a20a48) [Boris Müller] - Medium
 * [Shaded Relief Tutorials](http://www.shadedrelief.com/tutorials.html)
 * [Relief Shading Techniques](http://www.reliefshading.com/)
-* [Imhoff-Like Topography Style](https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/steal-this-imhof-like-topography-style-please/) - ESRI
-* [Smart Type Halos in Photoshop and Illustrator](https://somethingaboutmaps.wordpress.com/2018/10/28/smart-type-halos-in-photoshop-and-illustrator/amp/)
-* [Cartography Guide and Design](https://www.axismaps.com/guide/)
-* [GIS Programming Roadmap](https://github.com/petedannemann/GIS-Programming-Roadmap/blob/master/README.md) - Github repo
-* [Mapzilla - Tutorials animating in Houdini](https://mapzilla.co.uk/tutorials)
-* [ArcgisPro - Design a classic map](https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/homage-to-a-classic-map/) - ESRI
-* [How to scale data](https://earthobservatory.nasa.gov/blogs/elegantfigures/2014/07/29/adjusting-the-range-how-to-scale-data/?)
-* [ArcGis Blog - One minute map hacks](https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/one-minute-map-hacks-41-45/) - ESRI
+* [Imhoff-Like Topography Style](https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/steal-this-imhof-like-topography-style-please/) [John Nelson] - ESRI
+* [Smart Type Halos in Photoshop and Illustrator](https://somethingaboutmaps.wordpress.com/2018/10/28/smart-type-halos-in-photoshop-and-illustrator/amp/) [Daniel Huffman]
+* [Cartography Guide](https://www.axismaps.com/guide/) [Axis Maps]
+* [GIS Programming Roadmap](https://github.com/petedannemann/GIS-Programming-Roadmap/blob/master/README.md) [Petedannemann] - Github repo
+* [Tutorials animating in Houdini](https://mapzilla.co.uk/tutorials) [Mapzilla]
+* [ArcgisPro - Design a classic map](https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/homage-to-a-classic-map/) [John Nelson & Warren Davison] - ESRI
+* [How to scale data](https://earthobservatory.nasa.gov/blogs/elegantfigures/2014/07/29/adjusting-the-range-how-to-scale-data/?) [The Earth Observatory]
+* [ArcGis Blog - One minute map hacks](https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/one-minute-map-hacks-41-45/) [John Nelson] - ESRI
 
 </details>
 
