@@ -32,16 +32,15 @@ This repository pretends to gather different interesting resources for GIS, DS a
 <details>
   <summary><b>Palettes and colors</b> </summary>
   
-* [SciVisColor - Color Tools and strategies](https://sciviscolor.org/)
-* [Scientific Color Maps - Coloramps](http://www.fabiocrameri.ch/colourmaps.php)
-* [Color Brewer Maps](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
-* [Color Palette Helper](https://gka.github.io/palettes/#/9|s|00429d,96ffea,ffffe0|ffffe0,ff005e,93003a|1|1)
-* [Adobe Color Palette Generator](https://color.adobe.com/create/color-wheel)
-* [Color Picker for Data](http://tristen.ca/hcl-picker/#/clh/9/0.32/590709/EAA489)
-* [Paletton - Color Scheme Designer](http://www.paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
-* [Bivariate Color Matrix Maps](https://cartoscience.github.io/bivariate-color-matrix/)
-* [Your friendly guide to colors in Data Visualisation](https://blog.datawrapper.de/colorguide/)
-
+* [SciVisColor: Color tools and strategies](https://sciviscolor.org/) [TACC]
+* [Scientific Colour Maps](http://www.fabiocrameri.ch/colourmaps.php) [Fabio Crameri]
+* [Color Brewer Maps](https://colorbrewer2.org) [Cynthia Brewer, Mark Harrower & PSU]
+* [Chroma.js: Color Palette Helper](https://gka.github.io/palettes) [Gregor Aisch]
+* [Adobe Color Palette Generator](https://color.adobe.com/create/color-wheel) [Adobe]
+* [Color Picker for Data](http://tristen.ca/hcl-picker/#/clh/9/0.32/590709/EAA489) [Tristen Forsythe]
+* [Paletton: Color Scheme Designer](http://www.paletton.com/)
+* [Bivariate Color Matrix Maps](https://cartoscience.github.io/bivariate-color-matrix/) [CartoScience]
+* [Your friendly guide to colors in Data Visualisation](https://blog.datawrapper.de/colorguide/) [Lisa Charlotte Rost]
 
 </details>
 
