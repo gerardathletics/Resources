@@ -5,9 +5,9 @@ This repository pretends to gather different interesting resources for GIS, DS a
   <summary><b>General Cartography - GIS</b> </summary>
 <b>Resources </b>
   
-* :es: - [Geoteca: Libros y repositorios SIG](http://www.gisandbeers.com/geoteca-libros-herramientas-gis/)
-* [Hussein Nasser - Free GIS Tutorials](https://www.husseinnasser.com/p/youtube.html?m=1)
-* [Open.gis.lab](https://opengislab.com/)
+* :es: - [Geoteca: repositorio de libros y herramientas GIS [GIS and Beers]](http://www.gisandbeers.com/geoteca-libros-herramientas-gis/)
+* [Free GIS Tutorials [Hussein Nasser]](https://www.husseinnasser.com/p/youtube.html?m=1)
+* [Open.gis.lab [Stephanie Saephan]](https://opengislab.com/)
 * :es: - [Geopois: Tutoriales SIG - Red de Geo-developers](https://geopois.com/)
 * [A Cartography Laboratory made by Ramiro Aznar](http://www.cartography-lab.com/)
 * [GIS Cheatsheets](https://github.com/DigitalDataServices/gis-cheatsheets/blob/master/README.md#table-of-contents) - Github repo
