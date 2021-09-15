@@ -73,6 +73,8 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * :es: - [Simbologia Multiple Mediante Expresiones](https://geoinnova.org/blog-territorio/simbologia-multiple-en-qgis-mediante-expresiones/) [P.Soriano - Geoinnova]
 * [Dynamic Elevation Profile Lines as Geometry Generator](https://hannes.enjoys.it/blog/2019/09/dynamic-elevation-profile-lines-as-qgis-geometry-generator/) [Hannes.enjoys.it]
 * :es: - [Cómo hacer una simulación de una vista nocturna con QGIS](https://www.youtube.com/watch?v=EjBsPv9w_eI) [Ángel Felicísimo] - Youtube Video 
+* [How to create a tasty monochrome hachure map in QGIS](https://robinhawkes.com/blog/qgis-monochrome-hachures/) [Robin Hawkes]
+
 
 
 <b>Layout</b>
@@ -124,6 +126,8 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Python Web Scraping with Scrapy](https://www.youtube.com/playlist?list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t&app=desktop) - Youtube
 * [Competitive Programming Course](https://algo.is/)
 * [70+ Python projects for beginners, intermediate and experienced developers](https://www.theinsaneapp.com/2021/06/list-of-python-projects-with-source-code-and-tutorials.html)
+* [Awesome Spectral Indices](https://github.com/davemlz/awesome-spectral-indices) - Github Repo
+* [GIS Data Repositories](https://docs.google.com/spreadsheets/d/1utQRlrX3lJniBjWE3rNjLZeTRsbjH-zdjxNmXhhvO9Q/htmlview#gid=47) - Github Repo
 
 </details>
 
