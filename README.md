@@ -241,8 +241,9 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [WebMapping Notes (Dani Arribas)](http://darribas.org/wmn/)
 * [WebMapping Workbook](https://github.com/uwcartlab/webmapping) - Github Repo
 * [Getting Started with web 3D ArcGIS JavaScript API](https://github.com/RalucaNicola/get-started-arcgis-js-api/blob/master/README.md) - Github Repo
-* [Data Visualization with D3.js - Full Tutorial Course](https://www.youtube.com/watch?v=_8V5o2UHG0E&list=WL&index=101&t=39244s)
+* [Data Visualization with D3.js - Full Tutorial Course](https://www.youtube.com/watch?v=_8V5o2UHG0E&list=WL&index=101&t=39244s) - Youtube
 * :es: - [Despliega tu mapa - Leaflet](https://dcapillae.github.io/despliega-tu-mapa/)
+* [Frontend GIS Resources](https://github.com/JoeWDavies/Frontend-GIS-Resources) [Joe W Davies] - Github Repo
 
 </details>
 
