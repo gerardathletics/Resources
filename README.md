@@ -74,6 +74,8 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Dynamic Elevation Profile Lines as Geometry Generator](https://hannes.enjoys.it/blog/2019/09/dynamic-elevation-profile-lines-as-qgis-geometry-generator/) [Hannes.enjoys.it]
 * :es: - [Cómo hacer una simulación de una vista nocturna con QGIS](https://www.youtube.com/watch?v=EjBsPv9w_eI) [Ángel Felicísimo] - Youtube Video 
 * [How to create a tasty monochrome hachure map in QGIS](https://robinhawkes.com/blog/qgis-monochrome-hachures/) [Robin Hawkes]
+* :es: - [Cómo elaborar mapas luminosos en QGIS](http://www.gisandbeers.com/elaborar-mapas-luminosos-qgis-timemanager-firefly) [GIS and Beers]
+
 
 
 
