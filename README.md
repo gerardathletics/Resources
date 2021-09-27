@@ -76,9 +76,6 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [How to create a tasty monochrome hachure map in QGIS](https://robinhawkes.com/blog/qgis-monochrome-hachures/) [Robin Hawkes]
 * :es: - [Cómo elaborar mapas luminosos en QGIS](http://www.gisandbeers.com/elaborar-mapas-luminosos-qgis-timemanager-firefly) [GIS and Beers]
 
-
-
-
 <b>Layout</b>
 * :it: - [Report QGIS: Un esempio avanzato](https://pigrecoinfinito.com/2018/12/11/report-qgis-un-esempio-avanzato/) [Totò]
 * [QGIS Hub: Layout and Styles](http://qgis-hub.fast-page.org/index.php)
@@ -246,6 +243,8 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Data Visualization with D3.js - Full Tutorial Course](https://www.youtube.com/watch?v=_8V5o2UHG0E&list=WL&index=101&t=39244s) - Youtube
 * :es: - [Despliega tu mapa - Leaflet](https://dcapillae.github.io/despliega-tu-mapa/)
 * [Frontend GIS Resources](https://github.com/JoeWDavies/Frontend-GIS-Resources) [Joe W Davies] - Github Repo
+* [Crear un mapa web interactivo con D3](https://www.unigis.es/mapa-web-interactivo-con-d3/) [Josep Sitjar] - UNIGIS
+
 
 </details>
 
