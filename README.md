@@ -97,25 +97,25 @@ This repository pretends to gather different interesting resources for GIS, DS a
   <summary><b>PYTHON</b> </summary>
   
 <b>Geo</b>
-* [Introducing GEEMap in Python](https://www.youtube.com/watch?v=h0pz3S6Tvx0&list=PLAxJ4-o7ZoPccOFv1dCwvGI6TYnirRTg3&index=1) - Youtube 
-* [Automating GIS Processes](https://automating-gis-processes.github.io/site/) - Github 
-* [OSMnx Python for Street Networks](https://geoffboeing.com/2016/11/osmnx-python-street-networks/?utm_campaign=nosolosig146&utm_medium=email&utm_source=mailing273)
-* [OSMnx Isochrones](http://kuanbutts.com/2017/12/16/osmnx-isochrones/)
-* [Geopyter - Geographical Python Teaching Resource](https://github.com/pysal/geopyter/blob/master/README.md)
-* [Kepler.GL and JupyterNotebook - GeoSpatial Data Visualization](https://towardsdatascience.com/kepler-gl-jupyter-notebooks-geospatial-data-visualization-with-ubers-opensource-kepler-gl-b1c2423d066f)
-* [Interactive Geospatial Data Visualization with Geoviews in Python](https://towardsdatascience.com/interactive-geospatial-data-visualization-with-geoviews-in-python-7d5335c8efd1)
-* [Urban Measuring Morphology Toolkit](https://github.com/martinfleis/momepy/blob/master/README.md) - Github Repo
-* [tools, tutorials, code, helpful projects, links, stuff about Earth Observation and Geospatial](https://github.com/acgeospatial/awesome-earthobservation-code/blob/master/README.md) - Github Repo
-* [EarthPy: Paquete de python para plotear y trabajar con datos espaciales](https://mappinggis.com/2020/04/earthpy-un-paquete-de-python-para-plotear-y-trabajar-con-datos-espaciales/)
-* [Maps in 2.5D with python geopandas](https://medium.com/@gamoles/crea-un-mapa-en-proyeccion-2-5d-796ffd068e0d) - Medium
-* [Plotting large point CSV files quickly interactively](https://anitagraser.com/2020/12/06/plotting-large-point-csv-files-quickly-interactively/amp/)
-* [Calculating walk scores with python](https://toarches.medium.com/calculating-walk-scores-with-python-7cea11813d4d) - Medium
-* :es: - [Cómo construir una base de datos Postgis con Python y Geoalchemy](https://gidahatari.com/ih-es/como-construir-una-base-de-datos-postgis-con-python-y-geoalchemy-con-conexion-a-qgis3-tutorial?utm_campaign=nosolosig&utm_medium=email&utm_source=mailing800)
-* :es: - [Delimitación de cuerpos de agua usando IA python y QGIS](https://gidahatari.com/ih-es/delimitacion-de-cuerpos-de-agua-lagos-de-landsat-8-con-inteligencia-artificial-usado-python-y-qgis?utm_campaign=nosolosig&utm_medium=email&utm_source=mailing806)
-* [Analyze OpenStreetMap Data with OSMnx and OmniSci Free](https://www.omnisci.com/blog/analyze-openstreetmap-data-with-osmnx-and-omnisci-free?utm_source=reddit&utm_medium=social&utm_campaign=technical-content&utm_term=analyze-openstreetmap-data-with-osmnx-and-omnisci-free&utm_content=blog)
-* [Ridge Map Tutorial](https://github.com/ColCarroll/ridge_map?)
-* [Analysing urban walkability with python and OSM](https://www.gispo.fi/en/blog/analysing-urban-walkability-using-openstreetmap-and-python/)
-* [Pretty maps: A minimal Python library to draw customized maps from OpenStreetMap data](https://github.com/marceloprates/prettymaps) - Github Repo
+* [Introducing GEEMap in Python](https://www.youtube.com/watch?v=h0pz3S6Tvx0&list=PLAxJ4-o7ZoPccOFv1dCwvGI6TYnirRTg3&index=1) [Qiusheng Wu] - Youtube Serie
+* [Automating GIS Processes](https://automating-gis-processes.github.io/site/) [Digital Geography Lab - University of Helsinki]
+* [OSMnx Python for Street Networks](https://geoffboeing.com/2016/11/osmnx-python-street-networks/) [Geoff Boeing]
+* [OSMnx Isochrones](http://kuanbutts.com/2017/12/16/osmnx-isochrones/) [Kuan Butts]
+* [Geopyter - Geographical Python Teaching Resource](https://github.com/pysal/geopyter/blob/master/README.md) [PySal] - Github Repo
+* [Kepler.GL and JupyterNotebook - GeoSpatial Data Visualization](https://towardsdatascience.com/kepler-gl-jupyter-notebooks-geospatial-data-visualization-with-ubers-opensource-kepler-gl-b1c2423d066f) [Abdishakur] - Medium
+* [Interactive Geospatial Data Visualization with Geoviews in Python](https://towardsdatascience.com/interactive-geospatial-data-visualization-with-geoviews-in-python-7d5335c8efd1) [Abdishakur] - Medium
+* [Urban Measuring Morphology Toolkit](https://github.com/martinfleis/momepy/blob/master/README.md) [UDSU & Geographic Data Science Lab] - Github Repo
+* [Awesome Earth Observation Code](https://github.com/acgeospatial/awesome-earthobservation-code/blob/master/README.md) [Andrew Cutts] - Github Repo
+* [EarthPy: Paquete de python para plotear y trabajar con datos espaciales](https://mappinggis.com/2020/04/earthpy-un-paquete-de-python-para-plotear-y-trabajar-con-datos-espaciales/) [Aurelio Morales - Mapping GIS]
+* [Maps in 2.5D with python geopandas](https://medium.com/@gamoles/crea-un-mapa-en-proyeccion-2-5d-796ffd068e0d) [Moyocoyani Molina] - Medium
+* [Plotting large point CSV files quickly interactively](https://anitagraser.com/2020/12/06/plotting-large-point-csv-files-quickly-interactively/amp/) [Anitta Grasser]
+* [Calculating walk scores with python](https://toarches.medium.com/calculating-walk-scores-with-python-7cea11813d4d) [Ablajan Sulaiman] - Medium
+* :es: - [Cómo construir una base de datos Postgis con Python y Geoalchemy](https://gidahatari.com/ih-es/como-construir-una-base-de-datos-postgis-con-python-y-geoalchemy-con-conexion-a-qgis3-tutorial) [Saul Montoya - Gidahatari]
+* :es: - [Delimitación de cuerpos de agua usando IA python y QGIS](https://gidahatari.com/ih-es/delimitacion-de-cuerpos-de-agua-lagos-de-landsat-8-con-inteligencia-artificial-usado-python-y-qgis) [Saul Montoya - Gidahatari]
+* [Analyze OpenStreetMap Data with OSMnx and OmniSci Free](https://www.omnisci.com/blog/analyze-openstreetmap-data-with-osmnx-and-omnisci-free) [Antonio Cotroneo - Omni Sci]
+* [Ridge Map Tutorial](https://github.com/ColCarroll/ridge_map?) [Colin Carroll] - Github Repo
+* [Analysing urban walkability with python and OSM](https://www.gispo.fi/en/blog/analysing-urban-walkability-using-openstreetmap-and-python/) [Eemil - Gispo Finland]
+* [Pretty maps: A minimal Python library to draw customized maps from OpenStreetMap data](https://github.com/marceloprates/prettymaps) [Marcelo Prates] - Github Repo
 
   
 <b>Data and other</b>
@@ -243,7 +243,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Data Visualization with D3.js - Full Tutorial Course](https://www.youtube.com/watch?v=_8V5o2UHG0E&list=WL&index=101&t=39244s) - Youtube
 * :es: - [Despliega tu mapa - Leaflet](https://dcapillae.github.io/despliega-tu-mapa/)
 * [Frontend GIS Resources](https://github.com/JoeWDavies/Frontend-GIS-Resources) [Joe W Davies] - Github Repo
-* [Crear un mapa web interactivo con D3](https://www.unigis.es/mapa-web-interactivo-con-d3/) [Josep Sitjar] - UNIGIS
+* [Crear un mapa web interactivo con D3](https://www.unigis.es/mapa-web-interactivo-con-d3/) [Josep Sitjar - UNIGIS] 
 
 
 </details>
