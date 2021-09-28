@@ -151,6 +151,8 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * :es: - [Visualizar crecimiento urbano en España con R](https://dominicroye.github.io/es/2019/visualizar-el-crecimiento-urbano/)
 * [Climate animation of Mmaximum temperatures](https://dominicroye.github.io/en/2020/climate-animation-of-maximum-temperatures/)
 * [Firefly Cartography](https://dominicroye.github.io/en/2021/firefly-cartography/)
+* [R for Geographic Data Science](https://sdesabbata.github.io/r-for-geographic-data-science/index.html) [Steffano de Sabata] - Book
+
 
   
 <b>Data and other</b>
@@ -256,6 +258,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Deploy Machine Learning Models With Django](https://www.deploymachinelearning.com/)
 * [Geostatistics Lessons](http://www.geostatisticslessons.com/)
 * :es: - [Data Science Learning Path](https://ds-path.netlify.app/)
+* [R for Geographic Data Science](https://sdesabbata.github.io/r-for-geographic-data-science/index.html) [Steffano de Sabata] - Book
 
 </details>
 
