@@ -119,14 +119,12 @@ This repository pretends to gather different interesting resources for GIS, DS a
 
   
 <b>Data and other</b>
-* [Pandas Tips I wish I knew Before](https://towardsdatascience.com/pandas-tips-i-wish-i-knew-before-ef4ea6a39e1a)
-* [Super-quick interactive data & parameter exploration](https://anitagraser.com/2020/04/12/super-quick-interactive-data-parameter-exploration/amp/)
-* [Data Analysis with Python Course 2020](https://csmastersuh.github.io/data_analysis_with_python_2020/)
-* [Python Web Scraping with Scrapy](https://www.youtube.com/playlist?list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t&app=desktop) - Youtube
-* [Competitive Programming Course](https://algo.is/)
-* [70+ Python projects for beginners, intermediate and experienced developers](https://www.theinsaneapp.com/2021/06/list-of-python-projects-with-source-code-and-tutorials.html)
-* [Awesome Spectral Indices](https://github.com/davemlz/awesome-spectral-indices) - Github Repo
-* [GIS Data Repositories](https://docs.google.com/spreadsheets/d/1utQRlrX3lJniBjWE3rNjLZeTRsbjH-zdjxNmXhhvO9Q/htmlview#gid=47) - Github Repo
+* [Pandas Tips I wish I knew Before](https://towardsdatascience.com/pandas-tips-i-wish-i-knew-before-ef4ea6a39e1a) [Roman Orac] - Medium
+* [Super-quick interactive data & parameter exploration](https://anitagraser.com/2020/04/12/super-quick-interactive-data-parameter-exploration/amp/) [Anitta Grasser]
+* [Data Analysis with Python Course 2020](https://csmastersuh.github.io/data_analysis_with_python_2020/) [Jarkko Toivonen - University of Helsinki] - Course
+* [Python Web Scraping with Scrapy](https://www.youtube.com/playlist?list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t&app=desktop) [Buildwithpython] - Youtube Serie
+* [Competitive Programming Course](https://algo.is/) [Bjarki Ágúst Guðmundsson] - Course
+* [70+ Python projects for beginners, intermediate and experienced developers](https://www.theinsaneapp.com/2021/06/list-of-python-projects-with-source-code-and-tutorials.html) [Insane]
 
 </details>
 
@@ -168,6 +166,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [ggplot Wizardy: Tips and tricks](https://github.com/Z3tt/OutlierConf2021) - Github
 * [Intro to R for Journalists - How to find great stories in data](https://journalismcourses.org/course/intro-to-r-for-journalists-how-to-find-great-stories-in-data/)
 * :es: - [Crear animaciones con R y gganimate](https://anderfernandez.com/blog/como-crear-animaciones-en-r-con-gganimate/)
+* [GIS Data Repositories](https://docs.google.com/spreadsheets/d/1utQRlrX3lJniBjWE3rNjLZeTRsbjH-zdjxNmXhhvO9Q/htmlview#gid=47) - Github Repo
 
  
 
@@ -224,6 +223,8 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [2600+ Open Data Portals Around the World](https://www.opendatasoft.com/blog/2015/11/02/how-we-put-together-a-list-of-1600-open-data-portals-around-the-world-to-help-open-data-community)
 * [Free GIS Data](http://freegisdata.rtwilson.com/)
 * [GEE Custom Scripts](https://github.com/sentinel-hub/custom-scripts) - Github Repo
+* [Awesome Spectral Indices](https://github.com/davemlz/awesome-spectral-indices) - Github Repo
+
 
 </details>
 
