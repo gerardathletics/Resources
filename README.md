@@ -166,9 +166,8 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [ggplot Wizardy: Tips and tricks](https://github.com/Z3tt/OutlierConf2021) - Github
 * [Intro to R for Journalists - How to find great stories in data](https://journalismcourses.org/course/intro-to-r-for-journalists-how-to-find-great-stories-in-data/)
 * :es: - [Crear animaciones con R y gganimate](https://anderfernandez.com/blog/como-crear-animaciones-en-r-con-gganimate/)
-* [GIS Data Repositories](https://docs.google.com/spreadsheets/d/1utQRlrX3lJniBjWE3rNjLZeTRsbjH-zdjxNmXhhvO9Q/htmlview#gid=47) - Github Repo
 
- 
+
 
 </details>
 
@@ -208,22 +207,33 @@ This repository pretends to gather different interesting resources for GIS, DS a
 <details>
   <summary><b>Data sources, Research, Conferences</b> </summary>
   
+ <b>Data sources</b>
+* [Free GIS Data](http://freegisdata.rtwilson.com/)
 * :es: - [10 Fuentes de datos GIS gratis: raster y vectoriales](https://mappinggis.com/2012/05/datos-cartograficos/)
-* :es: - [Tesis doctorales en España que incluyen SIG como termino principal](http://www.nosolosig.com/articulos/1053-tesis-doctorales-en-espana-que-incluyen-sistemas-de-informacion-geografica-como-termino-principal-2015-2018)
-* :es: - [Repo Jornadas SIG Libre Sigte-UDG](https://github.com/SIGTE-UdG/jornadassiglibre) - Github Repo
-* [QGIS User Conference 2019](https://spatialthoughts.com/2019/03/08/qgis-user-conference-2019/amp/)
+* [GIS Data Repositories](https://docs.google.com/spreadsheets/d/1utQRlrX3lJniBjWE3rNjLZeTRsbjH-zdjxNmXhhvO9Q/htmlview#gid=47) 
+* [2600+ Open Data Portals Around the World](https://www.opendatasoft.com/blog/2015/11/02/how-we-put-together-a-list-of-1600-open-data-portals-around-the-world-to-help-open-data-community)
+* [Our World in Data](https://ourworldindata.org/)
+* [Data is Plural Archive](https://www.data-is-plural.com/archive/)
+* [Public Data Sources](https://docs.google.com/document/d/1Ads4XsCjXmDrdGRgfmm_OgRdpFcl6Qhs6SOllNGyq7Y/edit)
+
+  
+ <b>Conferences and meetings</b>
+* [QGIS Open Day 2021](https://github.com/qgis/QGIS/wiki/QHF-January-2021#qgis-network-analysis)
+* [FOSS4G 2019 Presentations](https://github.com/os-geoinformatics/foss4g2019?utm_campaign=Spatial%20Awareness&utm_medium=email&utm_source=Revue%20newsletter)
 * [How to do Map Stuff 2020](https://docs.google.com/spreadsheets/d/1TYCFBE5dnIW127Uu_aMVjWGJ_0vBB8RX-4UTqZDoric/edit#gid=0)
+* [QGIS User Conference 2019](https://spatialthoughts.com/2019/03/08/qgis-user-conference-2019/amp/)
+* :es: - [Repo Jornadas SIG Libre Sigte-UDG](https://github.com/SIGTE-UdG/jornadassiglibre) - Github Repo
+
+ <b>Other</b>
+* :es: - [Tesis doctorales en España que incluyen SIG como termino principal](http://www.nosolosig.com/articulos/1053-tesis-doctorales-en-espana-que-incluyen-sistemas-de-informacion-geografica-como-termino-principal-2015-2018)
 * [Copernicus EU DEM](https://land.copernicus.eu/imagery-in-situ/eu-dem/eu-dem-v1.1/view)
 * [30DayMapChallenge Data- Tjukanovt](https://github.com/tjukanovt/30DayMapChallenge) - Github Repo
 * [RS Index Database](https://www.indexdatabase.de/)
-* [FOSS4G 2019 Presentations](https://github.com/os-geoinformatics/foss4g2019?utm_campaign=Spatial%20Awareness&utm_medium=email&utm_source=Revue%20newsletter)
 * [A reproducible notebook to acquire, process and analyse satellite imagery](https://openjournals.wu.ac.at/ojs/index.php/region/article/view/295)
 * [Geographic Data Science with Python](https://geographicdata.science/book/intro.html#) - Book
-* [QGIS Open Day 2021](https://github.com/qgis/QGIS/wiki/QHF-January-2021#qgis-network-analysis)
-* [2600+ Open Data Portals Around the World](https://www.opendatasoft.com/blog/2015/11/02/how-we-put-together-a-list-of-1600-open-data-portals-around-the-world-to-help-open-data-community)
-* [Free GIS Data](http://freegisdata.rtwilson.com/)
 * [GEE Custom Scripts](https://github.com/sentinel-hub/custom-scripts) - Github Repo
 * [Awesome Spectral Indices](https://github.com/davemlz/awesome-spectral-indices) - Github Repo
+
 
 
 </details>
