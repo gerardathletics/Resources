@@ -151,9 +151,10 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Firefly Cartography](https://dominicroye.github.io/en/2021/firefly-cartography/)
 * [R for Geographic Data Science](https://sdesabbata.github.io/r-for-geographic-data-science/index.html) [Steffano de Sabata] - Book
 * :fr: [Faire des Cartograms dans R](https://transcarto.github.io/rcartograms/TRANSCARTO_cartograms.html) [ BRONNER A.C. & LAMBERT N.] - Book
+* [Climate animation of maximum temperatures](https://dominicroye.github.io/en/2020/climate-animation-of-maximum-temperatures/) [Dominic Royé]
+* :es: [Mapa dasimétrico bivariante](https://dominicroye.github.io/es/2021/mapa-dasim%C3%A9trico-bivariante/) [Dominic Royé]
 
 
-  
 <b>Data and other</b>
 * [GGplot Tutorial (Evolution of a ggplot)](https://cedricscherer.netlify.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/)
 * [How to interactively position Legend and Layout Elements](https://rgeomatic.hypotheses.org/1837)
@@ -235,7 +236,6 @@ This repository pretends to gather different interesting resources for GIS, DS a
 
 
 
-  
  <b>Conferences and meetings</b>
 * [QGIS Open Day 2021](https://github.com/qgis/QGIS/wiki/QHF-January-2021#qgis-network-analysis)
 * [FOSS4G 2019 Presentations](https://github.com/os-geoinformatics/foss4g2019?utm_campaign=Spatial%20Awareness&utm_medium=email&utm_source=Revue%20newsletter)
@@ -264,6 +264,8 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Esri Sentinel Explorer](https://sentinel2explorer.esri.com/)
 * [Create DEM and Hillshade from anywhere](https://terradactile.sparkgeo.com/)
 * [CartoGrid - Create Grids and download](https://cartogrid.vercel.app/)
+* [Automated Coastline Detection in GEE](https://code.earthengine.google.co.in/c06179ff6575c0cedd66fa1cca6e4022)
+
 </details>
 
 <details>
