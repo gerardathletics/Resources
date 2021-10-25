@@ -1,4 +1,4 @@
-# Resources
+# Resources and tutorials
 This repository pretends to gather different interesting resources for GIS, DS and programming projects. Some of the resources may be in spanish :es: or other languages. 
 
 <details>
@@ -150,6 +150,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Climate animation of Mmaximum temperatures](https://dominicroye.github.io/en/2020/climate-animation-of-maximum-temperatures/)
 * [Firefly Cartography](https://dominicroye.github.io/en/2021/firefly-cartography/)
 * [R for Geographic Data Science](https://sdesabbata.github.io/r-for-geographic-data-science/index.html) [Steffano de Sabata] - Book
+* :fr: [Faire des Cartograms dans R](https://transcarto.github.io/rcartograms/TRANSCARTO_cartograms.html) [ BRONNER A.C. & LAMBERT N.] - Book
 
 
   
@@ -175,31 +176,45 @@ This repository pretends to gather different interesting resources for GIS, DS a
   <summary><b>3D Renders</b> </summary>
   
 <b>Blender</b>
-* [Blender Relief Tutorial: Blender Basics](https://somethingaboutmaps.wordpress.com/blender-relief-tutorial-blender-basics/)
-* [Creating Shaded Relief in Blender](https://somethingaboutmaps.wordpress.com/2017/11/16/creating-shaded-relief-in-blender/amp/?__twitter_impression=true)
-* [Blender GIS (With OSM Data)](https://youtu.be/YNtKnmRXVlo) - Youtube 
-* [Blender Landscapes Tutorial](https://youtu.be/oeVUWTSkAlk) - Youtube
-* [Lily texture packer](https://gumroad.com/l/DFExj)
-* [Photorealistic Shaded Relief Blender](https://www.barthoekstra.com/blog/photo-realistic-shaded-relief-using-blender)
-* [How to create Isometric Camera Architecture](https://www.blender3darchitect.com/architectural-visualization/create-true-isometric-camera-architecture/)
+* [Blender Relief Tutorial: Blender Basics](https://somethingaboutmaps.wordpress.com/blender-relief-tutorial-blender-basics) [Daniel Huffman]
+* [Creating Shaded Relief in Blender](https://somethingaboutmaps.wordpress.com/2017/11/16/creating-shaded-relief-in-blender) [Daniel Huffman]
+* [Blender GIS (With OSM Data)](https://youtu.be/YNtKnmRXVlo) [Nicko16] - Youtube 
+* [Photorealistic Shaded Relief in Blender](https://www.barthoekstra.com/blog/photo-realistic-shaded-relief-using-blender) [Bart Hoekstra]
+* [How to create Isometric Camera for Architecture](https://www.blender3darchitect.com/architectural-visualization/create-true-isometric-camera-architecture/) [Allan Brito]
+* [Shaded Relief Maps in Blender](https://github.com/JoeWDavies/geoblender) [Joe W. Davies] - Github
+* [QGIS and Blender](https://www.youtube.com/watch?v=AJJNX243k9E) [Klass Karlsson] - Youtube 
+* [How to Create 3D Terrain with Google Maps and Blender](https://www.youtube.com/watch?v=Mj7Z1P2hUWk) [CG Geek] - Youtube 
+* [Create any City in Blender in 20 Minutes](https://www.youtube.com/watch?v=NW_djQS_N8U) [CG Geek] - Youtube 
+* [Blender GIS - introduction and complete workflow](https://www.youtube.com/watch?v=u8Fg-u-VWUE) [4D Research Lab] - Youtube
+* [Blender GIS: animating a digital elevation model](https://www.youtube.com/watch?v=ch46g-iZDUg) [4D Research Lab] - Youtube 
+* [Tactile Topography: New Heights for Old Maps](https://www.joshuastevens.net/blog/tactile-topography/) [Joshua Stevens]
+* [Tutorial: Maps and Terrain Models](https://sketchfab.com/blogs/community/tutorial-maps-terrain-models-owen-powell/?utm_source=newsletter&utm_medium=email&utm_content=2016-43-vr-movie-winners) [Owen Powell] 
+* [Using Blender as a GIS Visualisation Tool](https://locative.dev/assignment/2021/02/10/assignment-2/) [Amber Peek]
+* [Updating a Historical USGS Map with Data from NASA](https://80.lv/articles/updating-a-historical-usgs-map-with-data-from-nasa/) [Thomas Flynn]
+* [Artistic Coding in Blender](https://www.youtube.com/watch?v=r8hqLh_HE08) [David Mignot] - Youtube 
+
 
 <b>Aerialod</b>
 * [3D Landscape with Aerialod](http://www.statsmapsnpix.com/2020/03/making-3d-landscape-and-city-models.html?m=1)
 * [Population Density 3D QGIS+Aerialod](http://www.statsmapsnpix.com/2020/04/population-density-in-europe.html?m=1)
+* [Idiots Guide to making 3D maps](https://victimofmaths.github.io/posts/2020/11/3D%20map%20tutorial/)
+
+<b>R</b>
+* [Creating 2D and 3D visualizations with rayshader](https://opentopography.org/blog/creating-2d-and-3d-visualizations-rayshader)
+* [Step by step 3D render maps with satellite imagery in R](https://www.tylermw.com/a-step-by-step-guide-to-making-3d-maps-with-satellite-imagery-in-r/)
+
+<b>QGIS - ArcGIS</b>
+* [Creating 3D vintage topo maps in ArcGIS Pro - lessons learnt](https://urbandatapalette.com/post/2021-06-3d-topo-map-notes/) [Urban Data Palette]
+* [Hillshade 3D of Scanned Topographic Maps in QGIS](https://youtu.be/dcx8-m2nHpI) - Youtube
 
 <b>Other</b>
-* [Hillshade 3D of Scanned Topographic Maps in QGIS](https://youtu.be/dcx8-m2nHpI) - Youtube
 * [3D Realistic Online Renderer](https://w3reality.github.io/three-geo/examples/geo-viewer/io/index.html?)
 * :es: - [Descargar areas de Google Maps 3D](https://twitter.com/kohantoys/status/1327350941327249408?s=19) - Twitter
 * [Create DEM and Hillshade from anywhere](https://terradactile.sparkgeo.com/)
 * [Google Earth Web](https://earth.google.com/web/)
 * [3D Glasses Analagryph / Crossview - 3D Map](https://steveattewell.com/stereomap/)
-* [Step by step 3D render maps with satellite imagery in R](https://www.tylermw.com/a-step-by-step-guide-to-making-3d-maps-with-satellite-imagery-in-r/)
-* :es: - [Crear Sección Transversal 3D con Inkscape](https://geoinnova.org/blog-territorio/como-crear-una-seccion-transversal-3d-fotorrealista-con-inkscape/amp/#click=https://t.co/vEtYB7cYD4)
+* :es: - [Crear Sección Transversal 3D con Inkscape](https://geoinnova.org/blog-territorio/como-crear-una-seccion-transversal-3d-fotorrealista-con-inkscape/)
 * [Getting Started with web 3D ArcGIS JavaScript API](https://github.com/RalucaNicola/get-started-arcgis-js-api/blob/master/README.md) - Github Repo
-* [Idiots Guide to making 3D maps](https://victimofmaths.github.io/posts/2020/11/3D%20map%20tutorial/)
-* [Creating 2D and 3D visualizations with rayshader](https://opentopography.org/blog/creating-2d-and-3d-visualizations-rayshader)
-
 
 
 </details>
@@ -216,6 +231,8 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Data is Plural Archive](https://www.data-is-plural.com/archive/)
 * [Public Data Sources](https://docs.google.com/document/d/1Ads4XsCjXmDrdGRgfmm_OgRdpFcl6Qhs6SOllNGyq7Y/edit)
 * [Radiant ML Hub](https://mlhub.earth/)
+* [Global Ocean and Land Terrain Models - Bathymetry](https://www.gebco.net/data_and_products/gridded_bathymetry_data/)
+
 
 
   
