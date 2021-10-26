@@ -289,7 +289,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 </details>
 
 <details>
-  <summary><b>DS - ML - Stats</b> </summary>
+  <summary><b>General Data Science - Machine Learning - Statistics</b> </summary>
   
 * [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)
 * [Bayesian Sats with R](https://oliviergimenez.github.io/bayesian-stats-with-R/)
