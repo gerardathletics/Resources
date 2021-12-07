@@ -234,57 +234,57 @@ This repository pretends to gather different interesting resources for GIS, DS a
   
  <b>Data sources</b>
 
-- [Free GIS Data](http://freegisdata.rtwilson.com/)
-- :es: - [10 Fuentes de datos GIS gratis: raster y vectoriales](https://mappinggis.com/2012/05/datos-cartograficos/)
-- [GIS Data Repositories](https://docs.google.com/spreadsheets/d/1utQRlrX3lJniBjWE3rNjLZeTRsbjH-zdjxNmXhhvO9Q/htmlview#gid=47)
-- [2600+ Open Data Portals Around the World](https://www.opendatasoft.com/blog/2015/11/02/how-we-put-together-a-list-of-1600-open-data-portals-around-the-world-to-help-open-data-community)
-- [Our World in Data](https://ourworldindata.org/)
-- [Data is Plural Archive](https://www.data-is-plural.com/archive/)
-- [Public Data Sources](https://docs.google.com/document/d/1Ads4XsCjXmDrdGRgfmm_OgRdpFcl6Qhs6SOllNGyq7Y/edit)
-- [Radiant ML Hub](https://mlhub.earth/)
-- [Global Ocean and Land Terrain Models - Bathymetry](https://www.gebco.net/data_and_products/gridded_bathymetry_data/)
+- [Free GIS Data](http://freegisdata.rtwilson.com/) [Robin Wilson]
+- :es: - [10 Fuentes de datos GIS gratis: raster y vectoriales](https://mappinggis.com/2012/05/datos-cartograficos/) [Aurelio Morales - MappingGIS]
+- [GIS Data Repositories](https://docs.google.com/spreadsheets/d/1utQRlrX3lJniBjWE3rNjLZeTRsbjH-zdjxNmXhhvO9Q/htmlview) - Google Docs
+- [2600+ Open Data Portals Around the World](https://opendatainception.io/) [Opendatasoft] - Web-Map app
+- [Our World in Data](https://ourworldindata.org/) [OurWorldInData]
+- [Data is Plural Archive](https://www.data-is-plural.com/archive/) 
+- [Public Data Sources](https://docs.google.com/document/d/1Ads4XsCjXmDrdGRgfmm_OgRdpFcl6Qhs6SOllNGyq7Y/edit) - Google Docs
+- [Radiant ML Hub: cloud-based open library dedicated to Earth observation training data for use with ML algorithms](https://mlhub.earth/) [Radiant Earth Foundation]
+- [Global Ocean and Land Terrain Models - Bathymetry](https://www.gebco.net/data_and_products/gridded_bathymetry_data/) [GEBCO]
 
 <b>Conferences and meetings</b>
 
-- [QGIS Open Day 2021](https://github.com/qgis/QGIS/wiki/QHF-January-2021#qgis-network-analysis)
-- [FOSS4G 2019 Presentations](https://github.com/os-geoinformatics/foss4g2019?utm_campaign=Spatial%20Awareness&utm_medium=email&utm_source=Revue%20newsletter)
-- [How to do Map Stuff 2020](https://docs.google.com/spreadsheets/d/1TYCFBE5dnIW127Uu_aMVjWGJ_0vBB8RX-4UTqZDoric/edit#gid=0)
-- [QGIS User Conference 2019](https://spatialthoughts.com/2019/03/08/qgis-user-conference-2019/amp/)
-- :es: - [Repo Jornadas SIG Libre Sigte-UDG](https://github.com/SIGTE-UdG/jornadassiglibre) - Github Repo
+- [QGIS Open Day 2021](https://github.com/qgis/QGIS/wiki/QHF-January-2021) [qgis] - Github Repo
+- [FOSS4G 2019 Presentations](https://github.com/os-geoinformatics/foss4g2019) [os-geoinformatics] - Github Repo
+- [How to do Map Stuff 2020](https://docs.google.com/spreadsheets/d/1TYCFBE5dnIW127Uu_aMVjWGJ_0vBB8RX-4UTqZDoric/edit#gid=0) - Google Docs
+- [QGIS User Conference 2019](https://spatialthoughts.com/2019/03/08/qgis-user-conference-2019) - [SpatialThoughts]
+- :es: - [Repo Jornadas SIG Libre Sigte-UDG](https://github.com/SIGTE-UdG/jornadassiglibre) [SIGTE-UdG] - Github Repo
 
 <b>Other</b>
 
-- :es: - [Tesis doctorales en España que incluyen SIG como termino principal](http://www.nosolosig.com/articulos/1053-tesis-doctorales-en-espana-que-incluyen-sistemas-de-informacion-geografica-como-termino-principal-2015-2018)
-- [Copernicus EU DEM](https://land.copernicus.eu/imagery-in-situ/eu-dem/eu-dem-v1.1/view)
-- [30DayMapChallenge Data- Tjukanovt](https://github.com/tjukanovt/30DayMapChallenge) - Github Repo
-- [RS Index Database](https://www.indexdatabase.de/)
-- [A reproducible notebook to acquire, process and analyse satellite imagery](https://openjournals.wu.ac.at/ojs/index.php/region/article/view/295)
-- [Geographic Data Science with Python](https://geographicdata.science/book/intro.html#) - Book
-- [GEE Custom Scripts](https://github.com/sentinel-hub/custom-scripts) - Github Repo
-- [Awesome Spectral Indices](https://github.com/davemlz/awesome-spectral-indices) - Github Repo
+- :es: - [Tesis doctorales en España que incluyen SIG como termino principal 2015-2018](http://www.nosolosig.com/articulos/1053-tesis-doctorales-en-espana-que-incluyen-sistemas-de-informacion-geografica-como-termino-principal-2015-2018) [Nosolosig]
+- [Copernicus EU DEM](https://land.copernicus.eu/imagery-in-situ/eu-dem/eu-dem-v1.1/view) [Copernicus EU]
+- [30DayMapChallenge](https://github.com/tjukanovt/30DayMapChallenge) [tjukanovt] - Github Repo
+- [RS Index Database](https://www.indexdatabase.de/) [V. Henrich, G. Krauss, C. Götze & C. Sandow]
+- [A reproducible notebook to acquire, process and analyse satellite imagery](https://openjournals.wu.ac.at/ojs/index.php/region/article/view/295) [M. Chen, D. Fahrner, D. Arribas-Bel, & F. Rowe]
+- [Geographic Data Science with Python](https://geographicdata.science/book/intro.html#) [S.J. Rey, D. Arribas-Bel, & L.J. Wolf] - Book
+- [GEE Custom Scripts](https://github.com/sentinel-hub/custom-scripts) [Sentinel-hub] - Github Repo
+- [Awesome Spectral Indices](https://github.com/davemlz/awesome-spectral-indices) [davemlz] - Github Repo
 
 </details>
 
 <details>
   <summary><b>Tools</b> </summary>
   
-* [Intro to Postgis](https://postgis.net/workshops/postgis-intro/)
+* [Intro to PostGIS](https://postgis.net/workshops/postgis-intro/) [PostGIS]
 * [Esri Sentinel Explorer](https://sentinel2explorer.esri.com/)
-* [Create DEM and Hillshade from anywhere](https://terradactile.sparkgeo.com/)
-* [CartoGrid - Create Grids and download](https://cartogrid.vercel.app/)
-* [Automated Coastline Detection in GEE](https://code.earthengine.google.co.in/c06179ff6575c0cedd66fa1cca6e4022)
+* [Create DEM and Hillshade from anywhere](https://terradactile.sparkgeo.com/) [Terradactile]
+* [CartoGrid - Create Grids and download](https://cartogrid.vercel.app/) [dbabbs]
+* [Automated Coastline Detection in GEE](https://code.earthengine.google.co.in/c06179ff6575c0cedd66fa1cca6e4022) [Ujaval Gandhi] - Google Earth Engine
 
 </details>
 
 <details>
   <summary><b>Web mapping</b> </summary>
   
-* [WebMapping Notes (Dani Arribas)](http://darribas.org/wmn/)
-* [WebMapping Workbook](https://github.com/uwcartlab/webmapping) - Github Repo
-* [Getting Started with web 3D ArcGIS JavaScript API](https://github.com/RalucaNicola/get-started-arcgis-js-api/blob/master/README.md) - Github Repo
-* [Data Visualization with D3.js - Full Tutorial Course](https://www.youtube.com/watch?v=_8V5o2UHG0E&list=WL&index=101&t=39244s) - Youtube
-* :es: - [Despliega tu mapa - Leaflet](https://dcapillae.github.io/despliega-tu-mapa/)
-* [Frontend GIS Resources](https://github.com/JoeWDavies/Frontend-GIS-Resources) [Joe W Davies] - Github Repo
+* [WebMapping Notes (Dani Arribas)](http://darribas.org/wmn/) [D. Arribas-Bel]
+* [WebMapping Workbook](https://github.com/uwcartlab/webmapping) [ Roth RE, CM Sack, G Baldrica-Franklin, Y Chen, R Donohue, L Houtman, T Prestby, R Tolochko, & N Underwood]- Github Repo
+- [Getting Started with web 3D ArcGIS JavaScript API: create a globe visualization of places you've been to](https://github.com/RalucaNicola/get-started-arcgis-js-api/blob/master/README.md) [Raluca Nicola] - Github Repo
+* [Data Visualization with D3.js - Full Tutorial Course](https://www.youtube.com/watch?v=_8V5o2UHG0E&list=WL&index=101&t=39244s) [FreeCodeCamp] - Youtube
+* :es: - [Despliega tu mapa - Leaflet](https://dcapillae.github.io/despliega-tu-mapa/) [dcapillae]
+* [Frontend GIS Resources](https://github.com/JoeWDavies/Frontend-GIS-Resources) [Joe W. Davies] - Github Repo
 * [Crear un mapa web interactivo con D3](https://www.unigis.es/mapa-web-interactivo-con-d3/) [Josep Sitjar - UNIGIS]
 
 </details>
@@ -298,6 +298,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Geostatistics Lessons](http://www.geostatisticslessons.com/)
 * :es: - [Data Science Learning Path](https://ds-path.netlify.app/)
 * [R for Geographic Data Science](https://sdesabbata.github.io/r-for-geographic-data-science/index.html) [Steffano de Sabata] - Book
+- [Geographic Data Science with Python](https://geographicdata.science/book/intro.html#) [S.J. Rey, D. Arribas-Bel & L.J. Wolf] - Book
 
 </details>
 
