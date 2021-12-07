@@ -139,23 +139,23 @@ This repository pretends to gather different interesting resources for GIS, DS a
 
 <b>Geo</b>
 
-- [Z3tt 30DayMapChallenge Repo (Examples)](https://github.com/Z3tt/30DayMapChallenge) - Github Repo
-- [Bob Rudis - 30DayMapChallenge Tutorials](https://rud.is/books/30-day-map-challenge/)
-- [Maps With R and GGplot 2 30DayMapChallenge(Examples)](https://statnmap.com/2019-11-08-30daymapchallenge-building-maps-1/)
-- [GeoComputation in R](https://geocompr.robinlovelace.net/intro.html)
-- :es: - [Mapas de coropletas, cartogramas y animados en R](https://mappinggis.com/2020/03/mapas-de-coropletas-cartogramas-y-mapas-animados-con-r/)
-- [GEE in RStudio with Reticulate](https://philippgaertner.github.io/2019/12/earth-engine-rstudio-reticulate/#disqus_thread)
-- [Pathtracing Neon Landscapes in R](https://www.tylermw.com/pathtracing-neon-landscapes-in-r/)
-- :es: - [Paquetes de R para GIS mas utilizados](https://mappinggis.com/2019/12/los-paquetes-de-r-para-gis-mas-utilizados/)
-- [Introduction to Landscape Ecology with R](https://r-spatialecology.github.io/ialena-2020/#1)
-- [RGEE example](https://csaybar.github.io/blog/2020/06/15/rgee_02_io/)
-- [Calculating distance from the see in R](https://dominicroye.github.io/en/2019/calculating-the-distance-to-the-sea-in-r/)
-- [OSMR R package](https://github.com/rcarto/osrm) - Github Repo
-- [Map my Run in R](https://bryer.org/post/2021-02-15-map_my_run_in_r/)
-- :es: - [Mapa estilo Joy Plot con Qgis y R](https://danielredondo.com/posts/20200125_joy_division/)
-- :es: - [Visualizar crecimiento urbano en España con R](https://dominicroye.github.io/es/2019/visualizar-el-crecimiento-urbano/)
-- [Climate animation of Mmaximum temperatures](https://dominicroye.github.io/en/2020/climate-animation-of-maximum-temperatures/)
-- [Firefly Cartography](https://dominicroye.github.io/en/2021/firefly-cartography/)
+- [Z3tt - 2019 30DayMapChallenge (Maps Code)](https://github.com/Z3tt/30DayMapChallenge) [z3tt] - Github Repo
+- [Bob Rudis - 2019 30DayMapChallenge Tutorials](https://rud.is/books/30-day-map-challenge/) [Bob Rudis]
+- [GeoComputation in R](https://geocompr.robinlovelace.net/index.html) [Jean-Marc Viglino] - Book
+- :es: - [Mapas de coropletas, cartogramas y animados en R](https://mappinggis.com/2020/03/mapas-de-coropletas-cartogramas-y-mapas-animados-con-r/) [Diana Alonso - MappingGIS]
+- [GEE in RStudio with Reticulate](https://philippgaertner.github.io/2019/12/earth-engine-rstudio-reticulate) [Philipp Gärtner]
+- [Pathtracing Neon Landscapes in R](https://www.tylermw.com/pathtracing-neon-landscapes-in-r/) [Tyler Morgan-Wall]
+- :es: - [Paquetes de R para GIS mas utilizados](https://mappinggis.com/2019/12/los-paquetes-de-r-para-gis-mas-utilizados/) [Aurelio Morales - MappingGIS]
+- [Introduction to Landscape Ecology with R](https://r-spatialecology.github.io/ialena-2020/#1) [Jakub Nowosad & Maximilian H.K. Hessebarth]
+- [RGEE example 1: Creating Static and Interactive Maps](https://csaybar.github.io/blog/2020/06/10/rgee_01_worldmap/) [Cesar Aybar]
+- [RGEE example 2: Satellite Image Preprocessing](https://csaybar.github.io/blog/2020/06/15/rgee_02_io/) [Cesar Aybar]
+- [Calculating distance from the see in R](https://dominicroye.github.io/en/2019/calculating-the-distance-to-the-sea-in-r/) [Dominic Royé]
+- [OSMR R Package](https://github.com/rcarto/osrm) [riatelab] - Github Repo
+- [Map my Run in R](https://bryer.org/post/2021-02-15-map_my_run_in_r/) [Jason Bryer]
+- :es: - [Mapa estilo Joy Plot con Qgis y R](https://danielredondo.com/posts/20200125_joy_division/) [Daniel Redondo]
+- :es: - [Visualizar crecimiento urbano en España con R](https://dominicroye.github.io/es/2019/visualizar-el-crecimiento-urbano/) [Dominic Royé]
+- [Climate animation of Mmaximum temperatures](https://dominicroye.github.io/en/2020/climate-animation-of-maximum-temperatures/) [Dominic Royé]
+- [Firefly Cartography](https://dominicroye.github.io/en/2021/firefly-cartography/) [Dominic Royé]
 - [R for Geographic Data Science](https://sdesabbata.github.io/r-for-geographic-data-science/index.html) [Steffano de Sabata] - Book
 - :fr: [Faire des Cartograms dans R](https://transcarto.github.io/rcartograms/TRANSCARTO_cartograms.html) [ BRONNER A.C. & LAMBERT N.] - Book
 - [Climate animation of maximum temperatures](https://dominicroye.github.io/en/2020/climate-animation-of-maximum-temperatures/) [Dominic Royé]
@@ -163,18 +163,18 @@ This repository pretends to gather different interesting resources for GIS, DS a
 
 <b>Data and other</b>
 
-- [GGplot Tutorial (Evolution of a ggplot)](https://cedricscherer.netlify.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/)
-- [How to interactively position Legend and Layout Elements](https://rgeomatic.hypotheses.org/1837)
-- [gkaramanis Tidy Tuesday (Examples)](https://github.com/gkaramanis/tidytuesday) - Github Repo
-- [DataViz Classes](https://datavizm20.classes.andrewheiss.com/)
-- [List Awesome R Libraries](https://github.com/Ronlee12355/Road2R) - Github Repo
-- [Autoplotly Library: Automatic Generation of Interactive Visualizations](https://github.com/terrytangyuan/autoplotly) - Github Repo
-- [Animated Graphs in R - DataSlice Youtube](https://www.youtube.com/watch?v=SnCi0s0e4Io&feature=youtu.be) - Youtube
-- :es: - [Acceder a Tweets desde R](https://geoinnova.org/blog-territorio/como-crear-una-app-de-twitter-para-poder-acceder-a-tweets-a-traves-de-r/?utm_campaign=nosolosig&utm_medium=email&utm_source=mailing495)
-- [My visual CV in R](https://adomingues.github.io/2020/11/25/visual-cv/)
-- [ggplot Wizardy: Tips and tricks](https://github.com/Z3tt/OutlierConf2021) - Github
-- [Intro to R for Journalists - How to find great stories in data](https://journalismcourses.org/course/intro-to-r-for-journalists-how-to-find-great-stories-in-data/)
-- :es: - [Crear animaciones con R y gganimate](https://anderfernandez.com/blog/como-crear-animaciones-en-r-con-gganimate/)
+- [GGplot Tutorial: Evolution of a ggplot](https://cedricscherer.netlify.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/) [Cédric Scherer]
+- [How to interactively position Legend and Layout Elements](https://rgeomatic.hypotheses.org/1837) [Timothée Giraud]
+- [gkaramanis Tidy Tuesday (Examples)](https://github.com/gkaramanis/tidytuesday) [gkaramanis] - Github Repo
+- [DataViz Classes](https://datavizm20.classes.andrewheiss.com/) [Andre Wheiss]
+- [Road2R: List Awesome R Libraries](https://github.com/Ronlee12355/Road2R) [Ronlee12355] - Github Repo
+- [Autoplotly Library: Automatic Generation of Interactive Visualizations](https://github.com/terrytangyuan/autoplotly) [terrytangyuan] - Github Repo
+- [Animate Graphs in R: Make Gorgeous Animated Plots with gganimate](https://www.youtube.com/watch?v=SnCi0s0e4Io) [Dataslice] - Youtube video
+- :es: - [Acceder a Tweets desde R](https://geoinnova.org/blog-territorio/como-crear-una-app-de-twitter-para-poder-acceder-a-tweets-a-traves-de-r/) [GeoInnova]
+- [My visual CV in R](https://adomingues.github.io/2020/11/25/visual-cv/) [Antonio Domingues]
+- [ggplot Wizardry: My Favorite Tricks and Secrets for Beautiful Plots in R](https://github.com/Z3tt/OutlierConf2021) [z3tt] - Github
+- [Intro to R for Journalists - How to find great stories in data](https://journalismcourses.org/course/intro-to-r-for-journalists-how-to-find-great-stories-in-data/) [Knight Center]
+- :es: - [Crear animaciones con R y gganimate](https://anderfernandez.com/blog/como-crear-animaciones-en-r-con-gganimate/) [Ander Fernández]
 
 </details>
 
@@ -185,46 +185,47 @@ This repository pretends to gather different interesting resources for GIS, DS a
 
 - [Blender Relief Tutorial: Blender Basics](https://somethingaboutmaps.wordpress.com/blender-relief-tutorial-blender-basics) [Daniel Huffman]
 - [Creating Shaded Relief in Blender](https://somethingaboutmaps.wordpress.com/2017/11/16/creating-shaded-relief-in-blender) [Daniel Huffman]
-- [Blender GIS (With OSM Data)](https://youtu.be/YNtKnmRXVlo) [Nicko16] - Youtube
+- [Blender GIS (With OSM Data)](https://youtu.be/YNtKnmRXVlo) [Nicko16] - Youtube video
 - [Photorealistic Shaded Relief in Blender](https://www.barthoekstra.com/blog/photo-realistic-shaded-relief-using-blender) [Bart Hoekstra]
 - [How to create Isometric Camera for Architecture](https://www.blender3darchitect.com/architectural-visualization/create-true-isometric-camera-architecture/) [Allan Brito]
 - [Shaded Relief Maps in Blender](https://github.com/JoeWDavies/geoblender) [Joe W. Davies] - Github
-- [QGIS and Blender](https://www.youtube.com/watch?v=AJJNX243k9E) [Klass Karlsson] - Youtube
-- [How to Create 3D Terrain with Google Maps and Blender](https://www.youtube.com/watch?v=Mj7Z1P2hUWk) [CG Geek] - Youtube
-- [Create any City in Blender in 20 Minutes](https://www.youtube.com/watch?v=NW_djQS_N8U) [CG Geek] - Youtube
-- [Blender GIS - introduction and complete workflow](https://www.youtube.com/watch?v=u8Fg-u-VWUE) [4D Research Lab] - Youtube
-- [Blender GIS: animating a digital elevation model](https://www.youtube.com/watch?v=ch46g-iZDUg) [4D Research Lab] - Youtube
+- [QGIS and Blender](https://www.youtube.com/watch?v=AJJNX243k9E) [Klass Karlsson] - Youtube video
+- [How to Create 3D Terrain with Google Maps and Blender](https://www.youtube.com/watch?v=Mj7Z1P2hUWk) [CG Geek] - Youtube video
+- [Create any City in Blender in 20 Minutes](https://www.youtube.com/watch?v=NW_djQS_N8U) [CG Geek] - Youtube video
+- [Blender GIS - introduction and complete workflow](https://www.youtube.com/watch?v=u8Fg-u-VWUE) [4D Research Lab] - Youtube video
+- [Blender GIS: animating a digital elevation model](https://www.youtube.com/watch?v=ch46g-iZDUg) [4D Research Lab] - Youtube video
 - [Tactile Topography: New Heights for Old Maps](https://www.joshuastevens.net/blog/tactile-topography/) [Joshua Stevens]
-- [Tutorial: Maps and Terrain Models](https://sketchfab.com/blogs/community/tutorial-maps-terrain-models-owen-powell/?utm_source=newsletter&utm_medium=email&utm_content=2016-43-vr-movie-winners) [Owen Powell]
+- [Tutorial: Maps and Terrain Models](https://sketchfab.com/blogs/community/tutorial-maps-terrain-models-owen-powell/) [Owen Powell]
 - [Using Blender as a GIS Visualisation Tool](https://locative.dev/assignment/2021/02/10/assignment-2/) [Amber Peek]
 - [Updating a Historical USGS Map with Data from NASA](https://80.lv/articles/updating-a-historical-usgs-map-with-data-from-nasa/) [Thomas Flynn]
-- [Artistic Coding in Blender](https://www.youtube.com/watch?v=r8hqLh_HE08) [David Mignot] - Youtube
+- [Artistic Coding in Blender](https://www.youtube.com/watch?v=r8hqLh_HE08) [David Mignot] - Youtube video
+- :es: - [Descargar areas de Google Maps 3D](https://twitter.com/kohantoys/status/1327350941327249408?s=19) [Kohantoys] - Twitter 
+
 
 <b>Aerialod</b>
 
-- [3D Landscape with Aerialod](http://www.statsmapsnpix.com/2020/03/making-3d-landscape-and-city-models.html?m=1)
-- [Population Density 3D QGIS+Aerialod](http://www.statsmapsnpix.com/2020/04/population-density-in-europe.html?m=1)
-- [Idiots Guide to making 3D maps](https://victimofmaths.github.io/posts/2020/11/3D%20map%20tutorial/)
+- [3D Landscape with Aerialod](http://www.statsmapsnpix.com/2020/03/making-3d-landscape-and-city-models.html) [ALasdair Rae]
+- [Population Density 3D QGIS+Aerialod](http://www.statsmapsnpix.com/2020/04/population-density-in-europe.html) [ALasdair Rae]
+- [Idiots Guide to making 3D maps](https://victimofmaths.github.io/posts/2020/11/3D%20map%20tutorial/) [Colin Angus]
 
 <b>R</b>
 
-- [Creating 2D and 3D visualizations with rayshader](https://opentopography.org/blog/creating-2d-and-3d-visualizations-rayshader)
-- [Step by step 3D render maps with satellite imagery in R](https://www.tylermw.com/a-step-by-step-guide-to-making-3d-maps-with-satellite-imagery-in-r/)
+- [Creating 2D and 3D visualizations with rayshader](https://opentopography.org/blog/creating-2d-and-3d-visualizations-rayshader) [Nat Quinn]
+- [Step by step 3D render maps with satellite imagery in R](https://www.tylermw.com/a-step-by-step-guide-to-making-3d-maps-with-satellite-imagery-in-r/) [Tyler Morgan-Wall]
 
 <b>QGIS - ArcGIS</b>
 
 - [Creating 3D vintage topo maps in ArcGIS Pro - lessons learnt](https://urbandatapalette.com/post/2021-06-3d-topo-map-notes/) [Urban Data Palette]
-- [Hillshade 3D of Scanned Topographic Maps in QGIS](https://youtu.be/dcx8-m2nHpI) - Youtube
+- [Hillshade 3D of Scanned Topographic Maps in QGIS](https://youtu.be/dcx8-m2nHpI) [Hans van der Kwast] - Youtube video
 
 <b>Other</b>
 
-- [3D Realistic Online Renderer](https://w3reality.github.io/three-geo/examples/geo-viewer/io/index.html?)
-- :es: - [Descargar areas de Google Maps 3D](https://twitter.com/kohantoys/status/1327350941327249408?s=19) - Twitter
-- [Create DEM and Hillshade from anywhere](https://terradactile.sparkgeo.com/)
-- [Google Earth Web](https://earth.google.com/web/)
-- [3D Glasses Analagryph / Crossview - 3D Map](https://steveattewell.com/stereomap/)
-- :es: - [Crear Sección Transversal 3D con Inkscape](https://geoinnova.org/blog-territorio/como-crear-una-seccion-transversal-3d-fotorrealista-con-inkscape/)
-- [Getting Started with web 3D ArcGIS JavaScript API](https://github.com/RalucaNicola/get-started-arcgis-js-api/blob/master/README.md) - Github Repo
+- [3D Realistic Online Renderer](https://w3reality.github.io/three-geo/examples/geo-viewer/io/index.html) [w3reality]
+- [Create DEM and Hillshade from anywhere](https://terradactile.sparkgeo.com/) [Terradactile]
+- [Google Earth Web](https://earth.google.com/web/) [Google]
+- [3D Glasses Analagryph / Crossview - 3D Map](https://steveattewell.com/stereomap/) [Steve Attewell]
+- :es: - [Crear Sección Transversal 3D con Inkscape](https://geoinnova.org/blog-territorio/como-crear-una-seccion-transversal-3d-fotorrealista-con-inkscape/) [GeoInnova]
+- [Getting Started with web 3D ArcGIS JavaScript API: create a globe visualization of places you've been to](https://github.com/RalucaNicola/get-started-arcgis-js-api/blob/master/README.md) [Raluca Nicola] - Github Repo
 
 </details>
 
