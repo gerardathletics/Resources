@@ -122,7 +122,6 @@ This repository pretends to gather different interesting resources for GIS, DS a
 - [Ridge Map Tutorial](https://github.com/ColCarroll/ridge_map?) [Colin Carroll] - Github Repo
 - [Analysing urban walkability with python and OSM](https://www.gispo.fi/en/blog/analysing-urban-walkability-using-openstreetmap-and-python/) [Eemil - Gispo Finland]
 - [Pretty maps: A minimal Python library to draw customized maps from OpenStreetMap data](https://github.com/marceloprates/prettymaps) [Marcelo Prates] - Github Repo
-- [Geocomputation with R](https://geocompr.robinlovelace.net/) [Robin Lovelace, Jakub Nowosad & Jannes Muenchow] - Book
 
   <b>Data and other</b>
 
@@ -142,7 +141,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 
 - [Z3tt - 2019 30DayMapChallenge (Maps Code)](https://github.com/Z3tt/30DayMapChallenge) [z3tt] - Github Repo
 - [Bob Rudis - 2019 30DayMapChallenge Tutorials](https://rud.is/books/30-day-map-challenge/) [Bob Rudis]
-- [GeoComputation in R](https://geocompr.robinlovelace.net/index.html) [Jean-Marc Viglino] - Book
+- [Geocomputation with R](https://geocompr.robinlovelace.net/) [Robin Lovelace, Jakub Nowosad & Jannes Muenchow] - Book
 - :es: - [Mapas de coropletas, cartogramas y animados en R](https://mappinggis.com/2020/03/mapas-de-coropletas-cartogramas-y-mapas-animados-con-r/) [Diana Alonso - MappingGIS]
 - [GEE in RStudio with Reticulate](https://philippgaertner.github.io/2019/12/earth-engine-rstudio-reticulate) [Philipp Gärtner]
 - [Pathtracing Neon Landscapes in R](https://www.tylermw.com/pathtracing-neon-landscapes-in-r/) [Tyler Morgan-Wall]
