@@ -122,8 +122,9 @@ This repository pretends to gather different interesting resources for GIS, DS a
 - [Ridge Map Tutorial](https://github.com/ColCarroll/ridge_map?) [Colin Carroll] - Github Repo
 - [Analysing urban walkability with python and OSM](https://www.gispo.fi/en/blog/analysing-urban-walkability-using-openstreetmap-and-python/) [Eemil - Gispo Finland]
 - [Pretty maps: A minimal Python library to draw customized maps from OpenStreetMap data](https://github.com/marceloprates/prettymaps) [Marcelo Prates] - Github Repo
+- [Geocomputation with R](https://geocompr.robinlovelace.net/) [Robin Lovelace, Jakub Nowosad & Jannes Muenchow] - Book
 
-<b>Data and other</b>
+  <b>Data and other</b>
 
 - [Pandas Tips I wish I knew Before](https://towardsdatascience.com/pandas-tips-i-wish-i-knew-before-ef4ea6a39e1a) [Roman Orac] - Medium
 - [Super-quick interactive data & parameter exploration](https://anitagraser.com/2020/04/12/super-quick-interactive-data-parameter-exploration/amp/) [Anitta Grasser]
@@ -199,7 +200,9 @@ This repository pretends to gather different interesting resources for GIS, DS a
 - [Using Blender as a GIS Visualisation Tool](https://locative.dev/assignment/2021/02/10/assignment-2/) [Amber Peek]
 - [Updating a Historical USGS Map with Data from NASA](https://80.lv/articles/updating-a-historical-usgs-map-with-data-from-nasa/) [Thomas Flynn]
 - [Artistic Coding in Blender](https://www.youtube.com/watch?v=r8hqLh_HE08) [David Mignot] - Youtube video
-- :es: - [Descargar areas de Google Maps 3D](https://twitter.com/kohantoys/status/1327350941327249408?s=19) [Kohantoys] - Twitter 
+- :es: - [Descargar areas de Google Maps 3D](https://twitter.com/kohantoys/status/1327350941327249408?s=19) [Kohantoys] - Twitter
+- [How to Make Earth in Blender (Cycles)](https://www.youtube.com/watch?v=9Q8PwcDzb8Y) [Blender Guru] - Youtube video
+
 
 
 <b>Aerialod</b>
