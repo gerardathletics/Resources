@@ -202,7 +202,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 - :es: - [Descargar areas de Google Maps 3D](https://twitter.com/kohantoys/status/1327350941327249408?s=19) [Kohantoys] - Twitter
 - [How to Make Earth in Blender (Cycles)](https://www.youtube.com/watch?v=9Q8PwcDzb8Y) [Blender Guru] - Youtube video
 - [How to Make a 3D Map in Blender](https://wesleybarrgis.wordpress.com/2020/05/19/how-to-make-a-3d-map-in-blender/) [Wesley Barr]
-- [Como hacer mapas antiguos en 3D molones](https://www.youtube.com/watch?v=LgFN4YI8CqE) [GISTEKA] - Youtube video
+- :es: - [Como hacer mapas antiguos en 3D molones](https://www.youtube.com/watch?v=LgFN4YI8CqE) [GISTEKA] - Youtube video
 
 
 
