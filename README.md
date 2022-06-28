@@ -2,7 +2,7 @@
 
 This repository pretends to gather different interesting resources for GIS, DS and programming projects. Some of the resources may be in spanish :es: or other languages.
 
-### General Cartography - GIS 
+## General Cartography - GIS 
 
 <details> 
 <summary><b>Resources </b></summary>
@@ -48,7 +48,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 
 </details>
 
-### QGIS 
+## QGIS 
 <details>
   <summary><b>QGIS</b> </summary>
 
@@ -102,6 +102,8 @@ This repository pretends to gather different interesting resources for GIS, DS a
 
 </details>
 
+## Python  
+
 <details>
   <summary><b>PYTHON</b> </summary>
   
@@ -137,6 +139,8 @@ This repository pretends to gather different interesting resources for GIS, DS a
 - [70+ Python projects for beginners, intermediate and experienced developers](https://www.theinsaneapp.com/2021/06/list-of-python-projects-with-source-code-and-tutorials.html) [Insane]
 
 </details>
+
+## R 
 
 <details>
   <summary><b>R</b> </summary>
@@ -182,6 +186,8 @@ This repository pretends to gather different interesting resources for GIS, DS a
 
 </details>
 
+## 3D Renders 
+
 <details>
   <summary><b>3D Renders</b> </summary>
   
@@ -207,8 +213,6 @@ This repository pretends to gather different interesting resources for GIS, DS a
 - [How to Make Earth in Blender (Cycles)](https://www.youtube.com/watch?v=9Q8PwcDzb8Y) [Blender Guru] - Youtube video
 - [How to Make a 3D Map in Blender](https://wesleybarrgis.wordpress.com/2020/05/19/how-to-make-a-3d-map-in-blender/) [Wesley Barr]
 - :es: - [Como hacer mapas antiguos en 3D molones](https://www.youtube.com/watch?v=LgFN4YI8CqE) [GISTEKA] - Youtube video
-
-
 
 
 <b>Aerialod</b>
@@ -237,6 +241,8 @@ This repository pretends to gather different interesting resources for GIS, DS a
 - [Getting Started with web 3D ArcGIS JavaScript API: create a globe visualization of places you've been to](https://github.com/RalucaNicola/get-started-arcgis-js-api/blob/master/README.md) [Raluca Nicola] - Github Repo
 - [Rendering semi-realistic Landscapes in the browser](https://nathanpointer.com/blog/landscapes/) [Nathan Pointer]
 </details>
+
+## Data sources, Research, Conferences
 
 <details>
   <summary><b>Data sources, Research, Conferences</b> </summary>
@@ -274,6 +280,8 @@ This repository pretends to gather different interesting resources for GIS, DS a
 
 </details>
 
+## Tools and Apps
+
 <details>
   <summary><b>Tools</b> </summary>
   
@@ -285,6 +293,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 
 </details>
 
+## Web Development
 <details>
   <summary><b>Web mapping</b> </summary>
   
@@ -297,6 +306,8 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Crear un mapa web interactivo con D3](https://www.unigis.es/mapa-web-interactivo-con-d3/) [Josep Sitjar - UNIGIS]
 
 </details>
+
+## General Data Science - Machine Learning - Statistics
 
 <details>
   <summary><b>General Data Science - Machine Learning - Statistics</b> </summary>
@@ -312,6 +323,8 @@ This repository pretends to gather different interesting resources for GIS, DS a
 
 </details>
 
+## Data Viz
+
 <details>
   <summary><b>DataViz</b> </summary>
   
@@ -321,6 +334,8 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Data Visualization for Storitelling and Discovery](https://journalismcourses.org/course/data-visualization-for-storytelling-and-discovery/) - Course
 
 </details>
+
+## Other
 
 <details>
   <summary><b>Other</b> </summary>
