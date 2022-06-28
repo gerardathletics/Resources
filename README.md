@@ -2,9 +2,10 @@
 
 This repository pretends to gather different interesting resources for GIS, DS and programming projects. Some of the resources may be in spanish :es: or other languages.
 
-<details>
-  <summary><b>General Cartography - GIS</b> </summary>
-<b>Resources </b>
+### General Cartography - GIS 
+
+<details> 
+<summary><b>Resources </b></summary>
   
 * :es: - [Geoteca: repositorio de libros y herramientas GIS](http://www.gisandbeers.com/geoteca-libros-herramientas-gis/) [GIS and Beers]
 * [Free GIS Tutorials](https://www.husseinnasser.com/p/youtube.html?m=1) [Hussein Nasser]
@@ -13,8 +14,10 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Cartography Lab](http://www.cartography-lab.com/) [Ramiro Aznar]
 * [GIS Cheatsheets](https://github.com/DigitalDataServices/gis-cheatsheets/blob/master/README.md#table-of-contents) [DigitalDataServices] - Github repo
 * [Cartography Font Collection](https://www.typography.com/fonts/styles/cartography) [Typography.com]
+</details>
 
-<b>Tutorials and tips</b>
+<details>
+<summary><b>Tutorials and tips</b></summary>
 
 - [How to make a beautiful map](https://medium.com/@borism/how-to-make-a-beautiful-map-6d6776a20a48) [Boris Müller] - Medium
 - [Shaded Relief Tutorials](http://www.shadedrelief.com/tutorials.html)
@@ -27,8 +30,8 @@ This repository pretends to gather different interesting resources for GIS, DS a
 - [ArcgisPro - Design a classic map](https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/homage-to-a-classic-map/) [John Nelson & Warren Davison] - ESRI
 - [How to scale data](https://earthobservatory.nasa.gov/blogs/elegantfigures/2014/07/29/adjusting-the-range-how-to-scale-data/?) [The Earth Observatory]
 - [ArcGis Blog - One minute map hacks](https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/one-minute-map-hacks-41-45/) [John Nelson] - ESRI
-
 </details>
+
 
 <details>
   <summary><b>Palettes and colors</b> </summary>
@@ -45,6 +48,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 
 </details>
 
+### QGIS 
 <details>
   <summary><b>QGIS</b> </summary>
 
