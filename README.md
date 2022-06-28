@@ -303,7 +303,8 @@ This repository pretends to gather different interesting resources for GIS, DS a
 * [Geostatistics Lessons](http://www.geostatisticslessons.com/)
 * :es: - [Data Science Learning Path](https://ds-path.netlify.app/)
 * [R for Geographic Data Science](https://sdesabbata.github.io/r-for-geographic-data-science/index.html) [Steffano de Sabata] - Book
-- [Geographic Data Science with Python](https://geographicdata.science/book/intro.html#) [S.J. Rey, D. Arribas-Bel & L.J. Wolf] - Book
+* [Geographic Data Science with Python](https://geographicdata.science/book/intro.html#) [S.J. Rey, D. Arribas-Bel & L.J. Wolf] - Book
+* [Free Data Science Resources](https://github.com/alastairrushworth/free-data-science) [alastairrushworth] 
 
 </details>
 
