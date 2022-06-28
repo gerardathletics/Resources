@@ -49,8 +49,6 @@ This repository pretends to gather different interesting resources for GIS, DS a
 </details>
 
 ## QGIS 
-<details>
-  <summary><b>QGIS</b> </summary>
 
 <b>3D</b>
 
@@ -100,12 +98,9 @@ This repository pretends to gather different interesting resources for GIS, DS a
 - [QGIS Tutorials and Tips](http://www.qgistutorials.com/en/) [Ujaval Gandhi]
 - [QGIS Open Day 2021](https://github.com/qgis/QGIS/wiki/QHF-January-2021#qgis-network-analysis) [QHF 2021]
 
-</details>
-
 ## Python  
 
-<details>
-  <summary><b>PYTHON</b> </summary>
+
   
 <b>Geo</b>
 
@@ -138,12 +133,8 @@ This repository pretends to gather different interesting resources for GIS, DS a
 - [Competitive Programming Course](https://algo.is/) [Bjarki Ágúst Guðmundsson] - Course
 - [70+ Python projects for beginners, intermediate and experienced developers](https://www.theinsaneapp.com/2021/06/list-of-python-projects-with-source-code-and-tutorials.html) [Insane]
 
-</details>
 
 ## R 
-
-<details>
-  <summary><b>R</b> </summary>
 
 <b>Geo</b>
 
@@ -184,12 +175,9 @@ This repository pretends to gather different interesting resources for GIS, DS a
 - [Intro to R for Journalists - How to find great stories in data](https://journalismcourses.org/course/intro-to-r-for-journalists-how-to-find-great-stories-in-data/) [Knight Center]
 - :es: - [Crear animaciones con R y gganimate](https://anderfernandez.com/blog/como-crear-animaciones-en-r-con-gganimate/) [Ander Fernández]
 
-</details>
 
 ## 3D Renders 
 
-<details>
-  <summary><b>3D Renders</b> </summary>
   
 <b>Blender</b>
 
@@ -240,13 +228,9 @@ This repository pretends to gather different interesting resources for GIS, DS a
 - :es: - [Crear Sección Transversal 3D con Inkscape](https://geoinnova.org/blog-territorio/como-crear-una-seccion-transversal-3d-fotorrealista-con-inkscape/) [GeoInnova]
 - [Getting Started with web 3D ArcGIS JavaScript API: create a globe visualization of places you've been to](https://github.com/RalucaNicola/get-started-arcgis-js-api/blob/master/README.md) [Raluca Nicola] - Github Repo
 - [Rendering semi-realistic Landscapes in the browser](https://nathanpointer.com/blog/landscapes/) [Nathan Pointer]
-</details>
 
 ## Data sources, Research, Conferences
 
-<details>
-  <summary><b>Data sources, Research, Conferences</b> </summary>
-  
  <b>Data sources</b>
 
 - [Free GIS Data](http://freegisdata.rtwilson.com/) [Robin Wilson]
@@ -278,7 +262,6 @@ This repository pretends to gather different interesting resources for GIS, DS a
 - [GEE Custom Scripts](https://github.com/sentinel-hub/custom-scripts) [Sentinel-hub] - Github Repo
 - [Awesome Spectral Indices](https://github.com/davemlz/awesome-spectral-indices) [davemlz] - Github Repo
 
-</details>
 
 ## Tools and Apps
 
