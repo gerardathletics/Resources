@@ -231,7 +231,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 - [3D Glasses Analagryph / Crossview - 3D Map](https://steveattewell.com/stereomap/) [Steve Attewell]
 - :es: - [Crear Sección Transversal 3D con Inkscape](https://geoinnova.org/blog-territorio/como-crear-una-seccion-transversal-3d-fotorrealista-con-inkscape/) [GeoInnova]
 - [Getting Started with web 3D ArcGIS JavaScript API: create a globe visualization of places you've been to](https://github.com/RalucaNicola/get-started-arcgis-js-api/blob/master/README.md) [Raluca Nicola] - Github Repo
-
+- [Rendering semi-realistic Landscapes in the browser](https://nathanpointer.com/blog/landscapes/) [Nathan Pointer]
 </details>
 
 <details>
