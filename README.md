@@ -50,25 +50,32 @@ This repository pretends to gather different interesting resources for GIS, DS a
 
 ## QGIS 
 
-<b>3D</b>
+<details>
+<summary><b>3D</b></summary>
 
 - [3D DEM Visualization in QGIS](https://opengislab.com/blog/2018/3/20/3d-dem-visualization-in-qgis-3) [Open.gis.lab]
 - [Create hillshade 3D views of scanned topographical maps](https://www.youtube.com/watch?v=dcx8-m2nHpI&feature=youtu.be) [Hans van der Kwast] - Youtube Video
+</details>
 
-<b>Animated maps</b>
+<details>
+<summary><b>Animated maps</b></summary>
 
 - [Animated Flight Maps QGIS](https://spatialthoughts.com/2019/03/21/animated-flight-lines/amp/) [Ujaval Gandhi]
 - [How to create an animation map using open source software](https://www.geodose.com/2019/11/how-to-create-animation-map.html) [Geodose]
 - [Almost Real Time Live Data Visualization in QGIS](https://www.geodose.com/2020/09/realtime%20live%20data%20visualization%20qgis.html) [Geodose]
 - [Animated routes with QGIS](https://medium.com/@tjukanov/animated-routes-with-qgis-9377c1f16021) [Topi Tjukanov] - Medium
+</details>
 
-<b>QGIS Programming</b>
+<details>
+<summary><b>PyQGIS</b></summary>
 
 - :es: - [Instalar Librerias Externas Python en QGIS](https://www.cursosgis.com/instalar-librerias-externas-de-python-en-qgis/) [F.Raga - CursosGIS]
 - [Introduction to QGIS Python programming for non-programmers](https://anitagraser.com/pyqgis-101-introduction-to-qgis-python-programming-for-non-programmers/) [Anita Graser]
 - [Customizing QGIS with Python](https://courses.spatialthoughts.com/pyqgis-in-a-day.html) [Ujaval Gandhi] - Course Material
+</details>
 
-<b>Visualization and mape types</b>
+<details>
+<summary><b>Visualization and mape types</b></summary>
 
 - [Plugin QGIS Terrain Shading](http://www.zoran-cuckovic.from.hr/QGIS-terrain-shading/) [Zoran Cuckovi]
 - [Lego Map Style in QGIS](https://medium.com/@andriyyaremenko/how-to-create-lego-map-style-in-qgis-a8ecf42d02ef) [Andriy Yaramenko] - Medium
@@ -81,15 +88,19 @@ This repository pretends to gather different interesting resources for GIS, DS a
 - :es: - [Cómo hacer una simulación de una vista nocturna con QGIS](https://www.youtube.com/watch?v=EjBsPv9w_eI) [Ángel Felicísimo] - Youtube Video
 - [How to create a tasty monochrome hachure map in QGIS](https://robinhawkes.com/blog/qgis-monochrome-hachures/) [Robin Hawkes]
 - :es: - [Cómo elaborar mapas luminosos en QGIS](http://www.gisandbeers.com/elaborar-mapas-luminosos-qgis-timemanager-firefly) [GIS and Beers]
+</details>
 
-<b>Layout</b>
+<details>
+<summary><b>Layout</b></summary>
 
 - :it: - [Report QGIS: Un esempio avanzato](https://pigrecoinfinito.com/2018/12/11/report-qgis-un-esempio-avanzato/) [Totò]
 - [QGIS Hub: Layout and Styles](http://qgis-hub.fast-page.org/index.php)
 - :es: - [Dashboard con QGIS](https://www.linkedin.com/pulse/taller-de-dashboard-con-qgis-desktop-mauricio-marquez/) [Mauricio Marquez]
 - [Exploring Reports in QGIS](https://north-road.com/2018/01/23/exploring-reports-in-qgis-3-0-the-ultimate-guide/) [North Road]
+</details>
 
-<b>Other</b>
+<details>
+<summary><b>Other</b></summary>
 
 - :es: - [Mejorando tu productividad cartográfica en QGIS](https://youtu.be/8hNLuSVNQvY) [P.Soriano - Geoinnova] - Youtube
 - [Globe Projections and Insets in QGIS](http://www.statsmapsnpix.com/2019/09/globe-projections-and-insets-in-qgis.html) [Statsmapsnpix]
@@ -97,12 +108,13 @@ This repository pretends to gather different interesting resources for GIS, DS a
 - :es: - [QGIS Intro to PostGIS](https://www.youtube.com/watch?v=_EgtELrjLO4) [Carlos López] - Youtube
 - [QGIS Tutorials and Tips](http://www.qgistutorials.com/en/) [Ujaval Gandhi]
 - [QGIS Open Day 2021](https://github.com/qgis/QGIS/wiki/QHF-January-2021#qgis-network-analysis) [QHF 2021]
+</details>
 
 ## Python  
 
 
-  
-<b>Geo</b>
+<details>
+<summary><b>Geo</b></summary>
 
 - [Introducing GEEMap in Python](https://www.youtube.com/watch?v=h0pz3S6Tvx0&list=PLAxJ4-o7ZoPccOFv1dCwvGI6TYnirRTg3&index=1) [Qiusheng Wu] - Youtube Serie
 - [Automating GIS Processes](https://automating-gis-processes.github.io/site/) [Digital Geography Lab - University of Helsinki]
@@ -123,8 +135,10 @@ This repository pretends to gather different interesting resources for GIS, DS a
 - [Ridge Map Tutorial](https://github.com/ColCarroll/ridge_map?) [Colin Carroll] - Github Repo
 - [Analysing urban walkability with python and OSM](https://www.gispo.fi/en/blog/analysing-urban-walkability-using-openstreetmap-and-python/) [Eemil - Gispo Finland]
 - [Pretty maps: A minimal Python library to draw customized maps from OpenStreetMap data](https://github.com/marceloprates/prettymaps) [Marcelo Prates] - Github Repo
+</details>
 
-  <b>Data and other</b>
+<details>
+<summary><b>Data and other</b></summary>
 
 - [Pandas Tips I wish I knew Before](https://towardsdatascience.com/pandas-tips-i-wish-i-knew-before-ef4ea6a39e1a) [Roman Orac] - Medium
 - [Super-quick interactive data & parameter exploration](https://anitagraser.com/2020/04/12/super-quick-interactive-data-parameter-exploration/amp/) [Anitta Grasser]
@@ -132,11 +146,13 @@ This repository pretends to gather different interesting resources for GIS, DS a
 - [Python Web Scraping with Scrapy](https://www.youtube.com/playlist?list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t&app=desktop) [Buildwithpython] - Youtube Serie
 - [Competitive Programming Course](https://algo.is/) [Bjarki Ágúst Guðmundsson] - Course
 - [70+ Python projects for beginners, intermediate and experienced developers](https://www.theinsaneapp.com/2021/06/list-of-python-projects-with-source-code-and-tutorials.html) [Insane]
+</details>
 
 
 ## R 
 
-<b>Geo</b>
+<details>
+<summary><b>Geo</b></summary>
 
 - [Z3tt - 2019 30DayMapChallenge (Maps Code)](https://github.com/Z3tt/30DayMapChallenge) [z3tt] - Github Repo
 - [Bob Rudis - 2019 30DayMapChallenge Tutorials](https://rud.is/books/30-day-map-challenge/) [Bob Rudis]
@@ -159,8 +175,10 @@ This repository pretends to gather different interesting resources for GIS, DS a
 - :fr: [Faire des Cartograms dans R](https://transcarto.github.io/rcartograms/TRANSCARTO_cartograms.html) [ BRONNER A.C. & LAMBERT N.] - Book
 - [Climate animation of maximum temperatures](https://dominicroye.github.io/en/2020/climate-animation-of-maximum-temperatures/) [Dominic Royé]
 - :es: [Mapa dasimétrico bivariante](https://dominicroye.github.io/es/2021/mapa-dasim%C3%A9trico-bivariante/) [Dominic Royé]
+</details>
 
-<b>Data and other</b>
+<details>
+<summary><b>Data and other</b></summary>
 
 - [GGplot Tutorial: Evolution of a ggplot](https://cedricscherer.netlify.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/) [Cédric Scherer]
 - [How to interactively position Legend and Layout Elements](https://rgeomatic.hypotheses.org/1837) [Timothée Giraud]
@@ -174,12 +192,12 @@ This repository pretends to gather different interesting resources for GIS, DS a
 - [ggplot Wizardry: My Favorite Tricks and Secrets for Beautiful Plots in R](https://github.com/Z3tt/OutlierConf2021) [z3tt] - Github
 - [Intro to R for Journalists - How to find great stories in data](https://journalismcourses.org/course/intro-to-r-for-journalists-how-to-find-great-stories-in-data/) [Knight Center]
 - :es: - [Crear animaciones con R y gganimate](https://anderfernandez.com/blog/como-crear-animaciones-en-r-con-gganimate/) [Ander Fernández]
-
+</details>
 
 ## 3D Renders 
 
-  
-<b>Blender</b>
+<details>
+<summary><b>Blender</b></summary>
 
 - [Blender Relief Tutorial: Blender Basics](https://somethingaboutmaps.wordpress.com/blender-relief-tutorial-blender-basics) [Daniel Huffman]
 - [Creating Shaded Relief in Blender](https://somethingaboutmaps.wordpress.com/2017/11/16/creating-shaded-relief-in-blender) [Daniel Huffman]
@@ -201,25 +219,32 @@ This repository pretends to gather different interesting resources for GIS, DS a
 - [How to Make Earth in Blender (Cycles)](https://www.youtube.com/watch?v=9Q8PwcDzb8Y) [Blender Guru] - Youtube video
 - [How to Make a 3D Map in Blender](https://wesleybarrgis.wordpress.com/2020/05/19/how-to-make-a-3d-map-in-blender/) [Wesley Barr]
 - :es: - [Como hacer mapas antiguos en 3D molones](https://www.youtube.com/watch?v=LgFN4YI8CqE) [GISTEKA] - Youtube video
+</details>
 
-
-<b>Aerialod</b>
+<details>
+<summary><b>Aerialod</b></summary>
 
 - [3D Landscape with Aerialod](http://www.statsmapsnpix.com/2020/03/making-3d-landscape-and-city-models.html) [ALasdair Rae]
 - [Population Density 3D QGIS+Aerialod](http://www.statsmapsnpix.com/2020/04/population-density-in-europe.html) [ALasdair Rae]
 - [Idiots Guide to making 3D maps](https://victimofmaths.github.io/posts/2020/11/3D%20map%20tutorial/) [Colin Angus]
+</details>
 
-<b>R</b>
+<details>
+<summary><b>R</b></summary>
 
 - [Creating 2D and 3D visualizations with rayshader](https://opentopography.org/blog/creating-2d-and-3d-visualizations-rayshader) [Nat Quinn]
 - [Step by step 3D render maps with satellite imagery in R](https://www.tylermw.com/a-step-by-step-guide-to-making-3d-maps-with-satellite-imagery-in-r/) [Tyler Morgan-Wall]
+</details>
 
-<b>QGIS - ArcGIS</b>
+<details>
+<summary><b>QGIS - ArcGIS</b></summary>
 
 - [Creating 3D vintage topo maps in ArcGIS Pro - lessons learnt](https://urbandatapalette.com/post/2021-06-3d-topo-map-notes/) [Urban Data Palette]
 - [Hillshade 3D of Scanned Topographic Maps in QGIS](https://youtu.be/dcx8-m2nHpI) [Hans van der Kwast] - Youtube video
+</details>
 
-<b>Other</b>
+<details>
+<summary><b>Other</b></summary>
 
 - [3D Realistic Online Renderer](https://w3reality.github.io/three-geo/examples/geo-viewer/io/index.html) [w3reality]
 - [Create DEM and Hillshade from anywhere](https://terradactile.sparkgeo.com/) [Terradactile]
@@ -228,10 +253,12 @@ This repository pretends to gather different interesting resources for GIS, DS a
 - :es: - [Crear Sección Transversal 3D con Inkscape](https://geoinnova.org/blog-territorio/como-crear-una-seccion-transversal-3d-fotorrealista-con-inkscape/) [GeoInnova]
 - [Getting Started with web 3D ArcGIS JavaScript API: create a globe visualization of places you've been to](https://github.com/RalucaNicola/get-started-arcgis-js-api/blob/master/README.md) [Raluca Nicola] - Github Repo
 - [Rendering semi-realistic Landscapes in the browser](https://nathanpointer.com/blog/landscapes/) [Nathan Pointer]
+</details>
 
 ## Data sources, Research, Conferences
 
- <b>Data sources</b>
+<details>
+<summary><b>Data sources</b></summary>
 
 - [Free GIS Data](http://freegisdata.rtwilson.com/) [Robin Wilson]
 - :es: - [10 Fuentes de datos GIS gratis: raster y vectoriales](https://mappinggis.com/2012/05/datos-cartograficos/) [Aurelio Morales - MappingGIS]
@@ -242,16 +269,20 @@ This repository pretends to gather different interesting resources for GIS, DS a
 - [Public Data Sources](https://docs.google.com/document/d/1Ads4XsCjXmDrdGRgfmm_OgRdpFcl6Qhs6SOllNGyq7Y/edit) - Google Docs
 - [Radiant ML Hub: cloud-based open library dedicated to Earth observation training data for use with ML algorithms](https://mlhub.earth/) [Radiant Earth Foundation]
 - [Global Ocean and Land Terrain Models - Bathymetry](https://www.gebco.net/data_and_products/gridded_bathymetry_data/) [GEBCO]
+</details>
 
-<b>Conferences and meetings</b>
+<details>
+<summary><b>Conferences and meetings</b></summary>
 
 - [QGIS Open Day 2021](https://github.com/qgis/QGIS/wiki/QHF-January-2021) [qgis] - Github Repo
 - [FOSS4G 2019 Presentations](https://github.com/os-geoinformatics/foss4g2019) [os-geoinformatics] - Github Repo
 - [How to do Map Stuff 2020](https://docs.google.com/spreadsheets/d/1TYCFBE5dnIW127Uu_aMVjWGJ_0vBB8RX-4UTqZDoric/edit#gid=0) - Google Docs
 - [QGIS User Conference 2019](https://spatialthoughts.com/2019/03/08/qgis-user-conference-2019) - [SpatialThoughts]
 - :es: - [Repo Jornadas SIG Libre Sigte-UDG](https://github.com/SIGTE-UdG/jornadassiglibre) [SIGTE-UdG] - Github Repo
+</details>
 
-<b>Other</b>
+<details>
+<summary><b>Other</b></summary>
 
 - :es: - [Tesis doctorales en España que incluyen SIG como termino principal 2015-2018](http://www.nosolosig.com/articulos/1053-tesis-doctorales-en-espana-que-incluyen-sistemas-de-informacion-geografica-como-termino-principal-2015-2018) [Nosolosig]
 - [Copernicus EU DEM](https://land.copernicus.eu/imagery-in-situ/eu-dem/eu-dem-v1.1/view) [Copernicus EU]
@@ -261,6 +292,7 @@ This repository pretends to gather different interesting resources for GIS, DS a
 - [Geographic Data Science with Python](https://geographicdata.science/book/intro.html#) [S.J. Rey, D. Arribas-Bel, & L.J. Wolf] - Book
 - [GEE Custom Scripts](https://github.com/sentinel-hub/custom-scripts) [Sentinel-hub] - Github Repo
 - [Awesome Spectral Indices](https://github.com/davemlz/awesome-spectral-indices) [davemlz] - Github Repo
+</details>
 
 
 ## Tools and Apps
