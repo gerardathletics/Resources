@@ -2,10 +2,18 @@
 
 This repository gathers different interesting resources about GIS, Data Science, Web Development and different programming projects.
 
+-   🎓 = Course
+-   📝 = Tutorial or blog post
+-   📚 = Book or book chapter
+-   📺 = Video or webinar
+-   📜 = Journal or technical article
+-   💡 = Cheat sheet
+-   📚 = Resources page
+
 ## General Cartography - GIS 
 
 <details> 
-<summary><b>Resources </b></summary>
+<summary><b> General resources </b></summary>
   
 * :es: - [**Geoteca: repositorio de libros y herramientas GIS**](http://www.gisandbeers.com/geoteca-libros-herramientas-gis/) by **GIS and Beers**
 * [**Free GIS Tutorials**](https://www.husseinnasser.com/p/youtube.html?m=1) by **Hussein Nasser**
@@ -51,7 +59,7 @@ This repository gathers different interesting resources about GIS, Data Science,
 ## QGIS 
 
 <details>
-<summary><b>3D</b></summary>
+<summary><b>3D Visualizations</b></summary>
 
 - [3D DEM Visualization in QGIS](https://opengislab.com/blog/2018/3/20/3d-dem-visualization-in-qgis-3) [Open.gis.lab]
 - [Create hillshade 3D views of scanned topographical maps](https://www.youtube.com/watch?v=dcx8-m2nHpI&feature=youtu.be) [Hans van der Kwast] - Youtube Video
@@ -75,7 +83,7 @@ This repository gathers different interesting resources about GIS, Data Science,
 </details>
 
 <details>
-<summary><b>Visualization and mape types</b></summary>
+<summary><b>Visualization and map types</b></summary>
 
 - [Plugin QGIS Terrain Shading](http://www.zoran-cuckovic.from.hr/QGIS-terrain-shading/) [Zoran Cuckovi]
 - [Lego Map Style in QGIS](https://medium.com/@andriyyaremenko/how-to-create-lego-map-style-in-qgis-a8ecf42d02ef) [Andriy Yaramenko] - Medium
@@ -112,7 +120,6 @@ This repository gathers different interesting resources about GIS, Data Science,
 
 ## Python  
 
-
 <details>
 <summary><b>Geo</b></summary>
 
@@ -138,7 +145,7 @@ This repository gathers different interesting resources about GIS, Data Science,
 </details>
 
 <details>
-<summary><b>Data and other</b></summary>
+<summary><b>Other </b></summary>
 
 - [Pandas Tips I wish I knew Before](https://towardsdatascience.com/pandas-tips-i-wish-i-knew-before-ef4ea6a39e1a) [Roman Orac] - Medium
 - [Super-quick interactive data & parameter exploration](https://anitagraser.com/2020/04/12/super-quick-interactive-data-parameter-exploration/amp/) [Anitta Grasser]
@@ -322,10 +329,10 @@ This repository gathers different interesting resources about GIS, Data Science,
 
 </details>
 
-## General Data Science - Machine Learning - Statistics
+## Data Science & AI
 
 <details>
-  <summary><b>General Data Science - Machine Learning - Statistics</b> </summary>
+  <summary><b>General Data Science</b> </summary>
   
 * [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)
 * [Bayesian Sats with R](https://oliviergimenez.github.io/bayesian-stats-with-R/)
@@ -335,18 +342,37 @@ This repository gathers different interesting resources about GIS, Data Science,
 * [R for Geographic Data Science](https://sdesabbata.github.io/r-for-geographic-data-science/index.html) [Steffano de Sabata] - Book
 * [Geographic Data Science with Python](https://geographicdata.science/book/intro.html#) [S.J. Rey, D. Arribas-Bel & L.J. Wolf] - Book
 * [Free Data Science Resources](https://github.com/alastairrushworth/free-data-science) [alastairrushworth] 
+</details>
+
+<details>
+  <summary><b>Machine Learning</b> </summary>
+* [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)
+* [Deploy Machine Learning Models With Django](https://www.deploymachinelearning.com/)
+</details>
+
+<details>
+  <summary><b>Statistics</b> </summary>
+* [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)
+* [Bayesian Sats with R](https://oliviergimenez.github.io/bayesian-stats-with-R/)
+* [Geostatistics Lessons](http://www.geostatisticslessons.com/)
+</details>
+
+<details>
+  <summary><b>AI</b> </summary>
+* [AI Hub](https://aihub.cloud.google.com/)
 
 </details>
 
 ## Data Viz
 
 <details>
-  <summary><b>DataViz</b> </summary>
+  <summary><b>Data Viz</b> </summary>
   
 * [Data Visualization with D3.js - Full Tutorial Course](https://www.youtube.com/watch?v=_8V5o2UHG0E&list=WL&index=101&t=39244s) - Youtube
 * [Your friendly guide to colors in Data Visualisation](https://blog.datawrapper.de/colorguide/)
 * [Data Journalism and Visualization with free tools](https://journalismcourses.org/course/data-journalism-and-visualization-with-free-tools/) - Course
-* [Data Visualization for Storitelling and Discovery](https://journalismcourses.org/course/data-visualization-for-storytelling-and-discovery/) - Course
+* [Data Visualization for Storytelling and Discovery](https://journalismcourses.org/course/data-visualization-for-storytelling-and-discovery/) - Course
+* [How to embed visualizations in power point](https://academy.datawrapper.de/article/269-how-to-embed-visualizations-in-powerpoint-presentations)
 
 </details>
 
@@ -365,8 +391,6 @@ This repository gathers different interesting resources about GIS, Data Science,
 * [Serverless Stack - Free Step by Step Tutorials for creating full-stack apps](https://serverless-stack.com/)
 * [How to write an essay well](https://www.julian.com/guide/write/intro)
 * [High-Res 3D Human Digitization from a single image](https://github.com/facebookresearch/pifuhd) - Github Repo
-* [AI Hub](https://aihub.cloud.google.com/)
-* [How to embed visualizations in power point](https://academy.datawrapper.de/article/269-how-to-embed-visualizations-in-powerpoint-presentations)
 * [Geopois - GIS Developer Network](https://geopois.com/developer-network)
 * :es: - [Apuntes de Topografía](https://topografia2.com/apuntes-topografia/?utm_campaign=nosolosig&utm_medium=email&utm_source=mailing793)
 * [All things around maps](https://github.com/ThomasG77/all-things-around-maps/) - Github Repo
