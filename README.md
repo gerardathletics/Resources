@@ -1,19 +1,19 @@
 # Resources and tutorials
 
-This repository pretends to gather different interesting resources for GIS, DS and programming projects. Some of the resources may be in spanish :es: or other languages.
+This repository gathers different interesting resources about GIS, Data Science, Web Development and different programming projects.
 
 ## General Cartography - GIS 
 
 <details> 
 <summary><b>Resources </b></summary>
   
-* :es: - [Geoteca: repositorio de libros y herramientas GIS](http://www.gisandbeers.com/geoteca-libros-herramientas-gis/) [GIS and Beers]
-* [Free GIS Tutorials](https://www.husseinnasser.com/p/youtube.html?m=1) [Hussein Nasser]
-* [Open.gis.lab](https://opengislab.com/) [Stephanie Saephan]
-* :es: - [Tutoriales SIG - Red de Geo-developers](https://geopois.com/) [Geopois]
-* [Cartography Lab](http://www.cartography-lab.com/) [Ramiro Aznar]
-* [GIS Cheatsheets](https://github.com/DigitalDataServices/gis-cheatsheets/blob/master/README.md#table-of-contents) [DigitalDataServices] - Github repo
-* [Cartography Font Collection](https://www.typography.com/fonts/styles/cartography) [Typography.com]
+* :es: - [**Geoteca: repositorio de libros y herramientas GIS**](http://www.gisandbeers.com/geoteca-libros-herramientas-gis/) by **GIS and Beers**
+* [**Free GIS Tutorials**](https://www.husseinnasser.com/p/youtube.html?m=1) by **Hussein Nasser**
+* [**Open.gis.lab**](https://opengislab.com/) by **Stephanie Saephan**
+* :es: - [**Tutoriales SIG - Red de Geo-developers**](https://geopois.com/) by **Geopois**
+* [**Cartography Lab**](http://www.cartography-lab.com/) by **Ramiro Aznar**
+* [**GIS Cheatsheets**](https://github.com/DigitalDataServices/gis-cheatsheets/blob/master/README.md#table-of-contents) by **DigitalDataServices** - Github repo
+* [**Cartography Font Collection**](https://www.typography.com/fonts/styles/cartography) by **Typography.com**
 </details>
 
 <details>
