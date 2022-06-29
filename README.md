@@ -15,20 +15,17 @@ This repository gathers different interesting resources about GIS, Data Science,
 <details> 
 <summary><b> General resources </b></summary>
   
-* :es: - [**Geoteca: repositorio de libros y herramientas GIS**](http://www.gisandbeers.com/geoteca-libros-herramientas-gis/) by **GIS and Beers**
-* [**Free GIS Tutorials**](https://www.husseinnasser.com/p/youtube.html?m=1) by **Hussein Nasser**
-* [**Open.gis.lab**](https://opengislab.com/) by **Stephanie Saephan**
-* :es: - [**Tutoriales SIG - Red de Geo-developers**](https://geopois.com/) by **Geopois**
-* [**Cartography Lab**](http://www.cartography-lab.com/) by **Ramiro Aznar**
-* [**GIS Cheatsheets**](https://github.com/DigitalDataServices/gis-cheatsheets/blob/master/README.md#table-of-contents) by **DigitalDataServices** - Github repo
-* [**Cartography Font Collection**](https://www.typography.com/fonts/styles/cartography) by **Typography.com**
+* :es: - [**Geoteca: repositorio de libros y herramientas GIS**](http://www.gisandbeers.com/geoteca-libros-herramientas-gis/) by **GIS and Beers** 📚
+* [**Free GIS Tutorials**](https://www.husseinnasser.com/p/youtube.html?m=1) by **Hussein Nasser** 📚📺
+* [**Open.gis.lab**](https://opengislab.com/) by **Stephanie Saephan** 📚
+* [**GIS Cheatsheets**](https://github.com/DigitalDataServices/gis-cheatsheets/blob/master/README.md#table-of-contents) by **DigitalDataServices** 💡
 </details>
 
 <details>
 <summary><b>Tutorials and tips</b></summary>
 
-- [How to make a beautiful map](https://medium.com/@borism/how-to-make-a-beautiful-map-6d6776a20a48) [Boris Müller] - Medium
-- [Shaded Relief Tutorials](http://www.shadedrelief.com/tutorials.html)
+- [How to make a beautiful map](https://medium.com/@borism/how-to-make-a-beautiful-map-6d6776a20a48) [Boris Müller] - Medium 📝
+- [Shaded Relief Tutorials](http://www.shadedrelief.com/tutorials.html) 
 - [Relief Shading Techniques](http://www.reliefshading.com/)
 - [Imhoff-Like Topography Style](https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/steal-this-imhof-like-topography-style-please/) [John Nelson] - ESRI
 - [Smart Type Halos in Photoshop and Illustrator](https://somethingaboutmaps.wordpress.com/2018/10/28/smart-type-halos-in-photoshop-and-illustrator/amp/) [Daniel Huffman]
@@ -42,7 +39,7 @@ This repository gathers different interesting resources about GIS, Data Science,
 
 
 <details>
-  <summary><b>Palettes and colors</b> </summary>
+  <summary><b>Palettes, colors & fonts</b> </summary>
   
 * [SciVisColor: Color tools and strategies](https://sciviscolor.org/) [TACC]
 * [Scientific Colour Maps](http://www.fabiocrameri.ch/colourmaps.php) [Fabio Crameri]
@@ -53,6 +50,8 @@ This repository gathers different interesting resources about GIS, Data Science,
 * [Paletton: Color Scheme Designer](http://www.paletton.com/)
 * [Bivariate Color Matrix Maps](https://cartoscience.github.io/bivariate-color-matrix/) [CartoScience]
 * [Your friendly guide to colors in Data Visualisation](https://blog.datawrapper.de/colorguide/) [Lisa Charlotte Rost]
+* [**Cartography Font Collection**](https://www.typography.com/fonts/styles/cartography) by **Typography.com** 📚
+
 
 </details>
 
