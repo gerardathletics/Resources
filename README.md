@@ -316,7 +316,7 @@ This repository gathers different interesting resources about GIS, Data Science,
 
 ## Web Development
 <details>
-  <summary><b>Web mapping</b> </summary>
+  <summary><b>Web GIS</b> </summary>
   
 * [WebMapping Notes (Dani Arribas)](http://darribas.org/wmn/) [D. Arribas-Bel]
 * [WebMapping Workbook](https://github.com/uwcartlab/webmapping) [ Roth RE, CM Sack, G Baldrica-Franklin, Y Chen, R Donohue, L Houtman, T Prestby, R Tolochko, & N Underwood]- Github Repo
@@ -327,6 +327,13 @@ This repository gathers different interesting resources about GIS, Data Science,
 * [Crear un mapa web interactivo con D3](https://www.unigis.es/mapa-web-interactivo-con-d3/) [Josep Sitjar - UNIGIS]
 
 </details>
+<details>
+  <summary><b>Other</b> </summary>
+  
+* :es: -[Open Bootcamp](https://campus.open-bootcamp.com/) [D. Arribas-Bel]
+
+</details>
+
 
 ## Data Science & AI
 
@@ -359,7 +366,11 @@ This repository gathers different interesting resources about GIS, Data Science,
 <details>
   <summary><b>AI</b> </summary>
 * [AI Hub](https://aihub.cloud.google.com/)
+</details>
 
+<details>
+  <summary><b>Spatial</b> </summary>
+* [How to: Sql guide for GIS Users](https://www.helenmakesmaps.com/post/how-to-sql-a-guide-for-gis-users)
 </details>
 
 ## Data Viz
