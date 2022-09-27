@@ -372,6 +372,7 @@ This repository gathers different interesting resources about GIS, Data Science,
 * [Data Journalism and Visualization with free tools](https://journalismcourses.org/course/data-journalism-and-visualization-with-free-tools/) - Course
 * [Data Visualization for Storytelling and Discovery](https://journalismcourses.org/course/data-visualization-for-storytelling-and-discovery/) - Course
 * [How to embed visualizations in power point](https://academy.datawrapper.de/article/269-how-to-embed-visualizations-in-powerpoint-presentations)
+* [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
 
 </details>
 
