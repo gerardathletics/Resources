@@ -326,7 +326,9 @@ This repository gathers different interesting resources about GIS, Data Science,
 * [Data Visualization with D3.js - Full Tutorial Course](https://www.youtube.com/watch?v=_8V5o2UHG0E&list=WL&index=101&t=39244s) [FreeCodeCamp] - Youtube
 * :es: - [Despliega tu mapa - Leaflet](https://dcapillae.github.io/despliega-tu-mapa/) [dcapillae]
 * [Frontend GIS Resources](https://github.com/JoeWDavies/Frontend-GIS-Resources) [Joe W. Davies] - Github Repo
-* [Crear un mapa web interactivo con D3](https://www.unigis.es/mapa-web-interactivo-con-d3/) [Josep Sitjar - UNIGIS]
+* :es: -[Crear un mapa web interactivo con D3](https://www.unigis.es/mapa-web-interactivo-con-d3/) [Josep Sitjar - UNIGIS]
+* [React Magnificent 3D EARTH with THREE.JS | Beginners w/ React-Three-Fiber](https://www.youtube.com/watch?v=ymavtyRpT0E) [Coder ONE]
+
 
 </details>
 <details>
