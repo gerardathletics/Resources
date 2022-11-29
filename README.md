@@ -95,6 +95,8 @@ This repository gathers different interesting resources about GIS, Data Science,
 - :es: - [Cómo hacer una simulación de una vista nocturna con QGIS](https://www.youtube.com/watch?v=EjBsPv9w_eI) [Ángel Felicísimo] - Youtube Video
 - [How to create a tasty monochrome hachure map in QGIS](https://robinhawkes.com/blog/qgis-monochrome-hachures/) [Robin Hawkes]
 - :es: - [Cómo elaborar mapas luminosos en QGIS](http://www.gisandbeers.com/elaborar-mapas-luminosos-qgis-timemanager-firefly) [GIS and Beers]
+- :es: - [Crear un mapa en forma de globo con QGIS](https://www.unigis.es/crear-un-mapa-en-forma-de-globo-con-qgis/) [UNIGIS]
+
 </details>
 
 <details>
