@@ -78,7 +78,7 @@ This repository gathers different interesting resources about GIS, Data Science,
 
 - :es: - [**Instalar Librerias Externas Python en QGIS**](https://www.cursosgis.com/instalar-librerias-externas-de-python-en-qgis/) by **F.Raga - CursosGIS**
 - [**Introduction to QGIS Python programming for non-programmers**](https://anitagraser.com/pyqgis-101-introduction-to-qgis-python-programming-for-non-programmers/) by **Anita Graser**
-- [**Customizing QGIS with Python**](https://courses.spatialthoughts.com/pyqgis-in-a-day.html) by **Ujaval Gandhi** - Course Material
+- [**Customizing QGIS with Python**](https://courses.spatialthoughts.com/pyqgis-in-a-day.html) by **Ujaval Gandhi** - 🎓
 </details>
 
 <details>
@@ -143,6 +143,7 @@ This repository gathers different interesting resources about GIS, Data Science,
 - [**Ridge Map Tutorial**](https://github.com/ColCarroll/ridge_map?) by **Colin Carroll** - Github Repo
 - [**Analysing urban walkability with python and OSM**](https://www.gispo.fi/en/blog/analysing-urban-walkability-using-openstreetmap-and-python/) by **Eemil - Gispo Finland**
 - [**Pretty maps: A minimal Python library to draw customized maps from OpenStreetMap data**](https://github.com/marceloprates/prettymaps) by **Marcelo Prates** - Github Repo
+- [**Automating GIS Processes 2022**](https://autogis-site.readthedocs.io/en/latest/) by **Henrikki Tenkanen, Vuokko Heikinheimo, Håvard Wallin Aagesen, Christoph Fink**
 </details>
 
 <details>
@@ -150,9 +151,9 @@ This repository gathers different interesting resources about GIS, Data Science,
 
 - [**Pandas Tips I wish I knew Before**](https://towardsdatascience.com/pandas-tips-i-wish-i-knew-before-ef4ea6a39e1a) by **Roman Orac** - 📝Medium
 - [**Super-quick interactive data & parameter exploration**](https://anitagraser.com/2020/04/12/super-quick-interactive-data-parameter-exploration/amp/) by **Anitta Grasser**
-- [**Data Analysis with Python Course 2020**](https://csmastersuh.github.io/data_analysis_with_python_2020/) by **Jarkko Toivonen - University of Helsinki** - Course
+- [**Data Analysis with Python Course 2020**](https://csmastersuh.github.io/data_analysis_with_python_2020/) by **Jarkko Toivonen - University of Helsinki** - 🎓
 - [**Python Web Scraping with Scrapy**](https://www.youtube.com/playlist?list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t&app=desktop) by **Buildwithpython** - 📺
-- [**Competitive Programming Course**](https://algo.is/) by **Bjarki Ágúst Guðmundsson** - Course
+- [**Competitive Programming Course**](https://algo.is/) by **Bjarki Ágúst Guðmundsson** - 🎓
 - [**70+ Python projects for beginners, intermediate and experienced developers**](https://www.theinsaneapp.com/2021/06/list-of-python-projects-with-source-code-and-tutorials.html) by **Insane**
 </details>
 
@@ -256,7 +257,7 @@ This repository gathers different interesting resources about GIS, Data Science,
 
 - [**3D Realistic Online Renderer**](https://w3reality.github.io/three-geo/examples/geo-viewer/io/index.html) by **w3reality]
 - [**Create DEM and Hillshade from anywhere**](https://terradactile.sparkgeo.com/) by **Terradactile**
-- [**Google Earth Web**](https://earth.google.com/web/) by **Google]
+- [**Google Earth Web**](https://earth.google.com/web/) by **Google**
 - [**3D Glasses Analagryph / Crossview - 3D Map**](https://steveattewell.com/stereomap/) by **Steve Attewell**
 - :es: - [**Crear Sección Transversal 3D con Inkscape**](https://geoinnova.org/blog-territorio/como-crear-una-seccion-transversal-3d-fotorrealista-con-inkscape/) by **GeoInnova**
 - [**Getting Started with web 3D ArcGIS JavaScript API: create a globe visualization of places you've been to**](https://github.com/RalucaNicola/get-started-arcgis-js-api/blob/master/README.md) by **Raluca Nicola** - Github Repo
@@ -323,7 +324,7 @@ This repository gathers different interesting resources about GIS, Data Science,
 * [**WebMapping Notes (Dani Arribas)**](http://darribas.org/wmn/) by **D. Arribas-Bel**
 * [**WebMapping Workbook**](https://github.com/uwcartlab/webmapping) by **Roth RE, CM Sack, G Baldrica-Franklin, Y Chen, R Donohue, L Houtman, T Prestby, R Tolochko, & N Underwood** - Github Repo
 - [**Getting Started with web 3D ArcGIS JavaScript API: create a globe visualization of places you've been to**](https://github.com/RalucaNicola/get-started-arcgis-js-api/blob/master/README.md) by **Raluca Nicola** - Github Repo
-* [**Data Visualization with D3.js - Full Tutorial Course**](https://www.youtube.com/watch?v=_8V5o2UHG0E&list=WL&index=101&t=39244s) by **FreeCodeCamp** - 📺
+* [**Data Visualization with D3.js - Full Tutorial Course**](https://www.youtube.com/watch?v=_8V5o2UHG0E&list=WL&index=101&t=39244s) by **FreeCodeCamp** - 🎓📺
 * :es: - [**Despliega tu mapa - Leaflet**](https://dcapillae.github.io/despliega-tu-mapa/) by **dcapillae**
 * [**Frontend GIS Resources**](https://github.com/JoeWDavies/Frontend-GIS-Resources) by **Joe W. Davies** - Github Repo
 * :es: -[**Crear un mapa web interactivo con D3**](https://www.unigis.es/mapa-web-interactivo-con-d3/) by **Josep Sitjar - UNIGIS**
@@ -378,7 +379,7 @@ This repository gathers different interesting resources about GIS, Data Science,
 
 <details>
   <summary><b>Spatial</b> </summary>
-  
+
 * [**How to: Sql guide for GIS Users**](https://www.helenmakesmaps.com/post/how-to-sql-a-guide-for-gis-users)
 </details>
 
@@ -387,10 +388,10 @@ This repository gathers different interesting resources about GIS, Data Science,
 <details>
   <summary><b>Data Viz</b> </summary>
   
-* [**Data Visualization with D3.js - Full Tutorial Course**](https://www.youtube.com/watch?v=_8V5o2UHG0E&list=WL&index=101&t=39244s) - 📺
+* [**Data Visualization with D3.js - Full Tutorial Course**](https://www.youtube.com/watch?v=_8V5o2UHG0E&list=WL&index=101&t=39244s) - 🎓📺
 * [**Your friendly guide to colors in Data Visualisation**](https://blog.datawrapper.de/colorguide/)
-* [**Data Journalism and Visualization with free tools**](https://journalismcourses.org/course/data-journalism-and-visualization-with-free-tools/) - Course
-* [**Data Visualization for Storytelling and Discovery**](https://journalismcourses.org/course/data-visualization-for-storytelling-and-discovery/) - Course
+* [**Data Journalism and Visualization with free tools**](https://journalismcourses.org/course/data-journalism-and-visualization-with-free-tools/) - 🎓
+* [**Data Visualization for Storytelling and Discovery**](https://journalismcourses.org/course/data-visualization-for-storytelling-and-discovery/) - 🎓
 * [**How to embed visualizations in power point**](https://academy.datawrapper.de/article/269-how-to-embed-visualizations-in-powerpoint-presentations)
 * [**Fundamentals of Data Visualization**](https://clauswilke.com/dataviz/)
 
