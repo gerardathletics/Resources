@@ -41,15 +41,15 @@ This repository gathers different interesting resources about GIS, Data Science,
 <details>
   <summary><b>Palettes, colors & fonts</b> </summary>
   
-* [**SciVisColor: Color tools and strategies**](https://sciviscolor.org/) [TACC]
-* [**Scientific Colour Maps**](http://www.fabiocrameri.ch/colourmaps.php) [Fabio Crameri]
-* [**Color Brewer Maps**](https://colorbrewer2.org) [Cynthia Brewer, Mark Harrower & PSU]
-* [**Chroma.js: Color Palette Helper**](https://gka.github.io/palettes) [Gregor Aisch]
-* [**Adobe Color Palette Generator**](https://color.adobe.com/create/color-wheel) [Adobe]
-* [**Color Picker for Data**](http://tristen.ca/hcl-picker/#/clh/9/0.32/590709/EAA489) [Tristen Forsythe]
+* [**SciVisColor: Color tools and strategies**](https://sciviscolor.org/) by **TACC**
+* [**Scientific Colour Maps**](http://www.fabiocrameri.ch/colourmaps.php) by **Fabio Crameri**
+* [**Color Brewer Maps**](https://colorbrewer2.org) by **Cynthia Brewer, Mark Harrower & PSU**
+* [**Chroma.js: Color Palette Helper**](https://gka.github.io/palettes) by **Gregor Aisch**
+* [**Adobe Color Palette Generator**](https://color.adobe.com/create/color-wheel) by **Adobe**
+* [**Color Picker for Data**](http://tristen.ca/hcl-picker/#/clh/9/0.32/590709/EAA489) by **Tristen Forsythe**
 * [**Paletton: Color Scheme Designer**](http://www.paletton.com/)
-* [**Bivariate Color Matrix Maps**](https://cartoscience.github.io/bivariate-color-matrix/) [CartoScience]
-* [**Your friendly guide to colors in Data Visualisation**](https://blog.datawrapper.de/colorguide/) [Lisa Charlotte Rost]
+* [**Bivariate Color Matrix Maps**](https://cartoscience.github.io/bivariate-color-matrix/) by **CartoScience**
+* [**Your friendly guide to colors in Data Visualisation**](https://blog.datawrapper.de/colorguide/) by **Lisa Charlotte Rost**
 * [**Cartography Font Collection**](https://www.typography.com/fonts/styles/cartography) by **Typography.com** 📚
 
 
@@ -60,32 +60,32 @@ This repository gathers different interesting resources about GIS, Data Science,
 <details>
 <summary><b>3D Visualizations</b></summary>
 
-- [**3D DEM Visualization in QGIS**](https://opengislab.com/blog/2018/3/20/3d-dem-visualization-in-qgis-3) [Open.gis.lab]
-- [**Create hillshade 3D views of scanned topographical maps**](https://www.youtube.com/watch?v=dcx8-m2nHpI&feature=youtu.be) [Hans van der Kwast] - Youtube Video
+- [**3D DEM Visualization in QGIS**](https://opengislab.com/blog/2018/3/20/3d-dem-visualization-in-qgis-3) by **Open.gis.lab]
+- [**Create hillshade 3D views of scanned topographical maps**](https://www.youtube.com/watch?v=dcx8-m2nHpI&feature=youtu.be) by **Hans van der Kwast] - Youtube Video
 </details>
 
 <details>
 <summary><b>Animated maps</b></summary>
 
-- [**Animated Flight Maps QGIS**](https://spatialthoughts.com/2019/03/21/animated-flight-lines/amp/) [Ujaval Gandhi]
-- [**How to create an animation map using open source software**](https://www.geodose.com/2019/11/how-to-create-animation-map.html) [Geodose]
-- [**Almost Real Time Live Data Visualization in QGIS**](https://www.geodose.com/2020/09/realtime%20live%20data%20visualization%20qgis.html) [Geodose]
-- [**Animated routes with QGIS**](https://medium.com/@tjukanov/animated-routes-with-qgis-9377c1f16021) [Topi Tjukanov] - Medium
+- [**Animated Flight Maps QGIS**](https://spatialthoughts.com/2019/03/21/animated-flight-lines/amp/) by **Ujaval Gandhi]
+- [**How to create an animation map using open source software**](https://www.geodose.com/2019/11/how-to-create-animation-map.html) by **Geodose]
+- [**Almost Real Time Live Data Visualization in QGIS**](https://www.geodose.com/2020/09/realtime%20live%20data%20visualization%20qgis.html) by **Geodose]
+- [**Animated routes with QGIS**](https://medium.com/@tjukanov/animated-routes-with-qgis-9377c1f16021) by **Topi Tjukanov] - Medium
 </details>
 
 <details>
 <summary><b>PyQGIS</b></summary>
 
-- :es: - [**Instalar Librerias Externas Python en QGIS**](https://www.cursosgis.com/instalar-librerias-externas-de-python-en-qgis/) [F.Raga - CursosGIS]
-- [**Introduction to QGIS Python programming for non-programmers**](https://anitagraser.com/pyqgis-101-introduction-to-qgis-python-programming-for-non-programmers/) [Anita Graser]
-- [**Customizing QGIS with Python**](https://courses.spatialthoughts.com/pyqgis-in-a-day.html) [Ujaval Gandhi] - Course Material
+- :es: - [**Instalar Librerias Externas Python en QGIS**](https://www.cursosgis.com/instalar-librerias-externas-de-python-en-qgis/) by **F.Raga - CursosGIS]
+- [**Introduction to QGIS Python programming for non-programmers**](https://anitagraser.com/pyqgis-101-introduction-to-qgis-python-programming-for-non-programmers/) by **Anita Graser]
+- [**Customizing QGIS with Python**](https://courses.spatialthoughts.com/pyqgis-in-a-day.html) by **Ujaval Gandhi] - Course Material
 </details>
 
 <details>
 <summary><b>Visualization and map types</b></summary>
 
-- [**Plugin QGIS Terrain Shading**](http://www.zoran-cuckovic.from.hr/QGIS-terrain-shading/) [Zoran Cuckovi]
-- [**Lego Map Style in QGIS**](https://medium.com/@andriyyaremenko/how-to-create-lego-map-style-in-qgis-a8ecf42d02ef) [Andriy Yaramenko] - Medium
+- [**Plugin QGIS Terrain Shading**](http://www.zoran-cuckovic.from.hr/QGIS-terrain-shading/) by **Zoran Cuckovi]
+- [**Lego Map Style in QGIS**](https://medium.com/@andriyyaremenko/how-to-create-lego-map-style-in-qgis-a8ecf42d02ef) by **Andriy Yaramenko] - Medium
 - [**QGIS Hexagon Grid**](http://jonathansoma.com/lede/foundations-2018/qgis/grid/) [Jonathan Soma]
 - :es: - [**Generacion Isocronas utilizando plugins QGIS**](https://youtu.be/djN3NxyFcQQ) [QGIS Latam] - Youtube Video
 - [**Bivariate choropleth maps in QGIS**](https://bnhr.xyz/2019/09/15/bivariate-choropleths-in-qgis.html) [BNHR]
