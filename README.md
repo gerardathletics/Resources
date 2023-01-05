@@ -70,7 +70,7 @@ This repository gathers different interesting resources about GIS, Data Science,
 - [**Animated Flight Maps QGIS**](https://spatialthoughts.com/2019/03/21/animated-flight-lines/amp/) by **Ujaval Gandhi**
 - [**How to create an animation map using open source software**](https://www.geodose.com/2019/11/how-to-create-animation-map.html) by **Geodose**
 - [**Almost Real Time Live Data Visualization in QGIS**](https://www.geodose.com/2020/09/realtime%20live%20data%20visualization%20qgis.html) by **Geodose**
-- [**Animated routes with QGIS**](https://medium.com/@tjukanov/animated-routes-with-qgis-9377c1f16021) by **Topi Tjukanov** - Medium
+- [**Animated routes with QGIS**](https://medium.com/@tjukanov/animated-routes-with-qgis-9377c1f16021) by **Topi Tjukanov** - 📝Medium
 </details>
 
 <details>
@@ -85,7 +85,7 @@ This repository gathers different interesting resources about GIS, Data Science,
 <summary><b>Visualization and map types</b></summary>
 
 - [**Plugin QGIS Terrain Shading**](http://www.zoran-cuckovic.from.hr/QGIS-terrain-shading/) by **Zoran Cuckovi**
-- [**Lego Map Style in QGIS**](https://medium.com/@andriyyaremenko/how-to-create-lego-map-style-in-qgis-a8ecf42d02ef) by **Andriy Yaramenko** - Medium
+- [**Lego Map Style in QGIS**](https://medium.com/@andriyyaremenko/how-to-create-lego-map-style-in-qgis-a8ecf42d02ef) by **Andriy Yaramenko** - 📝Medium
 - [**QGIS Hexagon Grid**](http://jonathansoma.com/lede/foundations-2018/qgis/grid/) by **Jonathan Soma**
 - :es: - [**Generacion Isocronas utilizando plugins QGIS**](https://youtu.be/djN3NxyFcQQ) by **QGIS Latam** - 📺
 - [**Bivariate choropleth maps in QGIS**](https://bnhr.xyz/2019/09/15/bivariate-choropleths-in-qgis.html) by **BNHR**
@@ -129,18 +129,18 @@ This repository gathers different interesting resources about GIS, Data Science,
 - [**OSMnx Python for Street Networks**](https://geoffboeing.com/2016/11/osmnx-python-street-networks/) by **Geoff Boeing**
 - [**OSMnx Isochrones**](http://kuanbutts.com/2017/12/16/osmnx-isochrones/) by **Kuan Butts**
 - [**Geopyter - Geographical Python Teaching Resource**](https://github.com/pysal/geopyter/blob/master/README.md) by **PySal** - Github Repo
-- [**Kepler.GL and JupyterNotebook - GeoSpatial Data Visualization**](https://towardsdatascience.com/kepler-gl-jupyter-notebooks-geospatial-data-visualization-with-ubers-opensource-kepler-gl-b1c2423d066f) by **Abdishakur** - Medium
+- [**Kepler.GL and JupyterNotebook - GeoSpatial Data Visualization**](https://towardsdatascience.com/kepler-gl-jupyter-notebooks-geospatial-data-visualization-with-ubers-opensource-kepler-gl-b1c2423d066f) by **Abdishakur** - 📝Medium
 - [**Interactive Geospatial Data Visualization with Geoviews in Python**](https://towardsdatascience.com/interactive-geospatial-data-visualization-with-geoviews-in-python-7d5335c8efd1) by **Abdishakur** - Medium
 - [**Urban Measuring Morphology Toolkit**](https://github.com/martinfleis/momepy/blob/master/README.md) by **UDSU & Geographic Data Science Lab** - Github Repo
 - [**Awesome Earth Observation Code**](https://github.com/acgeospatial/awesome-earthobservation-code/blob/master/README.md) by **Andrew Cutts** - Github Repo
 - [**EarthPy: Paquete de python para plotear y trabajar con datos espaciales**](https://mappinggis.com/2020/04/earthpy-un-paquete-de-python-para-plotear-y-trabajar-con-datos-espaciales/) by **Aurelio Morales - Mapping GIS**
-- [**Maps in 2.5D with python geopandas**](https://medium.com/@gamoles/crea-un-mapa-en-proyeccion-2-5d-796ffd068e0d) by **Moyocoyani Molina** - Medium
+- [**Maps in 2.5D with python geopandas**](https://medium.com/@gamoles/crea-un-mapa-en-proyeccion-2-5d-796ffd068e0d) by **Moyocoyani Molina** - 📝Medium
 - [**Plotting large point CSV files quickly interactively**](https://anitagraser.com/2020/12/06/plotting-large-point-csv-files-quickly-interactively/amp/) by **Anitta Grasser**
-- [**Calculating walk scores with python**](https://toarches.medium.com/calculating-walk-scores-with-python-7cea11813d4d) by **Ablajan Sulaiman** - Medium
+- [**Calculating walk scores with python**](https://toarches.medium.com/calculating-walk-scores-with-python-7cea11813d4d) by **Ablajan Sulaiman** - 📝Medium
 - :es: - [**Cómo construir una base de datos Postgis con Python y Geoalchemy**](https://gidahatari.com/ih-es/como-construir-una-base-de-datos-postgis-con-python-y-geoalchemy-con-conexion-a-qgis3-tutorial) by **Saul Montoya - Gidahatari**
 - :es: - [**Delimitación de cuerpos de agua usando IA python y QGIS**](https://gidahatari.com/ih-es/delimitacion-de-cuerpos-de-agua-lagos-de-landsat-8-con-inteligencia-artificial-usado-python-y-qgis) by **Saul Montoya - Gidahatari**
 - [**Analyze OpenStreetMap Data with OSMnx and OmniSci Free**](https://www.omnisci.com/blog/analyze-openstreetmap-data-with-osmnx-and-omnisci-free) by **Antonio Cotroneo - Omni Sci**
-- [**Ridge Map Tutorial**](https://github.com/ColCarroll/ridge_map?) by **Colin Carroll] - Github Repo
+- [**Ridge Map Tutorial**](https://github.com/ColCarroll/ridge_map?) by **Colin Carroll** - Github Repo
 - [**Analysing urban walkability with python and OSM**](https://www.gispo.fi/en/blog/analysing-urban-walkability-using-openstreetmap-and-python/) by **Eemil - Gispo Finland**
 - [**Pretty maps: A minimal Python library to draw customized maps from OpenStreetMap data**](https://github.com/marceloprates/prettymaps) by **Marcelo Prates** - Github Repo
 </details>
@@ -148,7 +148,7 @@ This repository gathers different interesting resources about GIS, Data Science,
 <details>
 <summary><b>Other </b></summary>
 
-- [**Pandas Tips I wish I knew Before**](https://towardsdatascience.com/pandas-tips-i-wish-i-knew-before-ef4ea6a39e1a) by **Roman Orac** - Medium
+- [**Pandas Tips I wish I knew Before**](https://towardsdatascience.com/pandas-tips-i-wish-i-knew-before-ef4ea6a39e1a) by **Roman Orac** - 📝Medium
 - [**Super-quick interactive data & parameter exploration**](https://anitagraser.com/2020/04/12/super-quick-interactive-data-parameter-exploration/amp/) by **Anitta Grasser**
 - [**Data Analysis with Python Course 2020**](https://csmastersuh.github.io/data_analysis_with_python_2020/) by **Jarkko Toivonen - University of Helsinki** - Course
 - [**Python Web Scraping with Scrapy**](https://www.youtube.com/playlist?list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t&app=desktop) by **Buildwithpython** - 📺
@@ -356,12 +356,14 @@ This repository gathers different interesting resources about GIS, Data Science,
 
 <details>
   <summary><b>Machine Learning</b> </summary>
+
 * [**Probabilistic Machine Learning: An Introduction**](https://probml.github.io/pml-book/book1.html) 📚
 * [**Deploy Machine Learning Models With Django**](https://www.deploymachinelearning.com/)
 </details>
 
 <details>
   <summary><b>Statistics</b> </summary>
+
 * [**Probabilistic Machine Learning: An Introduction**](https://probml.github.io/pml-book/book1.html) 📚
 * [**Bayesian Sats with R**](https://oliviergimenez.github.io/bayesian-stats-with-R/)
 * [**Geostatistics Lessons**](http://www.geostatisticslessons.com/)
@@ -369,12 +371,14 @@ This repository gathers different interesting resources about GIS, Data Science,
 
 <details>
   <summary><b>AI</b> </summary>
+
 * [**AI Hub**](https://aihub.cloud.google.com/)
 * [**ChatGPT**](https://chat.openai.com/) by **Open AI**
 </details>
 
 <details>
   <summary><b>Spatial</b> </summary>
+  
 * [**How to: Sql guide for GIS Users**](https://www.helenmakesmaps.com/post/how-to-sql-a-guide-for-gis-users)
 </details>
 
@@ -408,7 +412,7 @@ This repository gathers different interesting resources about GIS, Data Science,
 * [**How to write an essay well**](https://www.julian.com/guide/write/intro)
 * [**High-Res 3D Human Digitization from a single image**](https://github.com/facebookresearch/pifuhd) - Github Repo
 * [**Geopois - GIS Developer Network**](https://geopois.com/developer-network)
-* :es: - [**Apuntes de Topografía**](https://topografia2.com/apuntes-topografia/?utm_campaign=nosolosig&utm_medium=email&utm_source=mailing793)
+* :es: - [**Apuntes de Topografía**](https://topografia2.com/apuntes-topografia/)
 * [**All things around maps**](https://github.com/ThomasG77/all-things-around-maps/) - Github Repo
 
 </details>
