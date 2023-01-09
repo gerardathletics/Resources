@@ -201,6 +201,8 @@ This repository gathers different interesting resources about GIS, Data Science,
 - [**ggplot Wizardry: My Favorite Tricks and Secrets for Beautiful Plots in R**](https://github.com/Z3tt/OutlierConf2021) by **z3tt** - Github
 - [**Intro to R for Journalists - How to find great stories in data**](https://journalismcourses.org/course/intro-to-r-for-journalists-how-to-find-great-stories-in-data/) by **Knight Center**
 - :es: - [**Crear animaciones con R y gganimate**](https://anderfernandez.com/blog/como-crear-animaciones-en-r-con-gganimate/) by **Ander Fernández**
+- :es: - [**R para DataViz**](https://rdataviz.luzfrias.com/) by **Luz Frias**
+
 </details>
 
 ## 3D Renders 
@@ -394,6 +396,7 @@ This repository gathers different interesting resources about GIS, Data Science,
 * [**Data Visualization for Storytelling and Discovery**](https://journalismcourses.org/course/data-visualization-for-storytelling-and-discovery/) - 🎓
 * [**How to embed visualizations in power point**](https://academy.datawrapper.de/article/269-how-to-embed-visualizations-in-powerpoint-presentations)
 * [**Fundamentals of Data Visualization**](https://clauswilke.com/dataviz/)
+- :es: - [**R para DataViz**](https://rdataviz.luzfrias.com/) by **Luz Frias**
 
 </details>
 
