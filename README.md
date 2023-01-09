@@ -335,7 +335,7 @@ This repository gathers different interesting resources about GIS, Data Science,
 <details>
   <summary><b>Other</b> </summary>
   
-* :es: -[**Open Bootcamp**](https://campus.open-bootcamp.com/) by **D. Arribas-Bel**
+* :es: -[**Open Bootcamp**](https://campus.open-bootcamp.com/)
 
 </details>
 
