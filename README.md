@@ -257,7 +257,7 @@ This repository gathers different interesting resources about GIS, Data Science,
 <details>
 <summary><b>Other</b></summary>
 
-- [**3D Realistic Online Renderer**](https://w3reality.github.io/three-geo/examples/geo-viewer/io/index.html) by **w3reality]
+- [**3D Realistic Online Renderer**](https://w3reality.github.io/three-geo/examples/geo-viewer/io/index.html) by **w3reality**
 - [**Create DEM and Hillshade from anywhere**](https://terradactile.sparkgeo.com/) by **Terradactile**
 - [**Google Earth Web**](https://earth.google.com/web/) by **Google**
 - [**3D Glasses Analagryph / Crossview - 3D Map**](https://steveattewell.com/stereomap/) by **Steve Attewell**
@@ -329,7 +329,7 @@ This repository gathers different interesting resources about GIS, Data Science,
 * [**Data Visualization with D3.js - Full Tutorial Course**](https://www.youtube.com/watch?v=_8V5o2UHG0E&list=WL&index=101&t=39244s) by **FreeCodeCamp** - 🎓📺
 * :es: - [**Despliega tu mapa - Leaflet**](https://dcapillae.github.io/despliega-tu-mapa/) by **dcapillae**
 * [**Frontend GIS Resources**](https://github.com/JoeWDavies/Frontend-GIS-Resources) by **Joe W. Davies** - Github Repo
-* :es: -[**Crear un mapa web interactivo con D3**](https://www.unigis.es/mapa-web-interactivo-con-d3/) by **Josep Sitjar - UNIGIS**
+* :es: - [**Crear un mapa web interactivo con D3**](https://www.unigis.es/mapa-web-interactivo-con-d3/) by **Josep Sitjar - UNIGIS**
 * [**React Magnificent 3D EARTH with THREE.JS | Beginners w/ React-Three-Fiber**](https://www.youtube.com/watch?v=ymavtyRpT0E) by **Coder ONE**
 
 
@@ -337,8 +337,8 @@ This repository gathers different interesting resources about GIS, Data Science,
 <details>
   <summary><b>Other</b> </summary>
   
-* :es: -[**Open Bootcamp**](https://campus.open-bootcamp.com/)
-
+* :es: - [**Open Bootcamp**](https://campus.open-bootcamp.com/)
+* [**Free Code Camp**](https://www.freecodecamp.org/) by 
 </details>
 
 
@@ -347,11 +347,7 @@ This repository gathers different interesting resources about GIS, Data Science,
 <details>
   <summary><b>General Data Science</b> </summary>
   
-* [**Probabilistic Machine Learning: An Introduction**](https://probml.github.io/pml-book/book1.html)
-* [**Bayesian Sats with R**](https://oliviergimenez.github.io/bayesian-stats-with-R/)
-* [**Deploy Machine Learning Models With Django**](https://www.deploymachinelearning.com/)
-* [**Geostatistics Lessons**](http://www.geostatisticslessons.com/)
-* :es: - [Data Science Learning Path**](https://ds-path.netlify.app/)
+* :es: - [**Data Science Learning Path**](https://ds-path.netlify.app/) by **yesidays**
 * [**R for Geographic Data Science**](https://sdesabbata.github.io/r-for-geographic-data-science/index.html) by **Steffano de Sabata** - 📚
 * [**Geographic Data Science with Python**](https://geographicdata.science/book/intro.html#) by **S.J. Rey, D. Arribas-Bel & L.J. Wolf** - 📚
 * [**Free Data Science Resources**](https://github.com/alastairrushworth/free-data-science) by **alastairrushworth** 
@@ -360,29 +356,29 @@ This repository gathers different interesting resources about GIS, Data Science,
 <details>
   <summary><b>Machine Learning</b> </summary>
 
-* [**Probabilistic Machine Learning: An Introduction**](https://probml.github.io/pml-book/book1.html) 📚
-* [**Deploy Machine Learning Models With Django**](https://www.deploymachinelearning.com/)
+* [**Probabilistic Machine Learning: An Introduction**](https://probml.github.io/pml-book/book1.html) by **Kevin Patrick Murphy** 📚
+* [**Deploy Machine Learning Models With Django**](https://www.deploymachinelearning.com/) by **mljar**
 </details>
 
 <details>
   <summary><b>Statistics</b> </summary>
 
-* [**Probabilistic Machine Learning: An Introduction**](https://probml.github.io/pml-book/book1.html) 📚
-* [**Bayesian Sats with R**](https://oliviergimenez.github.io/bayesian-stats-with-R/)
-* [**Geostatistics Lessons**](http://www.geostatisticslessons.com/)
+* [**Probabilistic Machine Learning: An Introduction**](https://probml.github.io/pml-book/book1.html) by **Kevin Patrick Murphy** 📚
+* [**Bayesian Sats with R**](https://oliviergimenez.github.io/bayesian-stats-with-R/) by **Olivier Gimenez**
+* [**Geostatistics Lessons**](http://www.geostatisticslessons.com/) by **Jared Deutsch**
 </details>
 
 <details>
   <summary><b>AI</b> </summary>
 
-* [**AI Hub**](https://aihub.cloud.google.com/)
+* [**AI Hub**](https://aihub.cloud.google.com/) by **Google**
 * [**ChatGPT**](https://chat.openai.com/) by **Open AI**
 </details>
 
 <details>
   <summary><b>Spatial</b> </summary>
 
-* [**How to: Sql guide for GIS Users**](https://www.helenmakesmaps.com/post/how-to-sql-a-guide-for-gis-users)
+* [**How to: Sql guide for GIS Users**](https://www.helenmakesmaps.com/post/how-to-sql-a-guide-for-gis-users) by **Helen McKenzie**
 </details>
 
 ## Data Viz
@@ -390,12 +386,12 @@ This repository gathers different interesting resources about GIS, Data Science,
 <details>
   <summary><b>Data Viz</b> </summary>
   
-* [**Data Visualization with D3.js - Full Tutorial Course**](https://www.youtube.com/watch?v=_8V5o2UHG0E&list=WL&index=101&t=39244s) - 🎓📺
-* [**Your friendly guide to colors in Data Visualisation**](https://blog.datawrapper.de/colorguide/)
-* [**Data Journalism and Visualization with free tools**](https://journalismcourses.org/course/data-journalism-and-visualization-with-free-tools/) - 🎓
-* [**Data Visualization for Storytelling and Discovery**](https://journalismcourses.org/course/data-visualization-for-storytelling-and-discovery/) - 🎓
-* [**How to embed visualizations in power point**](https://academy.datawrapper.de/article/269-how-to-embed-visualizations-in-powerpoint-presentations)
-* [**Fundamentals of Data Visualization**](https://clauswilke.com/dataviz/)
+* [**Data Visualization with D3.js - Full Tutorial Course**](https://www.youtube.com/watch?v=_8V5o2UHG0E&list=WL&index=101&t=39244s) by **FreeCodeCamp** - 🎓📺
+* [**Your friendly guide to colors in Data Visualisation**](https://blog.datawrapper.de/colorguide/) by **Lisa Charlotte Muth**
+* [**Data Journalism and Visualization with free tools**](https://journalismcourses.org/course/data-journalism-and-visualization-with-free-tools/) by **Knight Center** - 🎓
+* [**Data Visualization for Storytelling and Discovery**](https://journalismcourses.org/course/data-visualization-for-storytelling-and-discovery/) by **Knight Center** - 🎓
+* [**How to embed visualizations in power point**](https://academy.datawrapper.de/article/269-how-to-embed-visualizations-in-powerpoint-presentations) by **Datawrapper**
+* [**Fundamentals of Data Visualization**](https://clauswilke.com/dataviz/) by **Claus O. Wilke**
 - :es: - [**R para DataViz**](https://rdataviz.luzfrias.com/) by **Luz Frias**
 
 </details>
@@ -405,18 +401,17 @@ This repository gathers different interesting resources about GIS, Data Science,
 <details>
   <summary><b>Other</b> </summary>
   
-* [**Public APIs**](https://github.com/public-apis/public-apis) - Github Repo
-* :es: - [**Crear Sección Transversal 3D con Inkscape**](https://geoinnova.org/blog-territorio/como-crear-una-seccion-transversal-3d-fotorrealista-con-inkscape/amp/#click=https://t.co/vEtYB7cYD4)
-* [**Open Source Software for Preprocessing GIS Data for Hydrological Models**](https://ocw.un-ihe.org/course/view.php?id=11&section=0)
-* [**GIS IN SUSTAINABLE URBAN PLANNING AND MANAGEMENT: A GLOBAL PERSPECTIVE**](https://www.itc.nl/urbangis/)
-* [**Portable Open Source GIS**](https://www.archaeogeek.com/blog/portable-gis-6-dot-0/)
-* [**Collection of cities scripts that can be added to roads**](https://github.com/anvaka/city-script) - Github
-* [**Programming Interview Questions (All languages)**](https://github.com/MaximAbramchuck/awesome-interview-questions) - Github Repo
-* [**Serverless Stack - Free Step by Step Tutorials for creating full-stack apps**](https://serverless-stack.com/)
-* [**How to write an essay well**](https://www.julian.com/guide/write/intro)
-* [**High-Res 3D Human Digitization from a single image**](https://github.com/facebookresearch/pifuhd) - Github Repo
-* [**Geopois - GIS Developer Network**](https://geopois.com/developer-network)
-* :es: - [**Apuntes de Topografía**](https://topografia2.com/apuntes-topografia/)
-* [**All things around maps**](https://github.com/ThomasG77/all-things-around-maps/) - Github Repo
+* [**Public APIs**](https://github.com/public-apis/public-apis) by **public-apis** - Github Repo
+* :es: - [**Crear Sección Transversal 3D con Inkscape**](https://geoinnova.org/blog-territorio/como-crear-una-seccion-transversal-3d-fotorrealista-con-inkscape/amp/#click=https://t.co/vEtYB7cYD4) by **GeoInnova**
+* [**GIS IN SUSTAINABLE URBAN PLANNING AND MANAGEMENT: A GLOBAL PERSPECTIVE**](https://www.itc.nl/urbangis/) by **ITC**
+* [**Portable Open Source GIS**](https://www.archaeogeek.com/blog/portable-gis-6-dot-0/) by **Archaeogeek**
+* [**Collection of cities scripts that can be added to roads**](https://github.com/anvaka/city-script) by **anvaka** - Github Repo
+* [**Programming Interview Questions (All languages)**](https://github.com/MaximAbramchuck/awesome-interview-questions) by **DopplerHQ** - Github Repo
+* [**Serverless Stack - Free Step by Step Tutorials for creating full-stack apps**](https://serverless-stack.com/) by **SST**
+* [**How to write an essay well**](https://www.julian.com/guide/write/intro) by **Julian Shapiro**
+* [**High-Res 3D Human Digitization from a single image**](https://github.com/facebookresearch/pifuhd) by **facebookresearch** - Github Repo
+* :es: - [**Apuntes de Topografía**](https://topografia2.com/apuntes-topografia/) by **Villamandos** 
+* [**All things around maps**](https://github.com/ThomasG77/all-things-around-maps/) by **ThomasG77** - Github Repo
+* [**Humanitarian OpenStreetMap**](https://tasks.hotosm.org/)
 
 </details>
